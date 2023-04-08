@@ -1,0 +1,8 @@
+[2022-01-05 10:57:00] Login ip check -> Player: abc, IP: 103.141.159.107, Serial: 78B53A5E3CF1F0BE6BF334083BF476F2, Version: 345, Country: PK, Hostname: none, City: Rawalpindi, Loc: 33.4923,73.0480, Org: AS139351 AERO COMMUNICATIONS BROADBAND PVT. LTD
+[2022-01-05 10:57:42] Login deny (country) -> Player: abc, IP: 103.141.159.107, Serial: 78B53A5E3CF1F0BE6BF334083BF476F2, Version: 345
+[2022-01-05 10:57:47] Login deny (country) -> Player: abc, IP: 103.141.159.107, Serial: 78B53A5E3CF1F0BE6BF334083BF476F2, Version: 345
+[2022-01-05 10:57:51] Login deny (country) -> Player: abc, IP: 103.141.159.107, Serial: 78B53A5E3CF1F0BE6BF334083BF476F2, Version: 345
+[2022-01-05 18:50:07] Login ip check -> Player: Mohamed_Najjar, IP: 102.45.145.107, Serial: 86CB082CC61899BA25EB958FA5CF4CF3, Version: 345, Country: EG, Hostname: host-102.45.145.107.tedata.net, City: Cairo, Loc: 30.0626,31.2497, Org: AS8452 TE-AS
+[2022-01-05 18:58:19] Login ip check -> Player: WhimsicalGondola18, IP: 105.196.83.113, Serial: A94E26458016377D7A833F789D3C8F04, Version: 345, Country: EG, Hostname: none, City: Cairo, Loc: 30.0626,31.2497, Org: AS24835 Vodafone Data
+[2022-01-05 18:59:19] Login deny (country) -> Player: WhimsicalGondola18, IP: 105.196.83.113, Serial: A94E26458016377D7A833F789D3C8F04, Version: 345
+[2022-01-05 18:59:28] Login deny (country) -> Player: WhimsicalGondola18, IP: 105.196.83.113, Serial: A94E26458016377D7A833F789D3C8F04, Version: 345

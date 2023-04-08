@@ -1,0 +1,85 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="async/global.lua" type="shared" cache="true"></script>
+    <script src="load/server.lua" type="server" cache="true"></script>
+    <script src="load/client.lua" type="client" cache="true"></script>
+    <script src="save/server.lua" type="server" cache="true"></script>
+    <script src="save/client.lua" type="client" cache="true"></script>
+    <script src="temporary/temporaryS.lua" type="server" cache="true"></script>
+    <script src="temporary/temporaryC.lua" type="client" cache="true"></script>
+    <script src="commands/playerS.lua" type="server" cache="true"></script>
+    <script src="commands/playerC.lua" type="client" cache="true"></script>
+    <script src="commands/adminS.lua" type="server" cache="true"></script>
+    <script src="commands/adminC.lua" type="client" cache="true"></script>
+    <script src="functions/openS.lua" type="server" cache="true"></script>
+    <script src="functions/openC.lua" type="client" cache="true"></script>
+    <script src="functions/lockS.lua" type="server" cache="true"></script>
+    <script src="functions/lockC.lua" type="client" cache="true"></script>
+    <script src="functions/lightS.lua" type="server" cache="true"></script>
+    <script src="functions/lightC.lua" type="client" cache="true"></script>
+    <script src="functions/vehicleDamageS.lua" type="server" cache="true"></script>
+    <script src="functions/vehicleDamageC.lua" type="client" cache="true"></script>
+    <script src="functions/odometerS.lua" type="server" cache="true"></script>
+    <script src="functions/odometerC.lua" type="client" cache="true"></script>
+    <script src="functions/plateS.lua" type="server" cache="true"></script>
+    <script src="functions/plateC.lua" type="client" cache="true"></script>
+    <script src="functions/protectC.lua" type="client" cache="true"></script>
+    <script src="functions/protectS.lua" type="server" cache="true"></script>
+    <script src="functions/chassisS.lua" type="server" cache="true"></script>
+    <script src="functions/chassisC.lua" type="client" cache="true"></script>
+    <script src="functions/fuelS.lua" type="server" cache="true"></script>
+    <script src="functions/fuelC.lua" type="client" cache="true"></script>
+    <script src="functions/beltS.lua" type="server" cache="true"></script>
+    <script src="functions/beltC.lua" type="client" cache="true"></script>
+    <script src="functions/windowS.lua" type="server" cache="true"></script>
+    <script src="functions/windowC.lua" type="client" cache="true"></script>
+    <script src="functions/startS.lua" type="server" cache="true"></script>
+    <script src="functions/startC.lua" type="client" cache="true"></script>
+    <script src="functions/doorS.lua" type="server" cache="true"></script>
+    <script src="functions/doorC.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="assets/sounds/engine.mp3"></file>
+    <file src="assets/sounds/enginestart.mp3"></file>
+    <file src="assets/sounds/engineoff.mp3"></file>
+    <file src="assets/sounds/lockin.mp3"></file>
+    <file src="assets/sounds/lock.mp3"></file>
+    <file src="assets/sounds/light.mp3"></file>
+    <file src="assets/sounds/belt.mp3"></file>
+    <file src="assets/sounds/beltin.mp3"></file>
+    <file src="assets/sounds/beltout.mp3"></file>
+    <file src="assets/sounds/fanbelt1.mp3"></file>
+    <file src="assets/sounds/fanbelt2.mp3"></file>
+    <file src="assets/sounds/backfire.mp3"></file>
+    <file src="assets/sounds/gearbox.mp3"></file>
+    <file src="assets/sounds/warning.mp3"></file>
+    <file src="assets/sounds/window.mp3"></file>
+    <file src="assets/images/plate.png"></file>
+    <file src="assets/images/bg.png"></file>
+    <file src="assets/images/info.png"></file>
+    <file src="assets/images/slider-off.png"></file>
+    <file src="assets/images/slider-on.png"></file>
+    <file src="assets/textures/texture.fx"></file>
+    <export function="convertTemporaryType" type="shared"></export>
+    <export function="getVehicleCounts" type="client"></export>
+    <export function="getClosestVehicle" type="shared"></export>
+    <export function="temporaryTitles" type="shared"></export>
+    <export function="getVehicleName" type="shared"></export>
+    <export function="getVehicleConsumption" type="shared"></export>
+    <export function="isWindowableVeh" type="shared"></export>
+    <export function="getVehicleMaxFuel" type="shared"></export>
+    <export function="getMaxFuel" type="shared"></export>
+    <export function="findVehicle" type="shared"></export>
+    <export function="getVehicleSpeed" type="shared"></export>
+    <export function="deleteVehicle" type="server"></export>
+    <export function="makeVehicle" type="shared"></export>
+    <export function="makeTemporaryVehicle" type="server"></export>
+    <export function="destroyTemporaryVehicle" type="server"></export>
+    <export function="getPlayerVehicles" type="server"></export>
+    <export function="getVehicleByID" type="server"></export>
+    <export function="getFactionVehicleCount" type="server"></export>
+    <export function="addVehicleToPlayer" type="server"></export>
+    <export function="removeVehicleFromPlayer" type="server"></export>
+    <export function="triggerVehicleLock" type="shared"></export>
+    <download_priority_group>-29</download_priority_group>
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.casescript" type="client" cache="false"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="files/transparent.png"></file>
+    <file src="files/texchanger.fx"></file>
+    <download_priority_group>-114</download_priority_group>
+</meta>

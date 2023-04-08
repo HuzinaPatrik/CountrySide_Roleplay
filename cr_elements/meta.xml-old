@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <export function="createVehicle" type="shared"></export>
+    <export function="createMarker" type="shared"></export>
+    <export function="createPickup" type="shared"></export>
+    <export function="createPed" type="shared"></export>
+    <export function="createObject" type="shared"></export>
+    <export function="getVehicleByID" type="shared"></export>
+    <export function="getMarkerByID" type="shared"></export>
+    <export function="getPickupByID" type="shared"></export>
+    <export function="getPedByID" type="shared"></export>
+    <export function="getObjectByID" type="shared"></export>
+    <download_priority_group>-65</download_priority_group>
+</meta>

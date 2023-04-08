@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <object id="object (DockBarr1_LA) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="3578" scale="1" doublesided="false" collisions="true" frozen="true" posX="1685.9" posY="414.10001" posZ="30.3" rotX="0" rotY="0" rotZ="160"></object>
+    <object id="object (DockBarr1_LA) (4)" breakable="false" interior="0" alpha="255" dimension="0" model="3578" scale="1" doublesided="false" collisions="true" frozen="true" posX="237.7998" posY="1711.83801" posZ="403.47031" rotX="0.115" rotY="359.127" rotZ="337.288"></object>
+    <object id="object (DockBarr1_LA) (5)" breakable="false" interior="0" alpha="255" dimension="0" model="3578" scale="1" doublesided="false" collisions="true" frozen="true" posX="1695.5" posY="410.60001" posZ="30.3" rotX="0" rotY="0" rotZ="159.999"></object>
+    <object id="object (DockBarr1_LA) (6)" breakable="false" interior="0" alpha="255" dimension="0" model="3578" scale="1" doublesided="false" collisions="true" frozen="true" posX="1705.1" posY="407.10001" posZ="30.3" rotX="0" rotY="0" rotZ="159.999"></object>
+    <object id="object (DockBarr1_LA) (7)" breakable="false" interior="0" alpha="255" dimension="0" model="3578" scale="1" doublesided="false" collisions="true" frozen="true" posX="1712.9" posY="404.20001" posZ="30.3" rotX="0" rotY="0" rotZ="159.499"></object>
+</map>

@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <script src="async/global.lua" type="shared" />
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" />
+    
+    <export function="addLog" type="shared" />
+    <export function="createLog" type="shared" />
+    <export function="clearLog" type="shared" />
+    <export function="deleteLog" type="shared" />
+    <export function="getLog" type="server" />
+</meta>

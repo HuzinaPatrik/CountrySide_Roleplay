@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.casescript" type="client" cache="true"></script>
+    <script src="server.casescript" type="server" cache="true"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="files/doorclose.mp3"></file>
+    <file src="files/dooropen.mp3"></file>
+    <download_priority_group>-47</download_priority_group>
+</meta>

@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="files/1.png"></file>
+    <file src="files/2.png"></file>
+    <file src="files/3.png"></file>
+    <file src="files/4.png"></file>
+    <file src="files/5.png"></file>
+    <file src="files/6.png"></file>
+    <file src="files/7.png"></file>
+    <file src="files/8.png"></file>
+    <file src="files/9.png"></file>
+    <file src="files/damage.png"></file>
+    <download_priority_group>-57</download_priority_group>
+</meta>

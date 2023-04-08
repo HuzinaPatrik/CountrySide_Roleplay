@@ -1,0 +1,23 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="ipb/server.lua" type="server" cache="true"></script>
+    <script src="ipb/client.lua" type="client" cache="true"></script>
+    <script src="stat/server.lua" type="server" cache="true"></script>
+    <script src="stat/client.lua" type="client" cache="true"></script>
+    <script src="hook/server.lua" type="server" cache="true"></script>
+    <script src="hook/client.lua" type="client" cache="true"></script>
+    <script src="performance/server.lua" type="server" cache="true"></script>
+    <script src="performance/client.lua" type="client" cache="true"></script>
+    <script src="tex_names/client.lua" type="client" cache="true"></script>
+    <script src="runcode/client.lua" type="client" cache="true"></script>
+    <script src="runcode/server.lua" type="server" cache="true"></script>
+    <script src="exportlist/client.lua" type="client" cache="true"></script>
+    <script src="exportlist/server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="tex_names/tex_names.fx"></file>
+    <export function="runCleanup" type="server"></export>
+    <download_priority_group>-61</download_priority_group>
+</meta>

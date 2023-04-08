@@ -1,0 +1,29 @@
+<meta>
+    <oop>true</oop>
+    <script src="async/global.lua" type="shared" cache="true"></script>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="bar/client.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <script src="commands/server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="files/images/tablet.png"></file>
+    <file src="files/images/rot.png"></file>
+    <file src="files/images/username.png"></file>
+    <file src="files/images/password.png"></file>
+    <file src="files/images/unitnr.png"></file>
+    <file src="files/images/circle.png"></file>
+    <file src="files/images/search.png"></file>
+    <file src="files/images/logos/pd.png"></file>
+    <file src="files/images/log.png"></file>
+    <file src="files/images/admin.png"></file>
+    <file src="files/images/book.png"></file>
+    <file src="files/images/quit.png"></file>
+    <file src="files/images/check.png"></file>
+    <file src="files/images/trash_hover.png"></file>
+    <file src="files/images/trash_nohover.png"></file>
+    <export function="getAllowedVehicles" type="shared"></export>
+    <export function="getWantedVehicles" type="server"></export>
+    <export function="getWantedPersons" type="server"></export>
+    <download_priority_group>-90</download_priority_group>
+</meta>

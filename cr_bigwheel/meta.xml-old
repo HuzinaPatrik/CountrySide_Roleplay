@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="server.casescript" type="server" cache="false"></script>
+    <script src="global.casescript" type="server" cache="false"></script>
+    <script src="client.casescript" type="client" cache="false"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="fcabin.col"></file>
+    <download_priority_group>-39</download_priority_group>
+</meta>

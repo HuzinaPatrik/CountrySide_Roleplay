@@ -1,0 +1,47 @@
+{
+    "resourcePrefix": "cr_",
+
+    "enableScriptCache": true,
+    "enableShaderCache": false,
+
+    "enableCompilation": true,
+    "enablePathEncrypt": true,
+    "enableExportEncrypt": false,
+
+    "enableReadmeFiles": true,
+
+    "only": [
+        // "dpCore",
+        // "dpGarage",
+        // "dpShared",
+        // "dpCarshop",
+        // "dpDamage",
+        // "dpLang",
+        // "dpAdmin",
+        //"cr_faction",
+        // "dpModeratorPanel",
+    ],
+
+    "include": [],
+
+    "pathEncryptExclude": [
+        "mta-helper.fx",
+        "tex_matrix.fx",
+        "light1.fx",
+        "light0.fx",
+        "common.fx",
+        ".json",
+        ".txt",
+        ".ttf",
+        ".png",
+        ".map",
+        "files",
+        "@",
+        "api",
+        "html",
+        "serials.json",
+        ".log",
+        "http://",
+        "https://",
+    ]
+}

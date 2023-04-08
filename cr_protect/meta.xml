@@ -1,0 +1,10 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.casescript" type="client" cache="false"></script>
+    <script src="global.casescript" type="shared" cache="false"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <export function="getTriggerName" type="shared"></export>
+    <file src="readme.txt" readme="true"></file>
+    <download_priority_group>-1</download_priority_group>
+</meta>

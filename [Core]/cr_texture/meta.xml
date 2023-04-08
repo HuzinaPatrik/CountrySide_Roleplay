@@ -1,0 +1,39 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="files/cj_sprunk_front.png"></file>
+    <file src="files/book.png"></file>
+    <file src="files/chillidog_sign.png"></file>
+    <file src="files/coronastar.png"></file>
+    <file src="files/iceysign.png"></file>
+    <file src="files/iceyside.png"></file>
+    <file src="files/redwhite_stripe.png"></file>
+    <file src="files/fam3-1.png"></file>
+    <file src="files/fam3-2.png"></file>
+    <file src="files/bigsprunkcan.png"></file>
+    <file src="files/sprunk_temp.png"></file>
+    <file src="files/bloodpool_64.png"></file>
+    <file src="files/bubbles.png"></file>
+    <file src="files/fireball6.png"></file>
+    <file src="files/smoke.png"></file>
+    <file src="files/smokeII_3.png"></file>
+    <file src="files/vehiclelights128.png"></file>
+    <file src="files/vehiclelightson128.png"></file>
+    <file src="files/vehicleshatter128.png"></file>
+    <file src="files/lamp_shad_64.png"></file>
+    <file src="files/headlight.png"></file>
+    <file src="files/headlight1.png"></file>
+    <file src="files/particleskid.png"></file>
+    <file src="files/carparkwall1_256.png"></file>
+    <file src="files/cj_slatedwood2.png"></file>
+    <file src="files/cj_flag1.png"></file>
+    <file src="files/shortsMOB.png"></file>
+    <file src="files/hmogar.png"></file>
+    <file src="files/WMYBE.png"></file>
+    <file src="files/replace.fx"></file>
+    <download_priority_group>-129</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

@@ -1,0 +1,3 @@
+[2020-06-21 07:27:51] Login ip check -> Player: CLAP, IP: 186.90.213.246, Serial: 7549C0823DFFA0E922C836A3D12AA3B2, Version: 343, Country: VE, Hostname: 186-90-213-246.genericrev.cantv.net, City: Ciudad Guayana, Loc: 8.3512,-62.6410, Org: AS8048 CANTV Servicios, Venezuela
+[2020-06-21 07:30:05] Login deny (country) -> Player: CLAP, IP: 186.90.213.246, Serial: 7549C0823DFFA0E922C836A3D12AA3B2, Version: 343
+[2020-06-21 14:52:00] Login deny (country) -> Player: CLAP, IP: 186.90.213.246, Serial: 7549C0823DFFA0E922C836A3D12AA3B2, Version: 343

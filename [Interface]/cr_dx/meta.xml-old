@@ -1,0 +1,42 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="shared" cache="true"></script>
+    <script src="tooltip/client.lua" type="client" cache="true"></script>
+    <script src="fade/client.lua" type="client" cache="true"></script>
+    <script src="logo/client.lua" type="client" cache="true"></script>
+    <script src="icons/client.lua" type="client" cache="true"></script>
+    <script src="infobar/client.lua" type="client" cache="true"></script>
+    <script src="informations/client.lua" type="client" cache="true"></script>
+    <script src="progressbar/client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <export function="dxDrawImageAsTexture" type="client"></export>
+    <export function="getTexture" type="client"></export>
+    <export function="startProgressBar" type="client"></export>
+    <export function="setProgressBarData" type="client"></export>
+    <export function="resetProgressBar" type="client"></export>
+    <export function="endProgressBar" type="client"></export>
+    <export function="isProgressBarActive" type="client"></export>
+    <export function="startInfoBar" type="client"></export>
+    <export function="closeInfoBar" type="client"></export>
+    <export function="setInfoBarText" type="client"></export>
+    <export function="drawTooltip" type="client"></export>
+    <export function="createLogoAnimation" type="client"></export>
+    <export function="openInformationsPanel" type="client"></export>
+    <export function="closeInformationsPanel" type="client"></export>
+    <export function="updateLogoPos" type="client"></export>
+    <export function="getLogoPosition" type="client"></export>
+    <export function="stopLogoAnimation" type="client"></export>
+    <export function="formatMoney" type="client"></export>
+    <export function="startFade" type="client"></export>
+    <export function="getFade" type="client"></export>
+    <export function="formatMoney" type="shared"></export>
+    <export function="dxDrawTextAwesome" type="shared"></export>
+    <export function="dxDrawImageWithText" type="shared"></export>
+    <export function="getAwesomeTextStartPosition" type="shared"></export>
+    <export function="getAwesomeTextWidth" type="shared"></export>
+    <export function="getAwesomeTextHeight" type="shared"></export>
+    <export function="getAwesomeImageStartPosition" type="shared"></export>
+    <export function="getAwesomeImageWidth" type="shared"></export>
+    <export function="getAwesomeImageHeight" type="shared"></export>
+    <download_priority_group>-18</download_priority_group>
+</meta>

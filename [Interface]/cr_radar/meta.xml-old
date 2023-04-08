@@ -1,0 +1,136 @@
+<meta>
+    <oop>true</oop>
+    <script src="sourceC.lua" type="client" cache="true"></script>
+    <script src="c_blips.lua" type="client" cache="true"></script>
+    <script src="c_3d.lua" type="client" cache="true"></script>
+    <script src="gps/sourceC.lua" type="client" cache="true"></script>
+    <script src="gps/vehicleNodes.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="assets/images/lostConnection.png"></file>
+    <file src="assets/images/map.png"></file>
+    <file src="assets/images/player.png"></file>
+    <file src="assets/images/design/glow.png"></file>
+    <file src="assets/images/design/cross.png"></file>
+    <file src="assets/images/design/location.png"></file>
+    <file src="assets/images/design/vignetta.png"></file>
+    <file src="assets/images/design/checkbox-outline.png"></file>
+    <file src="assets/images/design/checkbox.png"></file>
+    <file src="assets/images/design/footer.png"></file>
+    <file src="assets/images/design/blips-icon.png"></file>
+    <file src="assets/images/design/blips-icon-back.png"></file>
+    <file src="assets/images/design/settings-icon.png"></file>
+    <file src="assets/images/design/settings-checkbox-deactive.png"></file>
+    <file src="assets/images/design/settings-checkbox-active.png"></file>
+    <file src="assets/images/blips/air_repair.png"></file>
+    <file src="assets/images/blips/airport.png"></file>
+    <file src="assets/images/blips/arrow.png"></file>
+    <file src="assets/images/blips/bank.png"></file>
+    <file src="assets/images/blips/boat_repair.png"></file>
+    <file src="assets/images/blips/boat_shop.png"></file>
+    <file src="assets/images/blips/speedcam.png"></file>
+    <file src="assets/images/blips/border_crossing.png"></file>
+    <file src="assets/images/blips/car_destroyer.png"></file>
+    <file src="assets/images/blips/car_repair.png"></file>
+    <file src="assets/images/blips/car_shop.png"></file>
+    <file src="assets/images/blips/car_wash.png"></file>
+    <file src="assets/images/blips/casino.png"></file>
+    <file src="assets/images/blips/casinoNew.png"></file>
+    <file src="assets/images/blips/cel.png"></file>
+    <file src="assets/images/blips/cinema.png"></file>
+    <file src="assets/images/blips/driver.png"></file>
+    <file src="assets/images/blips/city_hall.png"></file>
+    <file src="assets/images/blips/close.png"></file>
+    <file src="assets/images/blips/clothes_shop.png"></file>
+    <file src="assets/images/blips/disco.png"></file>
+    <file src="assets/images/blips/driving_license.png"></file>
+    <file src="assets/images/blips/furniture_shop.png"></file>
+    <file src="assets/images/blips/fishing.png"></file>
+    <file src="assets/images/blips/gas_station.png"></file>
+    <file src="assets/images/blips/golf.png"></file>
+    <file src="assets/images/blips/gym.png"></file>
+    <file src="assets/images/blips/hospital.png"></file>
+    <file src="assets/images/blips/house.png"></file>
+    <file src="assets/images/blips/butcher.png"></file>
+    <file src="assets/images/blips/garage.png"></file>
+    <file src="assets/images/blips/hunting_down.png"></file>
+    <file src="assets/images/blips/hunting_ground.png"></file>
+    <file src="assets/images/blips/job.png"></file>
+    <file src="assets/images/blips/job_vehicle.png"></file>
+    <file src="assets/images/blips/kek.png"></file>
+    <file src="assets/images/blips/pizza.png"></file>
+    <file src="assets/images/blips/rent.png"></file>
+    <file src="assets/images/blips/bikerent.png"></file>
+    <file src="assets/images/blips/mark.png"></file>
+    <file src="assets/images/blips/mark_1.png"></file>
+    <file src="assets/images/blips/mark_2.png"></file>
+    <file src="assets/images/blips/mark_3.png"></file>
+    <file src="assets/images/blips/mark_4.png"></file>
+    <file src="assets/images/blips/north.png"></file>
+    <file src="assets/images/blips/pet_shop.png"></file>
+    <file src="assets/images/blips/piros.png"></file>
+    <file src="assets/images/blips/player.png"></file>
+    <file src="assets/images/blips/hobby.png"></file>
+    <file src="assets/images/blips/police_hq.png"></file>
+    <file src="assets/images/blips/port.png"></file>
+    <file src="assets/images/blips/racingtrack.png"></file>
+    <file src="assets/images/blips/sarga.png"></file>
+    <file src="assets/images/blips/shop.png"></file>
+    <file src="assets/images/blips/shopping_mall.png"></file>
+    <file src="assets/images/blips/target.png"></file>
+    <file src="assets/images/blips/taxi.png"></file>
+    <file src="assets/images/blips/tuning_workshop.png"></file>
+    <file src="assets/images/blips/vehicle.png"></file>
+    <file src="assets/images/blips/weapon_shop.png"></file>
+    <file src="assets/images/blips/zold.png"></file>
+    <file src="assets/images/blips/sheriff_hq.png"></file>
+    <file src="assets/images/blips/hotdog.png"></file>
+    <file src="assets/images/gps/right.png"></file>
+    <file src="assets/images/gps/refresh.png"></file>
+    <file src="assets/images/gps/left.png"></file>
+    <file src="assets/images/gps/forward.png"></file>
+    <file src="assets/images/gps/finish.png"></file>
+    <file src="assets/images/gps/circleout.png"></file>
+    <file src="assets/images/gps/circlein.png"></file>
+    <file src="assets/images/gps/around.png"></file>
+    <file src="gps/sounds/1/50.mp3"></file>
+    <file src="gps/sounds/1/200.mp3"></file>
+    <file src="gps/sounds/1/500.mp3"></file>
+    <file src="gps/sounds/1/1000.mp3"></file>
+    <file src="gps/sounds/1/balra.mp3"></file>
+    <file src="gps/sounds/1/ding.mp3"></file>
+    <file src="gps/sounds/1/egyenes.mp3"></file>
+    <file src="gps/sounds/1/finish.mp3"></file>
+    <file src="gps/sounds/1/forduljvissza.mp3"></file>
+    <file src="gps/sounds/1/hello.mp3"></file>
+    <file src="gps/sounds/1/jobbra.mp3"></file>
+    <file src="gps/sounds/1/majd.mp3"></file>
+    <file src="gps/sounds/1/masikuticel.mp3"></file>
+    <file src="gps/sounds/1/menj.mp3"></file>
+    <file src="gps/sounds/1/metert.mp3"></file>
+    <file src="gps/sounds/1/nincskapcs.mp3"></file>
+    <file src="gps/sounds/1/ujratervezes.mp3"></file>
+    <file src="gps/sounds/1/uticel.mp3"></file>
+    <file src="gps/sounds/2/50.mp3"></file>
+    <file src="gps/sounds/2/200.mp3"></file>
+    <file src="gps/sounds/2/500.mp3"></file>
+    <file src="gps/sounds/2/1000.mp3"></file>
+    <file src="gps/sounds/2/balra.mp3"></file>
+    <file src="gps/sounds/2/ding.mp3"></file>
+    <file src="gps/sounds/2/egyenes.mp3"></file>
+    <file src="gps/sounds/2/finish.mp3"></file>
+    <file src="gps/sounds/2/forduljvissza.mp3"></file>
+    <file src="gps/sounds/2/hello.mp3"></file>
+    <file src="gps/sounds/2/jobbra.mp3"></file>
+    <file src="gps/sounds/2/majd.mp3"></file>
+    <file src="gps/sounds/2/masikuticel.mp3"></file>
+    <file src="gps/sounds/2/menj.mp3"></file>
+    <file src="gps/sounds/2/metert.mp3"></file>
+    <file src="gps/sounds/2/nincskapcs.mp3"></file>
+    <file src="gps/sounds/2/ujratervezes.mp3"></file>
+    <file src="gps/sounds/2/uticel.mp3"></file>
+    <export function="setGPSDestination" type="client"></export>
+    <export function="createStayBlip" type="client"></export>
+    <export function="destroyStayBlip" type="client"></export>
+    <export function="toggle3DBlip" type="client"></export>
+    <download_priority_group>-14</download_priority_group>
+</meta>

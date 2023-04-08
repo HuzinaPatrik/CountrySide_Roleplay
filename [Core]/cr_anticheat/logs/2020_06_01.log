@@ -1,0 +1,4 @@
+[2020-06-01 16:17:47] Login ip check -> Player: Pereira, IP: 188.80.140.231, Serial: C278207149837DA06CE4C0823B3D0BE4, Version: 343, Country: PT, Hostname: bl15-140-231.dsl.telepac.pt, City: Guimarães, Loc: 41.4444,-8.2962, Org: AS3243 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+[2020-06-01 16:17:52] Login deny (country) -> Player: Pereira, IP: 188.80.140.231, Serial: C278207149837DA06CE4C0823B3D0BE4, Version: 343
+[2020-06-01 16:18:08] Login deny (country) -> Player: Pereira, IP: 188.80.140.231, Serial: C278207149837DA06CE4C0823B3D0BE4, Version: 343
+[2020-06-01 16:54:36] Login ip check -> Player: AMG, IP: 196.53.19.27, Serial: DC2B9F8B5DE4F07E66A9FBEE3A9B6684, Version: 343, Country: KN, Hostname: none, City: Basseterre, Loc: 17.2955,-62.7250, Org: AS36290 The Cable of St. Kitts

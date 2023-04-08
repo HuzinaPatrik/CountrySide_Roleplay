@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="assets/images/delete.png"></file>
+    <file src="assets/images/resize.png"></file>
+    <download_priority_group>-102</download_priority_group>
+</meta>

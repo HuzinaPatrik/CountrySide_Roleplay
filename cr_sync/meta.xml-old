@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="syncC.lua" type="client" cache="true"></script>
+    <script src="syncS.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <export function="getTemperature" type="server"></export>
+    <download_priority_group>-126</download_priority_group>
+</meta>

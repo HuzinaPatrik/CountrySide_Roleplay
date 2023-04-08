@@ -1,0 +1,5 @@
+<meta>
+    <file src="vehicles/BMW_M3/tuning/rf_a_u.countrydff"></file>
+    <script src="global.lua" type="shared" cache="false"></script>
+    <script src="client.lua" type="client" cache="false"></script>
+</meta>

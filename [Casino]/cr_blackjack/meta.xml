@@ -1,0 +1,85 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="global.countryscript" type="shared" cache="true"></script>
+    <script src="async/global.countryscript" type="shared" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <script src="table/client.countryscript" type="client" cache="true"></script>
+    <script src="server.countryscript" type="server" cache="true"></script>
+    <script src="table/server.countryscript" type="server" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="files/images/logo.png"></file>
+    <file src="files/images/plus_bg.png"></file>
+    <file src="files/images/close.png"></file>
+    <file src="files/images/bg_middle.png"></file>
+    <file src="files/images/plus_bg_active.png"></file>
+    <file src="files/images/minus_bg.png"></file>
+    <file src="files/images/minus_bg_active.png"></file>
+    <file src="files/images/table.png"></file>
+    <file src="files/images/double.png"></file>
+    <file src="files/images/hit.png"></file>
+    <file src="files/images/stand.png"></file>
+    <file src="files/images/roundedcorner.png"></file>
+    <file src="files/images/coins/1.png"></file>
+    <file src="files/images/coins/5.png"></file>
+    <file src="files/images/coins/10.png"></file>
+    <file src="files/images/coins/50.png"></file>
+    <file src="files/images/coins/100.png"></file>
+    <file src="files/images/coins/500.png"></file>
+    <file src="files/images/cards/back.png"></file>
+    <file src="files/images/cards/2C.png"></file>
+    <file src="files/images/cards/2D.png"></file>
+    <file src="files/images/cards/2H.png"></file>
+    <file src="files/images/cards/2S.png"></file>
+    <file src="files/images/cards/3C.png"></file>
+    <file src="files/images/cards/3D.png"></file>
+    <file src="files/images/cards/3H.png"></file>
+    <file src="files/images/cards/3S.png"></file>
+    <file src="files/images/cards/4C.png"></file>
+    <file src="files/images/cards/4D.png"></file>
+    <file src="files/images/cards/4H.png"></file>
+    <file src="files/images/cards/4S.png"></file>
+    <file src="files/images/cards/5C.png"></file>
+    <file src="files/images/cards/5D.png"></file>
+    <file src="files/images/cards/5H.png"></file>
+    <file src="files/images/cards/5S.png"></file>
+    <file src="files/images/cards/6C.png"></file>
+    <file src="files/images/cards/6D.png"></file>
+    <file src="files/images/cards/6H.png"></file>
+    <file src="files/images/cards/6S.png"></file>
+    <file src="files/images/cards/7C.png"></file>
+    <file src="files/images/cards/7D.png"></file>
+    <file src="files/images/cards/7H.png"></file>
+    <file src="files/images/cards/7S.png"></file>
+    <file src="files/images/cards/8C.png"></file>
+    <file src="files/images/cards/8D.png"></file>
+    <file src="files/images/cards/8H.png"></file>
+    <file src="files/images/cards/8S.png"></file>
+    <file src="files/images/cards/9C.png"></file>
+    <file src="files/images/cards/9D.png"></file>
+    <file src="files/images/cards/9H.png"></file>
+    <file src="files/images/cards/9S.png"></file>
+    <file src="files/images/cards/TC.png"></file>
+    <file src="files/images/cards/TD.png"></file>
+    <file src="files/images/cards/TH.png"></file>
+    <file src="files/images/cards/TS.png"></file>
+    <file src="files/images/cards/JC.png"></file>
+    <file src="files/images/cards/JD.png"></file>
+    <file src="files/images/cards/JH.png"></file>
+    <file src="files/images/cards/JS.png"></file>
+    <file src="files/images/cards/KC.png"></file>
+    <file src="files/images/cards/KD.png"></file>
+    <file src="files/images/cards/KH.png"></file>
+    <file src="files/images/cards/KS.png"></file>
+    <file src="files/images/cards/QC.png"></file>
+    <file src="files/images/cards/QD.png"></file>
+    <file src="files/images/cards/QH.png"></file>
+    <file src="files/images/cards/QS.png"></file>
+    <file src="files/images/cards/AC.png"></file>
+    <file src="files/images/cards/AD.png"></file>
+    <file src="files/images/cards/AH.png"></file>
+    <file src="files/images/cards/AS.png"></file>
+    <download_priority_group>-41</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

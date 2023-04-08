@@ -1,0 +1,14 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="shared.countryscript" type="shared" cache="true"></script>
+    <script src="server.countryscript" type="server" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="files/icon-1.png"></file>
+    <file src="files/icon-2.png"></file>
+    <file src="files/icon-3.png"></file>
+    <download_priority_group>-62</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

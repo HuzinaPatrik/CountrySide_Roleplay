@@ -1,0 +1,57 @@
+<meta>
+    <file src="weapons/ak47.txd"></file>
+    <file src="weapons/ak47.countrydff"></file>
+    <file src="weapons/chromegun.txd"></file>
+    <file src="weapons/chromegun.countrydff"></file>
+    <file src="weapons/glock18.txd"></file>
+    <file src="weapons/glock18.countrydff"></file>
+    <file src="weapons/cuntgun.txd"></file>
+    <file src="weapons/cuntgun.countrydff"></file>
+    <file src="weapons/invisibledeagle.txd"></file>
+    <file src="weapons/invisibledeagle.countrydff"></file>
+    <file src="weapons/desert.txd"></file>
+    <file src="weapons/desert.countrydff"></file>
+    <file src="weapons/taser.txd"></file>
+    <file src="weapons/taser.countrydff"></file>
+    <file src="weapons/katana.txd"></file>
+    <file src="weapons/katana.countrydff"></file>
+    <file src="weapons/knifecur.txd"></file>
+    <file src="weapons/knifecur.countrydff"></file>
+    <file src="weapons/m4.txd"></file>
+    <file src="weapons/m4.countrydff"></file>
+    <file src="weapons/micro_uzi.txd"></file>
+    <file src="weapons/micro_uzi.countrydff"></file>
+    <file src="weapons/mp5.txd"></file>
+    <file src="weapons/mp5.countrydff"></file>
+    <file src="weapons/sawnoff.txd"></file>
+    <file src="weapons/sawnoff.countrydff"></file>
+    <file src="weapons/shotgspa.txd"></file>
+    <file src="weapons/shotgspa.countrydff"></file>
+    <file src="weapons/silenced.txd"></file>
+    <file src="weapons/silenced.countrydff"></file>
+    <file src="weapons/sniper.txd"></file>
+    <file src="weapons/sniper.countrydff"></file>
+    <file src="weapons/tec9.txd"></file>
+    <file src="weapons/tec9.countrydff"></file>
+    <file src="weapons/pickaxe.txd"></file>
+    <file src="weapons/pickaxe.countrydff"></file>
+    <file src="weapons/axe.txd"></file>
+    <file src="weapons/axe.countrydff"></file>
+    <file src="weapons/hatchet.txd"></file>
+    <file src="weapons/hatchet.countrydff"></file>
+    <file src="weapons/invisibleshotgun.txd"></file>
+    <file src="weapons/invisibleshotgun.countrydff"></file>
+    <file src="weapons/beanbag.txd"></file>
+    <file src="weapons/beanbag.countrydff"></file>
+    <file src="masks/bikerhelmet.txd"></file>
+    <file src="masks/bikerhelmet.countrydff"></file>
+    <file src="masks/bikerhelmet.col"></file>
+    <file src="masks/zorro.txd"></file>
+    <file src="masks/zorro.countrydff"></file>
+    <file src="masks/zorro.col"></file>
+    <file src="masks/moto.txd"></file>
+    <file src="masks/moto.countrydff"></file>
+    <file src="masks/moto.col"></file>
+    <script src="global.lua" type="shared" cache="false"></script>
+    <script src="client.lua" type="client" cache="false"></script>
+</meta>

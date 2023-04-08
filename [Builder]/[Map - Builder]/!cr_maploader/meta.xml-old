@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="builtmap.lua" download="false" type="server"></script>
+    <script src="loader.lua" type="server"></script>
+    <script src="loaderC.lua" type="client"></script>
+</meta>

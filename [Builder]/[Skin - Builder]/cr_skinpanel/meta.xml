@@ -1,0 +1,762 @@
+<meta>
+    <!--file src=forrás   modelid="[ [ id, id2, ... ] ]" glassLoad = "true/false"-->
+    
+    <!-- Skins -->
+    
+    <!-- Player skins (312 or below) -->
+    <file src="skins/andre.txd" modelid="301" download="false" />
+    <file src="skins/andre.dff" modelid="301" download="false" />
+    
+    <file src="skins/ballas1.txd" modelid="102" download="false" />
+    <file src="skins/ballas1.dff" modelid="102" download="false" />
+    
+    <file src="skins/ballas2.txd" modelid="103" download="false" />
+    <file src="skins/ballas2.dff" modelid="103" download="false" />
+    
+    <file src="skins/ballas3.txd" modelid="104" download="false" />
+    <file src="skins/ballas3.dff" modelid="104" download="false" />
+    
+    <file src="skins/bb.txd" modelid="308" download="false" />
+    <file src="skins/bb.dff" modelid="308" download="false" />
+    
+    <file src="skins/bbthin.txd" modelid="302" download="false" />
+    <file src="skins/bbthin.dff" modelid="302" download="false" />
+    
+    <file src="skins/bfyri.txd" modelid="12" download="false" />
+    <file src="skins/bfyri.dff" modelid="12" download="false" />
+    
+    <file src="skins/bfyst.txd" modelid="13" download="false" />
+    <file src="skins/bfyst.dff" modelid="13" download="false" />
+    
+    <file src="skins/bikdrug.txd" modelid="254" download="false" />
+    <file src="skins/bikdrug.dff" modelid="254" download="false" />
+    
+    <file src="skins/bikera.txd" modelid="247" download="false" />
+    <file src="skins/bikera.dff" modelid="247" download="false" />
+	
+    <file src="skins/bmobar.txd" modelid="156" download="false" />
+    <file src="skins/bmobar.dff" modelid="156" download="false" />
+    
+    <file src="skins/bmocd.txd" modelid="262" download="false" />
+    <file src="skins/bmocd.dff" modelid="262" download="false" />
+    
+    <file src="skins/bmori.txd" modelid="14" download="false" />
+    <file src="skins/bmori.dff" modelid="14" download="false" />
+    
+    <file src="skins/bmotr1.txd" modelid="79" download="false" />
+    <file src="skins/bmotr1.dff" modelid="79" download="false" />
+    
+    <file src="skins/bmybar.txd" modelid="176" download="false" />
+    <file src="skins/bmybar.dff" modelid="176" download="false" />
+    
+    <file src="skins/bmybe.txd" modelid="18" download="false" />
+    <file src="skins/bmybe.dff" modelid="18" download="false" />
+    
+    <file src="skins/bmyboun.txd" modelid="163" download="false" />
+    <file src="skins/bmyboun.dff" modelid="163" download="false" />
+    
+    <file src="skins/bmybu.txd" modelid="17" download="false" />
+    <file src="skins/bmybu.dff" modelid="17" download="false" />
+    
+    <file src="skins/bmycg.txd" modelid="144" download="false" />
+    <file src="skins/bmycg.dff" modelid="144" download="false" />
+    
+    <file src="skins/bmycr.txd" modelid="21" download="false" />
+    <file src="skins/bmycr.dff" modelid="21" download="false" />
+    
+    <file src="skins/bmydj.txd" modelid="19" download="false" />
+    <file src="skins/bmydj.dff" modelid="19" download="false" />
+    
+    <file src="skins/bmydrug.txd" modelid="28" download="false" />
+    <file src="skins/bmydrug.dff" modelid="28" download="false" />
+    
+    <file src="skins/bmypol1.txd" modelid="66" download="false" />
+    <file src="skins/bmypol1.dff" modelid="66" download="false" />
+    
+    <file src="skins/bmyst.txd" modelid="22" download="false" />
+    <file src="skins/bmyst.dff" modelid="22" download="false" />
+    
+    <file src="skins/bmytatt.txd" modelid="180" download="false" />
+    <file src="skins/bmytatt.dff" modelid="180" download="false" />
+    
+    <file src="skins/cat.txd" modelid="298" download="false" />
+    <file src="skins/cat.dff" modelid="298" download="false" />
+    
+    <file src="skins/cesar.txd" modelid="292" download="false" />
+    <file src="skins/cesar.dff" modelid="292" download="false" />
+    
+    <file src="skins/claude.txd" modelid="299" download="false" />
+    <file src="skins/claude.dff" modelid="299" download="false" />
+    
+    <file src="skins/copgrl3.txd" modelid="190" download="false" />
+    <file src="skins/copgrl3.dff" modelid="190" download="false" />
+    
+    <file src="skins/cwmohb1.txd" modelid="159" download="false" />
+    <file src="skins/cwmohb1.dff" modelid="159" download="false" />
+    
+    <file src="skins/csherna.txd" modelid="310" download="false" />
+    <file src="skins/csherna.dff" modelid="310" download="false" />
+    
+    <file src="skins/dnb1.txd" modelid="121" download="false" />
+    <file src="skins/dnb1.dff" modelid="121" download="false" />
+    
+    <file src="skins/dnb2.txd" modelid="122" download="false" />
+    <file src="skins/dnb2.dff" modelid="122" download="false" />
+    
+    <file src="skins/dnb3.txd" modelid="123" download="false" />
+    <file src="skins/dnb3.dff" modelid="123" download="false" />
+    
+    <file src="skins/dnmolc1.txd" modelid="132" download="false" />
+    <file src="skins/dnmolc1.dff" modelid="132" download="false" />
+    
+    <file src="skins/dnmolc2.txd" modelid="133" download="false" />
+    <file src="skins/dnmolc2.dff" modelid="133" download="false" />
+    
+    <file src="skins/dnmylc.txd" modelid="128" download="false" />
+    <file src="skins/dnmylc.dff" modelid="128" download="false" />
+    
+    <file src="skins/dwayne.txd" modelid="268" download="false" />
+    <file src="skins/dwayne.dff" modelid="268" download="false" />
+    
+    <file src="skins/dwfylc2.txd" modelid="201" download="false" />
+    <file src="skins/dwfylc2.dff" modelid="201" download="false" />
+    
+    <file src="skins/dwmolc1.txd" modelid="32" download="false" />
+    <file src="skins/dwmolc1.dff" modelid="32" download="false" />
+    
+    <file src="skins/dwmylc1.txd" modelid="34" download="false" />
+    <file src="skins/dwmylc1.dff" modelid="34" download="false" />
+    
+    <file src="skins/dwmylc2.txd" modelid="202" download="false" />
+    <file src="skins/dwmylc2.dff" modelid="202" download="false" />
+    
+    <file src="skins/emmet.txd" modelid="312" download="false" />
+    <file src="skins/emmet.dff" modelid="312" download="false" />
+    
+    <file src="skins/fam1.txd" modelid="105" download="false" />
+    <file src="skins/fam1.dff" modelid="105" download="false" />
+    
+    <file src="skins/fam2.txd" modelid="106" download="false" />
+    <file src="skins/fam2.dff" modelid="106" download="false" />
+    
+    <file src="skins/fam3.txd" modelid="107" download="false" />
+    <file src="skins/fam3.dff" modelid="107" download="false" />
+    
+    <file src="skins/forelli.txd" modelid="272" download="false" />
+    <file src="skins/forelli.dff" modelid="272" download="false" />
+    
+    <file src="skins/gangrl3.txd" modelid="195" download="false" />
+    <file src="skins/gangrl3.dff" modelid="195" download="false" />
+    
+    <file src="skins/gungrl3.txd" modelid="191" download="false" />
+    <file src="skins/gungrl3.dff" modelid="191" download="false" />
+    
+    <file src="skins/heck1.txd" modelid="258" download="false" />
+    <file src="skins/heck1.dff" modelid="258" download="false" />
+    
+    <file src="skins/heck2.txd" modelid="159" download="false" />
+    <file src="skins/heck2.dff" modelid="159" download="false" />
+    
+    <file src="skins/hfyri.txd" modelid="40" download="false" />
+    <file src="skins/hfyri.dff" modelid="40" download="false" />
+    
+    <file src="skins/hfyst.txd" modelid="41" download="false" />
+    <file src="skins/hfyst.dff" modelid="41" download="false" />
+    
+    <file src="skins/hmost.txd" modelid="44" download="false" />
+    <file src="skins/hmost.dff" modelid="44" download="false" />
+    
+    <file src="skins/hmybe.txd" modelid="45" download="false" />
+    <file src="skins/hmybe.dff" modelid="45" download="false" />
+    
+    <file src="skins/hmycm.txd" modelid="146" download="false" />
+    <file src="skins/hmycm.dff" modelid="146" download="false" />
+    
+    <file src="skins/hmycr.txd" modelid="204" download="false" />
+    <file src="skins/hmycr.dff" modelid="204" download="false" />
+    
+    <file src="skins/hmydrug.txd" modelid="30" download="false" />
+    <file src="skins/hmydrug.dff" modelid="30" download="false" />
+    
+    <file src="skins/hmyri.txd" modelid="46" download="false" />
+    <file src="skins/hmyri.dff" modelid="46" download="false" />
+    
+    <file src="skins/hmyst.txd" modelid="48" download="false" />
+    <file src="skins/hmyst.dff" modelid="48" download="false" />
+    
+    <file src="skins/jethro.txd" modelid="15" download="false" />
+    <file src="skins/jethro.dff" modelid="15" download="false" />
+    
+    <file src="skins/jizzy.txd" modelid="296" download="false" />
+    <file src="skins/jizzy.dff" modelid="296" download="false" />
+    
+    <file src="skins/kendl.txd" modelid="20" download="false" />
+    <file src="skins/kendl.dff" modelid="20" download="false" />
+    
+    <file src="skins/lapdpc.txd" modelid="303" download="false" />
+    <file src="skins/lapdpc.dff" modelid="303" download="false" />
+    
+    <file src="skins/lapdpd.txd" modelid="304" download="false" />
+    <file src="skins/lapdpd.dff" modelid="304" download="false" />
+    
+    <file src="skins/lsv1.txd" modelid="108" download="false" />
+    <file src="skins/lsv1.dff" modelid="108" download="false" />
+    
+    <file src="skins/lsv2.txd" modelid="109" download="false" />
+    <file src="skins/lsv2.dff" modelid="109" download="false" />
+    
+    <file src="skins/lsv3.txd" modelid="110" download="false" />
+    <file src="skins/lsv3.dff" modelid="110" download="false" />
+    
+    <file src="skins/lvpdna.txd" modelid="302" download="false" />
+    <file src="skins/lvpdna.dff" modelid="302" download="false" />
+    
+    <file src="skins/lvpdpc.txd" modelid="305" download="false" />
+    <file src="skins/lvpdpc.dff" modelid="305" download="false" />
+    
+    <file src="skins/maccer.txd" modelid="2" download="false" />
+    <file src="skins/maccer.dff" modelid="2" download="false" />
+    
+    <file src="skins/maddogg.txd" modelid="297" download="false" />
+    <file src="skins/maddogg.dff" modelid="297" download="false" />
+    
+    <file src="skins/mafboss.txd" modelid="113" download="false" />
+    <file src="skins/mafboss.dff" modelid="113" download="false" />
+    
+    <file src="skins/maffa.txd" modelid="111" download="false" />
+    <file src="skins/maffa.dff" modelid="111" download="false" />
+    
+    <file src="skins/maffb.txd" modelid="112" download="false" />
+    <file src="skins/maffb.dff" modelid="112" download="false" />
+    
+    <file src="skins/male01.txd" modelid="7" download="false" />
+    <file src="skins/male01.dff" modelid="7" download="false" />
+    
+    <file src="skins/mecgrl3.txd" modelid="192" download="false" />
+    <file src="skins/mecgrl3.dff" modelid="192" download="false" />
+    
+    <file src="skins/nurgrl3.txd" modelid="193" download="false" />
+    <file src="skins/nurgrl3.dff" modelid="193" download="false" />
+    
+    <file src="skins/ofyri.txd" modelid="55" download="false" />
+    <file src="skins/ofyri.dff" modelid="55" download="false" />
+    
+    <file src="skins/ofyst.txd" modelid="56" download="false" />
+    <file src="skins/ofyst.dff" modelid="56" download="false" />
+    
+    <file src="skins/ogloc.txd" modelid="293" download="false" />
+    <file src="skins/ogloc.dff" modelid="293" download="false" />
+    
+    <file src="skins/omori.txd" modelid="57" download="false" />
+    <file src="skins/omori.dff" modelid="57" download="false" />
+    
+    <file src="skins/omost.txd" modelid="58" download="false" />
+    <file src="skins/omost.dff" modelid="58" download="false" />
+    
+    <file src="skins/omyri.txd" modelid="59" download="false" />
+    <file src="skins/omyri.dff" modelid="59" download="false" />
+    
+    <file src="skins/omyst.txd" modelid="60" download="false" />
+    <file src="skins/omyst.dff" modelid="60" download="false" />
+    
+    <file src="skins/paul.txd" modelid="291" download="false" />
+    <file src="skins/paul.dff" modelid="291" download="false" />
+    
+    <file src="skins/ryder3.txd" modelid="33" download="false" />
+    <file src="skins/ryder3.dff" modelid="33" download="false" />
+    
+    <file src="skins/sbfyri.txd" modelid="219" download="false" />
+    <file src="skins/sbfyri.dff" modelid="219" download="false" />
+    
+    <file src="skins/sbfyst.txd" modelid="69" download="false" />
+    <file src="skins/sbfyst.dff" modelid="69" download="false" />
+    
+    <file src="skins/sbmori.txd" modelid="221" download="false" />
+    <file src="skins/sbmori.dff" modelid="221" download="false" />
+    
+    <file src="skins/sbmost.txd" modelid="222" download="false" />
+    <file src="skins/sbmost.dff" modelid="222" download="false" />
+    
+    <file src="skins/sbmycr.txd" modelid="143" download="false" />
+    <file src="skins/sbmycr.dff" modelid="143" download="false" />
+    
+    <file src="skins/sbmyri.txd" modelid="185" download="false" />
+    <file src="skins/sbmyri.dff" modelid="185" download="false" />
+    
+    <file src="skins/sbmytr3.txd" modelid="136" download="false" />
+    <file src="skins/sbmytr3.dff" modelid="136" download="false" />
+    
+    <file src="skins/sfr1.txd" modelid="173" download="false" />
+    <file src="skins/sfr1.dff" modelid="173" download="false" />
+    
+    <file src="skins/sfr2.txd" modelid="174" download="false" />
+    <file src="skins/sfr2.dff" modelid="174" download="false" />
+    
+    <file src="skins/sfr3.txd" modelid="175" download="false" />
+    <file src="skins/sfr3.dff" modelid="175" download="false" />
+    
+    <file src="skins/sindaco.txd" modelid="51" download="false" />
+    <file src="skins/sindaco.dff" modelid="51" download="false" />
+    
+    <file src="skins/smoke.txd" modelid="269" download="false" />
+    <file src="skins/smoke.dff" modelid="269" download="false" />
+    
+    <file src="skins/smyst.txd" modelid="241" download="false" />
+    <file src="skins/smyst.dff" modelid="241" download="false" />
+    
+    <file src="skins/smyst2.txd" modelid="242" download="false" />
+    <file src="skins/smyst2.dff" modelid="242" download="false" />
+    
+    <file src="skins/sofybu.txd" modelid="141" download="false" />
+    <file src="skins/sofybu.dff" modelid="141" download="false" />
+    
+    <file src="skins/sofyst.txd" modelid="226" download="false" />
+    <file src="skins/sofyst.dff" modelid="226" download="false" />
+    
+    <file src="skins/somybu.txd" modelid="187" download="false" />
+    <file src="skins/somybu.dff" modelid="187" download="false" />
+    
+    <file src="skins/somyri.txd" modelid="186" download="false" />
+    <file src="skins/somyri.dff" modelid="186" download="false" />
+    
+    <file src="skins/somyst.txd" modelid="170" download="false" />
+    <file src="skins/somyst.dff" modelid="170" download="false" />
+    
+    <file src="skins/sweet.txd" modelid="270" download="false" />
+    <file src="skins/sweet.dff" modelid="270" download="false" />
+    
+    <file src="skins/swfyri.txd" modelid="216" download="false" />
+    <file src="skins/swfyri.dff" modelid="216" download="false" />
+    
+    <file src="skins/swmori.txd" modelid="235" download="false" />
+    <file src="skins/swmori.dff" modelid="235" download="false" />
+    
+    <file src="skins/swmycr.txd" modelid="250" download="false" />
+    <file src="skins/swmycr.dff" modelid="250" download="false" />
+    
+    <file src="skins/swmyhp1.txd" modelid="72" download="false" />
+    <file src="skins/swmyhp1.dff" modelid="72" download="false" />
+    
+    <file src="skins/swmyri.txd" modelid="240" download="false" />
+    <file src="skins/swmyri.dff" modelid="240" download="false" />
+    
+    <file src="skins/swmyst.txd" modelid="188" download="false" />
+    <file src="skins/swmyst.dff" modelid="188" download="false" />
+    
+    <file src="skins/triada.txd" modelid="117" download="false" />
+    <file src="skins/triada.dff" modelid="117" download="false" />
+    
+    <file src="skins/triadb.txd" modelid="118" download="false" />
+    <file src="skins/triadb.dff" modelid="118" download="false" />
+    
+    <file src="skins/triboss.txd" modelid="120" download="false" />
+    <file src="skins/triboss.dff" modelid="120" download="false" />
+    
+    <file src="skins/truth.txd" modelid="1" download="false" />
+    <file src="skins/truth.dff" modelid="1" download="false" />
+    
+    <file src="skins/vbfycpd.txd" modelid="307" download="false" />
+    <file src="skins/vbfycpd.dff" modelid="307" download="false" />
+    
+    <file src="skins/vbmocd.txd" modelid="182" download="false" />
+    <file src="skins/vbmocd.dff" modelid="182" download="false" />
+    
+    <file src="skins/vbmycr.txd" modelid="183" download="false" />
+    <file src="skins/vbmycr.dff" modelid="183" download="false" />
+    
+    <file src="skins/vhmycr.txd" modelid="184" download="false" />
+    <file src="skins/vhmycr.dff" modelid="184" download="false" />
+    
+    <file src="skins/vla1.txd" modelid="114" download="false" />
+    <file src="skins/vla1.dff" modelid="114" download="false" />
+    
+    <file src="skins/vla2.txd" modelid="115" download="false" />
+    <file src="skins/vla2.dff" modelid="115" download="false" />
+    
+    <file src="skins/vla3.txd" modelid="116" download="false" />
+    <file src="skins/vla3.dff" modelid="116" download="false" />
+    
+    <file src="skins/vmaff1.txd" modelid="124" download="false" />
+    <file src="skins/vmaff1.dff" modelid="124" download="false" />
+    
+    <file src="skins/vmaff2.txd" modelid="125" download="false" />
+    <file src="skins/vmaff2.dff" modelid="125" download="false" />
+    
+    <file src="skins/vmaff3.txd" modelid="126" download="false" />
+    <file src="skins/vmaff3.dff" modelid="126" download="false" />
+    
+    <file src="skins/vmaff4.txd" modelid="127" download="false" />
+    <file src="skins/vmaff4.dff" modelid="127" download="false" />
+    
+    <file src="skins/vwmotr2.txd" modelid="213" download="false" />
+    <file src="skins/vwmotr2.dff" modelid="213" download="false" />
+    
+    <file src="skins/wbdyg1.txd" modelid="24" download="false" />
+    <file src="skins/wbdyg1.dff" modelid="24" download="false" />
+    
+    <file src="skins/wbdyg2.txd" modelid="25" download="false" />
+    <file src="skins/wbdyg2.dff" modelid="25" download="false" />
+    
+    <file src="skins/wfycllv.txd" modelid="309" download="false" />
+    <file src="skins/wfycllv.dff" modelid="309" download="false" />
+    
+    <file src="skins/wfyclot.txd" modelid="211" download="false" />
+    <file src="skins/wfyclot.dff" modelid="211" download="false" />
+    
+    <file src="skins/wfyri.txd" modelid="91" download="false" />
+    <file src="skins/wfyri.dff" modelid="91" download="false" />
+    
+    <file src="skins/wfyro.txd" modelid="92" download="false" />
+    <file src="skins/wfyro.dff" modelid="92" download="false" />
+    
+    <file src="skins/wfyst.txd" modelid="93" download="false" />
+    <file src="skins/wfyst.dff" modelid="93" download="false" />
+    
+    <file src="skins/wmomib.txd" modelid="165" download="false" />
+    <file src="skins/wmomib.dff" modelid="165" download="false" />
+    
+    <file src="skins/wmori.txd" modelid="94" download="false" />
+    <file src="skins/wmori.dff" modelid="94" download="false" />
+    
+    <file src="skins/wmosci.txd" modelid="70" download="false" />
+    <file src="skins/wmosci.dff" modelid="70" download="false" />
+    
+    <file src="skins/wmotr1.txd" modelid="78" download="false" />
+    <file src="skins/wmotr1.dff" modelid="78" download="false" />
+    
+    <file src="skins/wmyammo.txd" modelid="179" download="false" />
+    <file src="skins/wmyammo.dff" modelid="179" download="false" />
+    
+    <file src="skins/wmybar.txd" modelid="177" download="false" />
+    <file src="skins/wmybar.dff" modelid="177" download="false" />
+    
+    <file src="skins/wmybe.txd" modelid="154" download="false" />
+    <file src="skins/wmybe.dff" modelid="154" download="false" />
+    
+    <file src="skins/wmybmx.txd" modelid="23" download="false" />
+    <file src="skins/wmybmx.dff" modelid="23" download="false" />
+    
+    <file src="skins/wmyboun.txd" modelid="164" download="false" />
+    <file src="skins/wmyboun.dff" modelid="164" download="false" />
+    
+    <file src="skins/wmybp.txd" modelid="26" download="false" />
+    <file src="skins/wmybp.dff" modelid="26" download="false" />
+    
+    <file src="skins/wmybu.txd" modelid="147" download="false" />
+    <file src="skins/wmybu.dff" modelid="147" download="false" />
+    
+    <file src="skins/wmyclot.txd" modelid="217" download="false" />
+    <file src="skins/wmyclot.dff" modelid="217" download="false" />
+    
+    <file src="skins/wmycr.txd" modelid="100" download="false" />
+    <file src="skins/wmycr.dff" modelid="100" download="false" />
+    
+    <file src="skins/wmydrug.txd" modelid="29" download="false" />
+    <file src="skins/wmydrug.dff" modelid="29" download="false" />
+    
+    <file src="skins/wmygol1.txd" modelid="36" download="false" />
+    <file src="skins/wmygol1.dff" modelid="36" download="false" />
+    
+    <file src="skins/wmygol2.txd" modelid="37" download="false" />
+    <file src="skins/wmygol2.dff" modelid="37" download="false" />
+    
+    <file src="skins/wmyjg.txd" modelid="96" download="false" />
+    <file src="skins/wmyjg.dff" modelid="96" download="false" />
+    
+    <file src="skins/wmylg.txd" modelid="97" download="false" />
+    <file src="skins/wmylg.dff" modelid="97" download="false" />
+    
+    <file src="skins/wmypizz.txd" modelid="155" download="false" />
+    <file src="skins/wmypizz.dff" modelid="155" download="false" />
+    
+    <file src="skins/wmyri.txd" modelid="98" download="false" />
+    <file src="skins/wmyri.dff" modelid="98" download="false" />
+    
+    <file src="skins/wmyst.txd" modelid="101" download="false" />
+    <file src="skins/wmyst.dff" modelid="101" download="false" />
+    
+    <file src="skins/wuzimu.txd" modelid="294" download="false" />
+    <file src="skins/wuzimu.dff" modelid="294" download="false" />
+    
+    <file src="skins/zero.txd" modelid="52" download="false" />
+    <file src="skins/zero.dff" modelid="52" download="false" />
+    
+    <file src="skins/rose.txd" modelid="311" download="false" />
+    <file src="skins/rose.dff" modelid="311" download="false" />
+    
+    <file src="skins/ryder2.txd" modelid="300" download="false" />
+    <file src="skins/ryder2.dff" modelid="300" download="false" />
+	
+    <file src="skins/carmela.txd" modelid="63" download="false" />
+    <file src="skins/carmela.dff" modelid="63" download="false" />
+   
+   <file src="skins/smokev.txd" modelid="290" download="false" />
+   <file src="skins/smokev.dff" modelid="290" download="false" />
+   
+	<!-- Faction skins -->
+	<!-- GOV -->
+    <file src="skins/wfyclpd.txd" modelid="306" download="false" />
+    <file src="skins/wfyclpd.dff" modelid="306" download="false" />
+	
+	<!-- AMBULANCE -->
+    <file src="skins/laemt1.txd" modelid="274" download="false" />
+    <file src="skins/laemt1.dff" modelid="274" download="false" />
+    
+    <file src="skins/lvemt1.txd" modelid="275" download="false" />
+    <file src="skins/lvemt1.dff" modelid="275" download="false" />
+    
+    <file src="skins/sfemt1.txd" modelid="276" download="false" />
+    <file src="skins/sfemt1.dff" modelid="276" download="false" />
+	
+    <file src="skins/ryder.txd" modelid="271" download="false" />
+    <file src="skins/ryder.dff" modelid="271" download="false" />
+	
+    <file src="skins/sbfystr.txd" modelid="256" download="false" />
+    <file src="skins/sbfystr.dff" modelid="256" download="false" />
+	
+    <file src="skins/swfystr.txd" modelid="257" download="false" />
+    <file src="skins/swfystr.dff" modelid="257" download="false" />
+	
+	<!-- SHERIFF -->
+    <file src="skins/lapd1.txd" modelid="280" download="false" />
+    <file src="skins/lapd1.dff" modelid="280" download="false" />
+	
+    <file src="skins/sfpd1.txd" modelid="281" download="false" />
+    <file src="skins/sfpd1.dff" modelid="281" download="false" />
+	
+    <file src="skins/lvpd1.txd" modelid="282" download="false" />
+    <file src="skins/lvpd1.dff" modelid="282" download="false" />
+
+    <file src="skins/csher.txd" modelid="283" download="false" />
+    <file src="skins/csher.dff" modelid="283" download="false" />
+
+    <file src="skins/lapdm1.txd" modelid="284" download="false" />
+    <file src="skins/lapdm1.dff" modelid="284" download="false" />
+
+    <file src="skins/swat.txd" modelid="285" download="false" />
+    <file src="skins/swat.dff" modelid="285" download="false" />
+	
+    <file src="skins/fbi.txd" modelid="286" download="false" />
+    <file src="skins/fbi.dff" modelid="286" download="false" />
+
+    <file src="skins/army.txd" modelid="287" download="false" />
+    <file src="skins/army.dff" modelid="287" download="false" />
+
+    <file src="skins/dsher.txd" modelid="288" download="false" />
+    <file src="skins/dsher.dff" modelid="288" download="false" />
+
+    <file src="skins/tenpen.txd" modelid="265" download="false" />
+    <file src="skins/tenpen.dff" modelid="265" download="false" />
+	
+    <file src="skins/wmoice.txd" modelid="264" download="false" />
+    <file src="skins/wmoice.dff" modelid="264" download="false" />
+	
+    <file src="skins/pulaski.txd" modelid="266" download="false" />
+    <file src="skins/pulaski.dff" modelid="266" download="false" />
+	
+    <file src="skins/hern.txd" modelid="267" download="false" />
+    <file src="skins/hern.dff" modelid="267" download="false" />
+	
+	<!-- HDMC -->
+    <file src="skins/somobu.txd" modelid="227" download="false" />
+    <file src="skins/somobu.dff" modelid="227" download="false" />
+	
+	<file src="skins/somori.txd" modelid="228" download="false" />
+    <file src="skins/somori.dff" modelid="228" download="false" />
+	
+	<file src="skins/swmost.txd" modelid="236" download="false" />
+    <file src="skins/swmost.dff" modelid="236" download="false" />
+	
+	<file src="skins/bikerb.txd" modelid="248" download="false" />
+    <file src="skins/bikerb.dff" modelid="248" download="false" />
+	
+	<file src="skins/vwmycr.txd" modelid="181" download="false" />
+    <file src="skins/vwmycr.dff" modelid="181" download="false" />
+	
+	<file src="skins/wfybe.txd" modelid="138" download="false" />
+    <file src="skins/wfybe.dff" modelid="138" download="false" />
+	
+	<file src="skins/wmost.txd" modelid="95" download="false" />
+    <file src="skins/wmost.dff" modelid="95" download="false" />
+	
+	<file src="skins/wmyconb.txd" modelid="153" download="false" />
+    <file src="skins/wmyconb.dff" modelid="153" download="false" />
+	
+	<!-- BBoaks -->
+	
+	<file src="skins/hfypro.txd" modelid="64" download="false" />
+    <file src="skins/hfypro.dff" modelid="64" download="false" />
+	
+	<file src="skins/bmypimp.txd" modelid="249" download="false" />
+    <file src="skins/bmypimp.dff" modelid="249" download="false" />
+	
+	<file src="skins/wfylg.txd" modelid="251" download="false" />
+    <file src="skins/wfylg.dff" modelid="251" download="false" />
+	
+	<file src="skins/wmyva2.txd" modelid="252" download="false" />
+    <file src="skins/wmyva2.dff" modelid="252" download="false" />
+	
+	<file src="skins/bmosec.txd" modelid="253" download="false" />
+    <file src="skins/bmosec.dff" modelid="253" download="false" />
+	
+	<file src="skins/wmych.txd" modelid="255" download="false" />
+    <file src="skins/wmych.dff" modelid="255" download="false" />
+	
+	<file src="skins/bmycon.txd" modelid="260" download="false" />
+    <file src="skins/bmycon.dff" modelid="260" download="false" />
+	
+	<!-- palocrime -->
+	
+	<file src="skins/bmypol2.txd" modelid="67" download="false" />
+    <file src="skins/bmypol2.dff" modelid="67" download="false" />
+	
+	<file src="skins/swfopro.txd" modelid="75" download="false" />
+    <file src="skins/swfopro.dff" modelid="75" download="false" />
+	
+	<file src="skins/swmotr1.txd" modelid="77" download="false" />
+    <file src="skins/swmotr1.dff" modelid="77" download="false" />
+	
+	<file src="skins/vbmybox.txd" modelid="80" download="false" />
+    <file src="skins/vbmybox.dff" modelid="80" download="false" />
+	
+	<file src="skins/vbmyelv.txd" modelid="83" download="false" />
+    <file src="skins/vbmyelv.dff" modelid="83" download="false" />
+	
+	<file src="skins/vhmyelv.txd" modelid="82" download="false" />
+    <file src="skins/vhmyelv.dff" modelid="82" download="false" />	
+
+	<file src="skins/vwmybox.txd" modelid="81" download="false" />
+    <file src="skins/vwmybox.dff" modelid="81" download="false" />
+	
+	<file src="skins/wfystew.txd" modelid="76" download="false" />
+    <file src="skins/wfystew.dff" modelid="76" download="false" />
+	
+	<file src="skins/wmysgrd.txd" modelid="71" download="false" />
+    <file src="skins/wmysgrd.dff" modelid="71" download="false" />
+
+	<!-- redneck -->
+
+	<file src="skins/vwmycd.txd" modelid="206" download="false" />
+    <file src="skins/vwmycd.dff" modelid="206" download="false" />
+	
+    <!-- Virtual skins (313 or upper) -->
+    
+    <file src="skins/animals/rottweiler.txd" modelid="314" download="false" virtualSkin="true" />
+    <file src="skins/animals/rottweiler.dff" modelid="314" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/dog1.txd" modelid="315" download="false" virtualSkin="true" />
+    <file src="skins/animals/dog1.dff" modelid="315" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/dog2.txd" modelid="316" download="false" virtualSkin="true" />
+    <file src="skins/animals/dog2.dff" modelid="316" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/dog3.txd" modelid="317" download="false" virtualSkin="true" />
+    <file src="skins/animals/dog3.dff" modelid="317" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/hunting/bear.txd" modelid="318" download="false" virtualSkin="true" />
+    <file src="skins/animals/hunting/bear.dff" modelid="318" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/hunting/caracal.txd" modelid="319" download="false" virtualSkin="true" />
+    <file src="skins/animals/hunting/caracal.dff" modelid="319" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/hunting/deer.txd" modelid="320" download="false" virtualSkin="true" />
+    <file src="skins/animals/hunting/deer.dff" modelid="320" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/hunting/fox.txd" modelid="321" download="false" virtualSkin="true" />
+    <file src="skins/animals/hunting/fox.dff" modelid="321" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/hunting/pantera.txd" modelid="322" download="false" virtualSkin="true" />
+    <file src="skins/animals/hunting/pantera.dff" modelid="322" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/hunting/raccoon.txd" modelid="323" download="false" virtualSkin="true" />
+    <file src="skins/animals/hunting/raccoon.dff" modelid="323" download="false" virtualSkin="true" />
+    
+    <file src="skins/animals/hunting/wasd.txd" modelid="324" download="false" virtualSkin="true" />
+    <file src="skins/animals/hunting/wasd.dff" modelid="324" download="false" virtualSkin="true" />
+	
+	<!-- Aryan Virtuals -->
+	
+	<file src="skins/aryan/aryan1.txd" modelid="325" download="false" virtualSkin="true" />
+    <file src="skins/aryan/aryan1.dff" modelid="325" download="false" virtualSkin="true" />
+	
+	<file src="skins/aryan/aryan2.txd" modelid="326" download="false" virtualSkin="true" />
+    <file src="skins/aryan/aryan2.dff" modelid="326" download="false" virtualSkin="true" />
+	
+	<file src="skins/aryan/aryan3.txd" modelid="327" download="false" virtualSkin="true" />
+    <file src="skins/aryan/aryan3.dff" modelid="327" download="false" virtualSkin="true" />
+	
+	<file src="skins/aryan/aryan4.txd" modelid="328" download="false" virtualSkin="true" />
+    <file src="skins/aryan/aryan4.dff" modelid="328" download="false" virtualSkin="true" />
+	
+	<file src="skins/aryan/aryan5.txd" modelid="329" download="false" virtualSkin="true" />
+    <file src="skins/aryan/aryan5.dff" modelid="329" download="false" virtualSkin="true" />
+	
+	<file src="skins/aryan/aryan6.txd" modelid="330" download="false" virtualSkin="true" />
+    <file src="skins/aryan/aryan6.dff" modelid="330" download="false" virtualSkin="true" />
+	
+	 
+   <!-- BBoaks Virtuals -->
+    
+    <file src="skins/bboaks/bboaks1.txd" modelid="331" download="false" virtualSkin="true" />
+    <file src="skins/bboaks/bboaks1.dff" modelid="331" download="false" virtualSkin="true" />
+    
+    <file src="skins/bboaks/bboaks2.txd" modelid="332" download="false" virtualSkin="true" />
+    <file src="skins/bboaks/bboaks2.dff" modelid="332" download="false" virtualSkin="true" />
+    
+    <file src="skins/bboaks/bboaks3.txd" modelid="333" download="false" virtualSkin="true" />
+    <file src="skins/bboaks/bboaks3.dff" modelid="333" download="false" virtualSkin="true" />
+
+    <file src="skins/bboaks/bboaks4.txd" modelid="334" download="false" virtualSkin="true" />
+    <file src="skins/bboaks/bboaks4.dff" modelid="334" download="false" virtualSkin="true" />
+    
+    <file src="skins/bboaks/bboaks5.txd" modelid="348" download="false" virtualSkin="true" />
+    <file src="skins/bboaks/bboaks5.dff" modelid="348" download="false" virtualSkin="true" />
+    
+    <file src="skins/bboaks/bboaks6.txd" modelid="349" download="false" virtualSkin="true" />
+    <file src="skins/bboaks/bboaks6.dff" modelid="349" download="false" virtualSkin="true" />
+	
+	<!-- jaypark Virtuals -->
+	
+	<file src="skins/jaypark/jaypark1.txd" modelid="335" download="false" virtualSkin="true" />
+    <file src="skins/jaypark/jaypark1.dff" modelid="335" download="false" virtualSkin="true" />
+	
+	<file src="skins/jaypark/jaypark2.txd" modelid="336" download="false" virtualSkin="true" />
+    <file src="skins/jaypark/jaypark2.dff" modelid="336" download="false" virtualSkin="true" />
+	
+	<file src="skins/jaypark/jaypark3.txd" modelid="337" download="false" virtualSkin="true" />
+    <file src="skins/jaypark/jaypark3.dff" modelid="337" download="false" virtualSkin="true" />
+	
+	<file src="skins/jaypark/jaypark4.txd" modelid="338" download="false" virtualSkin="true" />
+    <file src="skins/jaypark/jaypark4.dff" modelid="338" download="false" virtualSkin="true" />
+	
+	<file src="skins/jaypark/jaypark5.txd" modelid="339" download="false" virtualSkin="true" />
+    <file src="skins/jaypark/jaypark5.dff" modelid="339" download="false" virtualSkin="true" />
+	
+	<file src="skins/jaypark/jaypark6.txd" modelid="340" download="false" virtualSkin="true" />
+    <file src="skins/jaypark/jaypark6.dff" modelid="340" download="false" virtualSkin="true" />
+	
+	<file src="skins/jaypark/jaypark7.txd" modelid="341" download="false" virtualSkin="true" />
+    <file src="skins/jaypark/jaypark7.dff" modelid="341" download="false" virtualSkin="true" />
+	
+	<file src="skins/jaypark/jaypark8.txd" modelid="342" download="false" virtualSkin="true" />
+    <file src="skins/jaypark/jaypark8.dff" modelid="342" download="false" virtualSkin="true" />
+    
+	<!-- md Virtuals -->
+	
+	<file src="skins/md/md1.txd" modelid="343" download="false" virtualSkin="true" />
+    <file src="skins/md/md1.dff" modelid="343" download="false" virtualSkin="true" />
+	
+	<file src="skins/md/md2.txd" modelid="344" download="false" virtualSkin="true" />
+    <file src="skins/md/md2.dff" modelid="344" download="false" virtualSkin="true" />
+	
+	<file src="skins/md/md3.txd" modelid="345" download="false" virtualSkin="true" />
+    <file src="skins/md/md3.dff" modelid="345" download="false" virtualSkin="true" />
+   
+	<file src="skins/md/md4.txd" modelid="346" download="false" virtualSkin="true" />
+    <file src="skins/md/md4.dff" modelid="346" download="false" virtualSkin="true" />
+	
+	<file src="skins/md/md5.txd" modelid="347" download="false" virtualSkin="true" />
+    <file src="skins/md/md5.dff" modelid="347" download="false" virtualSkin="true" />
+	
+    <download_priority_group>-137</download_priority_group>
+</meta>

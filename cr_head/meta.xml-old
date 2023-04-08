@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <export function="initHeadMove" type="client"></export>
+    <export function="getHeadState" type="client"></export>
+    <export function="toggleHeadMove" type="client"></export>
+    <download_priority_group>-75</download_priority_group>
+</meta>

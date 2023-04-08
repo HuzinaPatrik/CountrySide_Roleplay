@@ -1,0 +1,425 @@
+<meta>
+    <!--file src=forrás   modelid="[ [ id, id2, ... ] ]" glassLoad = "true/false"-->
+    
+    <!--Modells-->
+    
+    <!--Table-->
+    <file src="modells/table/table.txd" download="false" modelid="1375" />
+    <file src="modells/table/table.col" download="false" modelid="1375" />
+    <file src="modells/table/table.dff" download="false" modelid="1375" />
+    
+    <!--TURBINE-->
+    
+    <file src="modells/Turbine_Modells/Turbine_A.txd" modelid="3279" download="false" />
+    <file src="modells/Turbine_Modells/Turbine_A.dff" modelid="3279" download="false" />
+    <file src="modells/Turbine_Modells/Turbine_A.col" modelid="3279" download="false" />
+    <file src="modells/Turbine_Modells/Turbine_B.txd" modelid="3271" download="false" />
+    <file src="modells/Turbine_Modells/Turbine_B.dff" modelid="3271" download="false" />
+    <file src="modells/Turbine_Modells/Turbine_B.col" modelid="3271" download="false" />
+    
+    <!-- Iphone X-->
+    <file src="modells/Iphone_X/cellphone.txd" download="false" modelid="16184" />
+    <file src="modells/Iphone_X/cellphone.dff" download="false" modelid="16184" />
+    
+	<!-- American Flag -->
+    <file src="modells/countrysidemodel_hospital/bandera.col" download="false" modelid="1856" />
+    <file src="modells/countrysidemodel_hospital/bandera.txd" download="false" modelid="1856" />
+    <file src="modells/countrysidemodel_hospital/bandera.dff" download="false" modelid="1856" glassLoad="true" />
+	
+    <!-- Hospital
+    <file src="modells/countryside_montgohospital/hospi3.col" download="false" modelid="12983" />
+    <file src="modells/countryside_montgohospital/hospi2.txd" download="false" modelid="12983" />
+    <file src="modells/countryside_montgohospital/hospi3.dff" download="false" modelid="12983" glassLoad="true" />-->
+    
+    <!-- Townhall -->
+    <file src="modells/countrysidemodel_townhall/hall4.txd" download="false" modelid="[ [ 12959, 1857 ] ]" />
+    <file src="modells/countrysidemodel_townhall/hall4.col" download="false" modelid="12959" />
+    <file src="modells/countrysidemodel_townhall/hall4.dff" download="false" modelid="12959" glassLoad="true" />
+    
+    <file src="modells/countrysidemodel_townhall/cartelCityHall.col" download="false" modelid="1857" />
+    <file src="modells/countrysidemodel_townhall/cartelCityHall.dff" download="false" modelid="1857" glassLoad="true" />
+    
+    <!-- Wallmart -->
+    <file src="modells/[COUNTRYSIDE-MODEL]WalmartOpened/est3.col" modelid="12853" />
+    <file src="modells/[COUNTRYSIDE-MODEL]WalmartOpened/est2.txd" modelid="12853" />
+    <file src="modells/[COUNTRYSIDE-MODEL]WalmartOpened/est3.dff" modelid="12853" glassLoad="true" />
+    
+    <!-- Gas Station -->
+	<!-- <file src="modells/[COUNTRYSIDE]GasStationBlueberry/ce_ground13.col" modelid="13297" /> -->
+	<!-- <file src="modells/[COUNTRYSIDE]GasStationBlueberry/CEgroundT201.dff" modelid="13297" glassLoad="true" /> -->
+    <file src="modells/[COUNTRYSIDE]GasStation24-7Montgomery/sevent2.col" modelid="13296" />
+    <file src="modells/[COUNTRYSIDE]GasStation24-7Montgomery/sevent2.txd" modelid="13296" />
+    <file src="modells/[COUNTRYSIDE]GasStation24-7Montgomery/sevent2.dff" modelid="13296" glassLoad="true" />
+	
+	<!-- Gas Station - BB -->
+    <file src="modells/[COUNTRYSIDE]GasStationBlueberry/gaso1.col" modelid="13171" />
+    <file src="modells/[COUNTRYSIDE]GasStationBlueberry/ce_ground14.txd" modelid="13171" />
+    <file src="modells/[COUNTRYSIDE]GasStationBlueberry/gaso1.dff" modelid="13171" glassLoad="true" />
+	
+    <!-- Bank -->
+    <file src="modells/[COUNTRYSIDE]BankPalominoCreek/bank2.col" modelid="12822" />
+    <file src="modells/[COUNTRYSIDE]BankPalominoCreek/bank2.txd" modelid="12822" />
+    <file src="modells/[COUNTRYSIDE]BankPalominoCreek/bank2.dff" modelid="12822" glassLoad="true" />
+    
+    <!-- csrp_carshopmodel -->
+    <file src="modells/csrp_carshopmodel/conce1.col" modelid="13006" />
+    <file src="modells/csrp_carshopmodel/conce1.txd" modelid="13006" />
+    <file src="modells/csrp_carshopmodel/conce1.dff" modelid="13006" glassLoad="true" />
+    
+    <!-- WineMaker -->
+    <file src="modells/WineMaker/dobozerett.txd" download="false" modelid="7251" />
+    <file src="modells/WineMaker/dobozerett.dff" download="false" modelid="7251" />
+    <file src="modells/WineMaker/dobozerett.col" download="false" modelid="7251" />
+    <file src="modells/WineMaker/dobozsima.txd" download="false" modelid="7046" />
+    <file src="modells/WineMaker/dobozsima.dff" download="false" modelid="7046" />
+    <file src="modells/WineMaker/dobozsima.col" download="false" modelid="7046" />
+    <file src="modells/WineMaker/hordoerett.txd" download="false" modelid="7344" />
+    <file src="modells/WineMaker/hordoerett.dff" download="false" modelid="7344" />
+    <file src="modells/WineMaker/hordoerett.col" download="false" modelid="7344" />
+    <file src="modells/WineMaker/hordosima.txd" download="false" modelid="6933" />
+    <file src="modells/WineMaker/hordosima.dff" download="false" modelid="6933" />
+    <file src="modells/WineMaker/hordosima.col" download="false" modelid="6933" />
+    <file src="modells/WineMaker/hordotetos.txd" download="false" modelid="6929" />
+    <file src="modells/WineMaker/hordotetos.dff" download="false" modelid="6929" />
+    <file src="modells/WineMaker/hordotetos.col" download="false" modelid="6929" />
+    <file src="modells/WineMaker/tokeeretlen.txd" download="false" modelid="6882" />
+    <file src="modells/WineMaker/tokeeretlen.dff" download="false" modelid="6882" />
+    <file src="modells/WineMaker/tokeeretlen.col" download="false" modelid="6882" />
+    <file src="modells/WineMaker/tokeerett.txd" download="false" modelid="7048" />
+    <file src="modells/WineMaker/tokeerett.dff" download="false" modelid="7048" />
+    <file src="modells/WineMaker/tokeerett.col" download="false" modelid="7048" />
+    
+    <!-- PizaHut -->
+    <file src="modells/[COUNTRYSIDE]-PizzaHut/pizza2.col" modelid="13361" />
+    <file src="modells/[COUNTRYSIDE]-PizzaHut/pizza1.txd" modelid="13361" />
+    <file src="modells/[COUNTRYSIDE]-PizzaHut/pizza2.dff" modelid="13361" glassLoad="true" />
+    
+    <!-- [COUNTRYSIDE]ApartmentsBlueberry -->
+    <file src="modells/[COUNTRYSIDE]ApartmentsBlueberry/dirfinca.txd" modelid="12938" />
+    <file src="modells/[COUNTRYSIDE]ApartmentsBlueberry/dirfinca.dff" modelid="12938" glassLoad="true" />
+    
+    <file src="modells/[COUNTRYSIDE]ApartmentsBlueberry/dircasas.txd" modelid="12940" />
+    <file src="modells/[COUNTRYSIDE]ApartmentsBlueberry/dircasas.dff" modelid="12940" glassLoad="true" />
+    
+    <!-- [COUNTRYSIDE]-BusStationBlueberryy -->
+    <file src="modells/[COUNTRYSIDE]-BusStationBlueberry/bus1.col" modelid="13066" />
+    <file src="modells/[COUNTRYSIDE]-BusStationBlueberry/bus1.txd" modelid="13066" />
+    <file src="modells/[COUNTRYSIDE]-BusStationBlueberry/bus1.dff" modelid="13066" glassLoad="true" />
+    
+    <file src="modells/[COUNTRYSIDE]-BusStationBlueberry/CE_nitewindows2.dff" modelid="13493" glassLoad="true" />
+    
+	<!-- [COUNTRYSIDE]ClubPalominoCreekHouses -->
+	<file src="modells/[COUNTRYSIDE]ClubPalominoCreekHouses/ce_ground04.txd" modelid="13167" />
+    <file src="modells/[COUNTRYSIDE]ClubPalominoCreekHouses/club3.col" modelid="13167" />
+    <file src="modells/[COUNTRYSIDE]ClubPalominoCreekHouses/club3.dff" modelid="13167" glassLoad="true" />
+	
+    <!-- taxiT -->
+    <file src="modells/taxiT/taxiT.col" modelid="16178" />
+    <file src="modells/taxiT/taxiT.txd" modelid="16178" />
+    <file src="modells/taxiT/taxiT.dff" modelid="16178" />
+    
+    <!-- [COUNTRYSIDE]BridgePalominoCreek-->
+    <file src="modells/[COUNTRYSIDE]BridgePalominoCreek/puente4.col" modelid="12909" />
+    <file src="modells/[COUNTRYSIDE]BridgePalominoCreek/puente3.txd" modelid="12909" />
+    <file src="modells/[COUNTRYSIDE]BridgePalominoCreek/puente4.dff" modelid="12909" glassLoad="true" />
+    
+    <file src="modells/[COUNTRYSIDE]BridgePalominoCreek/campoSinpuente.col" modelid="13101" />
+    <file src="modells/[COUNTRYSIDE]BridgePalominoCreek/ce_ground07.txd" modelid="13101" />
+    <file src="modells/[COUNTRYSIDE]BridgePalominoCreek/camposinpuentev3.dff" modelid="13101" glassLoad="true" />
+    
+    <!-- [COUNTRYSIDE]WineHousePalominoFarm -->
+    <file src="modells/[COUNTRYSIDE]WineHousePalominoFarm/wine4.col" modelid="17008" />
+    <file src="modells/[COUNTRYSIDE]WineHousePalominoFarm/wine4.txd" modelid="17008" />
+    <file src="modells/[COUNTRYSIDE]WineHousePalominoFarm/wine4.dff" modelid="17008" glassLoad="true" />
+    
+    <file src="modells/[COUNTRYSIDE]WineHousePalominoFarm/CE_groundPALO02.col" modelid="13100" />
+    <file src="modells/[COUNTRYSIDE]WineHousePalominoFarm/ce_ground07.txd" modelid="13100" />
+    <file src="modells/[COUNTRYSIDE]WineHousePalominoFarm/CE_groundPALO02.dff" modelid="13100" glassLoad="true" />
+    
+    <!-- Race Modells -->
+    <file src="modells/Race_Modells/Race_Core_Texture.txd" modelid="[ [ 16199, 16205, 16198, 16102 ]]" download="false" />
+    <file src="modells/Race_Modells/Race_A.dff" modelid="16199" download="false" />
+    <file src="modells/Race_Modells/Race_A.col" modelid="16199" download="false" />
+    <file src="modells/Race_Modells/Race_B.dff" modelid="16205" download="false" />
+    <file src="modells/Race_Modells/Race_B.col" modelid="16205" download="false" />
+    <file src="modells/Race_Modells/Race_C.dff" modelid="16198" download="false" />
+    <file src="modells/Race_Modells/Race_C.col" modelid="16198" download="false" />
+    <file src="modells/Race_Modells/Race_D.dff" modelid="16102" download="false" />
+    <file src="modells/Race_Modells/Race_D.col" modelid="16102" download="false" />
+
+    <!-- [COUNTRYSIDE]MineBlueberry -->
+    <file src="modells/[COUNTRYSIDE]MineBlueberry/mina4.col" modelid="13490" />
+    <file src="modells/[COUNTRYSIDE]MineBlueberry/ce_ground01.txd" modelid="13490" />
+    <file src="modells/[COUNTRYSIDE]MineBlueberry/mina4.dff" modelid="13490" glassLoad="true" />
+
+    <!-- [COUNTRYSIDE]DogHouseOutsideLS -->
+    <file src="modells/[COUNTRYSIDE]DogHouseOutsideLS/hotdog2.col" modelid="12862" />
+    <file src="modells/[COUNTRYSIDE]DogHouseOutsideLS/hotdog2.txd" modelid="12862" />
+    <file src="modells/[COUNTRYSIDE]DogHouseOutsideLS/hotdog2.dff" modelid="12862" glassLoad="true" />
+
+    <!-- [COUNTRYSIDE]BasketPitchBlueberry-->
+    <file src="modells/[COUNTRYSIDE]BasketPitchBlueberry/basket2.col" modelid="12814" />
+    <file src="modells/[COUNTRYSIDE]BasketPitchBlueberry/basket2.txd" modelid="12814" />
+    <file src="modells/[COUNTRYSIDE]BasketPitchBlueberry/basket2.dff" modelid="12814" glassLoad="true" />
+
+    <!-- [COUNTRYSIDE]ParkMontgomery-->
+    <file src="modells/[COUNTRYSIDE]ParkMontgomery/plaza.col" modelid="12847" />
+    <file src="modells/[COUNTRYSIDE]ParkMontgomery/plaza.txd" modelid="12847" />
+    <file src="modells/[COUNTRYSIDE]ParkMontgomery/plaza.dff" modelid="12847" glassLoad="true" />
+
+    <!-- [COUNTRYSIDE]HotelMontgomeryBurnedBuild-->
+    <file src="modells/[COUNTRYSIDE]HotelMontgomeryBurnedBuild/hotel2.col" modelid="13008" />
+    <file src="modells/[COUNTRYSIDE]HotelMontgomeryBurnedBuild/hotel2.txd" modelid="13008" />
+    <file src="modells/[COUNTRYSIDE]HotelMontgomeryBurnedBuild/hotel2.dff" modelid="13008" glassLoad="true" />
+	
+	<!-- [COUNTRYSIDE]HotelMontgomeryBurnedBuild-->
+	<file src="modells/[COUNTRYSIDE]HotelStarMontgomery/hotelstart.txd" modelid="12850" />
+    <file src="modells/[COUNTRYSIDE]HotelStarMontgomery/hotelstart.col" modelid="12850" />
+    <file src="modells/[COUNTRYSIDE]HotelStarMontgomery/hotelstart.dff" modelid="12850" glassLoad="true" />
+
+    <!-- [COUNTRYSIDE]PoliceStationDillimore-->
+    <file src="modells/[COUNTRYSIDE]PoliceStationDillimore/subte2.col" modelid="12855" />
+    <file src="modells/[COUNTRYSIDE]PoliceStationDillimore/comi2.txd" modelid="12855" />
+    <file src="modells/[COUNTRYSIDE]PoliceStationDillimore/subte2.dff" modelid="12855" glassLoad="true" lodDistance="170" />
+
+    <!-- [COUNTRYSIDE]MechanicBlueberry-->
+    <file src="modells/[COUNTRYSIDE]MechanicBlueberry/meca1.col" modelid="13295" />
+    <file src="modells/[COUNTRYSIDE]MechanicBlueberry/meca1.txd" modelid="13295" />
+    <file src="modells/[COUNTRYSIDE]MechanicBlueberry/meca1.dff" modelid="13295" glassLoad="true" />
+
+    <!-- [thechris]customobjects -->
+    <file src="modells/[thechris]customobjects/hammer.txd" modelid="1574" />
+	<file src="modells/[thechris]customobjects/hammer.dff" modelid="1574" />
+	<file src="modells/[thechris]customobjects/PoliceLight.txd" modelid="2037" />
+	<file src="modells/[thechris]customobjects/PoliceLight.dff" modelid="2037" />
+	<file src="modells/[thechris]customobjects/StrawHat.txd" modelid="1589" />
+	<file src="modells/[thechris]customobjects/StrawHat.dff" modelid="1589" />
+	<file src="modells/[thechris]customobjects/spruce.txd" modelid="2038" />
+	<file src="modells/[thechris]customobjects/spruce.dff" modelid="2038" />
+	<file src="modells/[thechris]customobjects/pine.txd" modelid="2039" />
+	<file src="modells/[thechris]customobjects/pine.dff" modelid="2039" />
+	<file src="modells/[thechris]customobjects/grinder.txd" modelid="1329" />
+	<file src="modells/[thechris]customobjects/grinder.dff" modelid="1329" />
+	<file src="modells/[thechris]customobjects/kmb_cam.col" modelid="2921" />
+	<!-- [thechris]customobjects/GOVmodel -->
+	<file src="modells/[thechris]customobjects/dilimore_gov_texture.txd" modelid="[ [16195, 12981 ] ]" />
+	<file src="modells/[thechris]customobjects/dilimore_gov_exterior.dff" modelid="12981" glassLoad="true" />
+	<file src="modells/[thechris]customobjects/dilimore_gov_exterior.col" modelid="12981" />
+	<file src="modells/[thechris]customobjects/dilimore_gov_inter1or.dff" modelid="16195" glassLoad="true" />
+	<file src="modells/[thechris]customobjects/dilimore_gov_inter1or.col" modelid="16195" />
+	<!-- [thechris]customobjects/farm -->
+	<file src="modells/[thechris]customobjects/farm/inti_kicsi.txd" modelid="[ [16672, 16103, 16191, 16671, 16673, 16674 ] ]" />
+	<file src="modells/[thechris]customobjects/farm/hoe.dff" modelid="16672" />
+	<file src="modells/[thechris]customobjects/farm/hoe.col" modelid="16672" />
+	<file src="modells/[thechris]customobjects/farm/shovel.dff" modelid="16103" />
+	<file src="modells/[thechris]customobjects/farm/shovel.col" modelid="16103" />
+	<file src="modells/[thechris]customobjects/farm/watercan.dff" modelid="16191" />
+	<file src="modells/[thechris]customobjects/farm/watercan.col" modelid="16191" />
+	<file src="modells/[thechris]customobjects/farm/int_kicsi.dff" modelid="16671" />
+	<file src="modells/[thechris]customobjects/farm/int_kicsi.col" modelid="16671" />
+	<file src="modells/[thechris]customobjects/farm/exterior_1.dff" modelid="16673" />
+	<file src="modells/[thechris]customobjects/farm/exterior_1.col" modelid="16673" />
+	<file src="modells/[thechris]customobjects/farm/board.dff" modelid="16674" />
+	<file src="modells/[thechris]customobjects/farm/carrot.dff" modelid="16192" />
+	<file src="modells/[thechris]customobjects/farm/carrot.col" modelid="16192" />
+	<file src="modells/[thechris]customobjects/farm/radish.dff" modelid="16193" />
+	<file src="modells/[thechris]customobjects/farm/radish.col" modelid="16193" />
+	<file src="modells/[thechris]customobjects/farm/parsley.dff" modelid="16675" />
+	<file src="modells/[thechris]customobjects/farm/parsley.col" modelid="16675" />
+	<file src="modells/[thechris]customobjects/farm/onion.dff" modelid="16134" />
+	<file src="modells/[thechris]customobjects/farm/onion.col" modelid="16134" />
+	<!-- [thechris]customobjects/charactercustomization -->
+	<file src="modells/[thechris]customobjects/charactercustomization/armor.txd" modelid="1242" />
+	<file src="modells/[thechris]customobjects/charactercustomization/armor.dff" modelid="1242" />
+	<file src="modells/[thechris]customobjects/charactercustomization/Sheriffarmour.txd" modelid="962" />
+	<file src="modells/[thechris]customobjects/charactercustomization/Sheriffarmour.dff" modelid="962" />
+	<!--<file src="modells/[thechris]customobjects/charactercustomization/SheriffHelmet.txd" modelid="1248" />
+	<file src="modells/[thechris]customobjects/charactercustomization/SheriffHelmet.dff" modelid="1248" />
+	<file src="modells/[thechris]customobjects/charactercustomization/holster0.txd" modelid="1246" />
+	<file src="modells/[thechris]customobjects/charactercustomization/holster0.dff" modelid="1246" /> -->
+	<file src="modells/[thechris]customobjects/charactercustomization/BackPack1.txd" modelid="3808" />
+	<file src="modells/[thechris]customobjects/charactercustomization/BackPack.dff" modelid="3808" />
+	<file src="modells/[thechris]customobjects/charactercustomization/beard.txd" modelid="3387" />
+	<file src="modells/[thechris]customobjects/charactercustomization/beard.dff" modelid="3387" />
+	<file src="modells/[thechris]customobjects/charactercustomization/biker_helmet.txd" modelid="3803" />
+	<file src="modells/[thechris]customobjects/charactercustomization/biker_helmet.dff" modelid="3803" />
+	<file src="modells/[thechris]customobjects/charactercustomization/bowtie1.txd" modelid="3112" />
+	<file src="modells/[thechris]customobjects/charactercustomization/bowtie.dff" modelid="3112" />
+	<file src="modells/[thechris]customobjects/charactercustomization/cow1.txd" modelid="3090" />
+	<file src="modells/[thechris]customobjects/charactercustomization/cow.dff" modelid="3090" />
+	<file src="modells/[thechris]customobjects/charactercustomization/cross1.txd" modelid="3082" />
+	<file src="modells/[thechris]customobjects/charactercustomization/cross.dff" modelid="3082" />
+	<file src="modells/[thechris]customobjects/charactercustomization/duffelbag1.txd" modelid="3060" />
+	<file src="modells/[thechris]customobjects/charactercustomization/duffelbag.dff" modelid="3060" />
+	<file src="modells/[thechris]customobjects/charactercustomization/glasses1.txd" modelid="16644" />
+	<file src="modells/[thechris]customobjects/charactercustomization/glasses1.dff" modelid="16644" />
+	<file src="modells/[thechris]customobjects/charactercustomization/theParrot.txd" modelid="7510" />
+	<file src="modells/[thechris]customobjects/charactercustomization/theParrot.dff" modelid="7510" />
+	<file src="modells/[thechris]customobjects/charactercustomization/trafficvest.txd" modelid="1254" />
+	<file src="modells/[thechris]customobjects/charactercustomization/trafficvest.dff" modelid="1254" />
+	<file src="modells/[thechris]customobjects/charactercustomization/stethoscope.txd" modelid="7617" />
+	<file src="modells/[thechris]customobjects/charactercustomization/stethoscope.dff" modelid="7617" />
+
+	
+
+	<!-- [thechris]pump -->
+    <file src="modells/[thechris]fuelpump/fpump.txd" modelid="3400" />
+	<file src="modells/[thechris]fuelpump/gpump.txd" modelid="3401" />
+	<file src="modells/[thechris]fuelpump/fpump.col" modelid="3400" />
+	<file src="modells/[thechris]fuelpump/fpump.dff" modelid="3400" glassLoad="true" />
+	<file src="modells/[thechris]fuelpump/gpump.col" modelid="3401" />
+	<file src="modells/[thechris]fuelpump/gpump.dff" modelid="3401"	/>
+
+    <!-- [thechris]lockpick -->
+
+    <file src="modells/[thechris]lockpick/textures.txd" modelid="[[ 16207, 16208, 16209, 16210 ]]" />
+    <file src="modells/[thechris]lockpick/lock.dff" modelid="16207" />
+    <file src="modells/[thechris]lockpick/screwdriver.dff" modelid="16208" />
+    <file src="modells/[thechris]lockpick/lockpick.dff" modelid="16209" />
+    <file src="modells/[thechris]lockpick/cashbox.dff" modelid="16210" />
+
+    <!-- [COUNTRYSIDE]FurnitureShopPalomino-->
+    <file src="modells/[COUNTRYSIDE]FurnitureShopPalomino/shop1.col" modelid="12946" />
+    <file src="modells/[COUNTRYSIDE]FurnitureShopPalomino/shop1.txd" modelid="12946" />
+    <file src="modells/[COUNTRYSIDE]FurnitureShopPalomino/shop1.dff" modelid="12946" glassLoad="true" />
+
+    <!-- [COUNTRYSIDE]HunterHouseDillimore-->
+    <file src="modells/[COUNTRYSIDE]HunterHouseDillimore/cj_ammo_posters.txd" modelid="2047" />
+    
+    <file src="modells/[COUNTRYSIDE]HunterHouseDillimore/hunter1.col" modelid="12980" />
+    <file src="modells/[COUNTRYSIDE]HunterHouseDillimore/hunter1.txd" modelid="12980" />
+    <file src="modells/[COUNTRYSIDE]HunterHouseDillimore/hunter1.dff" modelid="12980" glassLoad="true" />
+
+    <!-- HellsideTP -->
+    <file src="modells/HellsideTP/texturesSigns.txd" modelid="[ [ 3899, 3900 ] ]" />
+
+    <file src="modells/HellsideTP/cartelHouseFinal.col" modelid="3899" />
+    <file src="modells/HellsideTP/cartelHouseFinal.dff" modelid="3899" glassLoad="true" />
+
+    <file src="modells/HellsideTP/cartelEntradaDffFinal.col" modelid="3900" />
+    <file src="modells/HellsideTP/cartelEntradaFinal.dff" modelid="3900" glassLoad="true" />
+
+    <!-- SkateParkBlueberry -->
+
+    <file src="modells/SkateParkBlueberry/sign.col" modelid="6963" />
+    <file src="modells/SkateParkBlueberry/sign.txd" modelid="6963" />
+    <file src="modells/SkateParkBlueberry/sign.dff" modelid="6963" glassLoad="true" />
+
+	<!-- [COUNTRYSIDE]RestaurantMontgomeryHospital -->
+	<file src="modells/[COUNTRYSIDE]RestaurantMontgomeryHospital/MHRest.txd" modelid="8849" />
+	<file src="modells/[COUNTRYSIDE]RestaurantMontgomeryHospital/MHRest.col" modelid="8849" />
+    <file src="modells/[COUNTRYSIDE]RestaurantMontgomeryHospital/MHRest.dff" modelid="8849" glassLoad="true" />
+
+	<!-- #crane -->
+	<file src="modells/crane/crane.txd" modelid="[ [ 6922, 6923 ] ]" />
+	<file src="modells/crane/crane_Base.col" modelid="6922" />
+    <file src="modells/crane/crane_Base.dff" modelid="6922" glassLoad="true" />
+	<file src="modells/crane/crane_Crane.col" modelid="6923" />
+    <file src="modells/crane/crane_Crane.dff" modelid="6923" glassLoad="true" />
+	
+	<!-- Hospital Parking -->
+	<file src="modells/[COUNTRYSIDE]ParkingHospitalMontgomery/park1.txd" modelid="12984" />
+	<file src="modells/[COUNTRYSIDE]ParkingHospitalMontgomery/park1.col" modelid="12984" />
+    <file src="modells/[COUNTRYSIDE]ParkingHospitalMontgomery/park1.dff" modelid="12984" glassLoad="true" />
+	<file src="modells/[COUNTRYSIDE]ParkingHospitalMontgomery/ladoIzq.col" modelid="13022" />
+	
+	<!-- BluebarryOaks -->
+	<file src="modells/[COUNTRYSIDE]BlueberryOaks/comple2.txd" modelid="13077" />
+	<file src="modells/[COUNTRYSIDE]BlueberryOaks/comple2.col" modelid="13077" />
+    <file src="modells/[COUNTRYSIDE]BlueberryOaks/comple2.dff" modelid="13077" glassLoad="true" />
+	
+	<!-- Drugs -->
+	<file src="modells/drugs/kanna.txd" modelid="3385" />
+	<file src="modells/drugs/kanna.dff" modelid="3385" />
+	<file src="modells/drugs/kokacserje.txd" modelid="3277" />
+	<file src="modells/drugs/kokacserje.dff" modelid="3277" />
+	<file src="modells/drugs/mak.txd" modelid="3267" />
+	<file src="modells/drugs/mak.dff" modelid="3267" />
+	<file src="modells/drugs/marihuana.txd" modelid="3259" />
+	<file src="modells/drugs/marihuana.dff" modelid="3259" />
+	
+	<!-- [COUNTRYSIDE]NewsStationDillimore -->	
+	<file src="modells/[COUNTRYSIDE]NewsStationDillimore/noti4.col" modelid="12982" />
+    <file src="modells/[COUNTRYSIDE]NewsStationDillimore/noti4.txd" modelid="12982" />
+    <file src="modells/[COUNTRYSIDE]NewsStationDillimore/noti4.dff" modelid="12982" glassLoad="true" lodDistance="900" />
+	
+	<!-- [COUNTRYSIDE]CasinoPalominoCreek -->	
+	<file src="modells/[COUNTRYSIDE]CasinoPalominoCreek/casino2-Colision.col" modelid="12964" />
+    <file src="modells/[COUNTRYSIDE]CasinoPalominoCreek/casino1.txd" modelid="12964" />
+    <file src="modells/[COUNTRYSIDE]CasinoPalominoCreek/casino2.dff" modelid="12964" glassLoad="true" />
+	<file src="modells/[COUNTRYSIDE]CasinoPalominoCreek/ventanasModificadas.dff" modelid="13461" glassLoad="true" lodDistance="700" />
+	
+	<!-- [COUNTRYSIDE]SpaMontgomery -->	
+	<file src="modells/[COUNTRYSIDE]SpaMontgomery/spa5-Colisiones.col" modelid="13013" />
+    <file src="modells/[COUNTRYSIDE]SpaMontgomery/sw_block12.txd" modelid="13013" />
+    <file src="modells/[COUNTRYSIDE]SpaMontgomery/spa5.dff" modelid="13013" glassLoad="true" lodDistance="700" />
+
+    <!-- [COUNTRYSIDE]TunnelsCounty -->	
+	<file src="modells/[COUNTRYSIDE]TunnelsCounty/tunnels.txd" modelid="[ [ 3911, 3917, 3906, 3923, 3902, 3905, 3907 ] ]" />
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/giroALaDerecha.col" modelid="3911"/>
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/giroALaDerecha.dff" modelid="3911" glassLoad="true" lodDistance="1000" />
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/giroALaIzquierda.col" modelid="3917"/>
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/giroALaIzquierda.dff" modelid="3917" glassLoad="true" lodDistance="1000" />
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/giroHaciaArriba.col" modelid="3906"/>
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/giroHaciaArriba.dff" modelid="3906" glassLoad="true" lodDistance="1000" />
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/tunel1.col" modelid="3923"/>
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/tunel1.dff" modelid="3923" glassLoad="true" lodDistance="1000" />
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/tunelConSalida.col" modelid="3902"/>
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/tunelConSalida.dff" modelid="3902" glassLoad="true" lodDistance="1000" />
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/tapa1.col" modelid="3905"/>
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/tapa1.dff" modelid="3905" glassLoad="true" lodDistance="1000" />
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/varianteTunel1.col" modelid="3907"/>
+    <file src="modells/[COUNTRYSIDE]TunnelsCounty/varianteTunel1.dff" modelid="3907" glassLoad="true" lodDistance="1000" />
+	
+	<!-- [COUNTRYSIDE]LSDestroyedFixHoles -->	
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/mountains.txd" modelid="[ [ 17548, 17599, 17598, 17656, 17574, 17613, 17612, 17654, 5509, 5508, 5121, 4895, 5013, 4807, 5314, 4827, 5135, 4868, 5276, 5271, 5120, 5311, 5330 ] ]" />
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo1.col" modelid="17548"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo1.dff" modelid="17548" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo2.col" modelid="17599"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo2.dff" modelid="17599" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo3.col" modelid="17598"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo3.dff" modelid="17598" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo4.col" modelid="17656"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo4.dff" modelid="17656" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo5.col" modelid="17574"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo5.dff" modelid="17574" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo6.col" modelid="17613"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo6.dff" modelid="17613" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo7.col" modelid="17612"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo7.dff" modelid="17612" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo8.col" modelid="17654"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo8.dff" modelid="17654" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo9.col" modelid="5509"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo9.dff" modelid="5509" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo10.col" modelid="5508"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo10.dff" modelid="5508" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo11.col" modelid="5121"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo11.dff" modelid="5121" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo12.col" modelid="4895"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo12.dff" modelid="4895" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo13.col" modelid="5013"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo13.dff" modelid="5013" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo14.col" modelid="4807"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo14.dff" modelid="4807" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo15.col" modelid="5314"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo15.dff" modelid="5314" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo16.col" modelid="4827"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo16.dff" modelid="4827" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo17.col" modelid="5135"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo17.dff" modelid="5135" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo18.col" modelid="4868"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo18.dff" modelid="4868" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo19.col" modelid="5276"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo19.dff" modelid="5276" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo20.col" modelid="5271"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo20.dff" modelid="5271" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo21.col" modelid="5120"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo21.dff" modelid="5120" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo22.col" modelid="5311"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo22.dff" modelid="5311" lodDistance="3000" />
+	<file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo23.col" modelid="5330"/>
+    <file src="modells/[COUNTRYSIDE]LSDestroyedFixHoles/modelo23.dff" modelid="5330" lodDistance="3000" />
+	
+
+    <download_priority_group>-79</download_priority_group>
+</meta>

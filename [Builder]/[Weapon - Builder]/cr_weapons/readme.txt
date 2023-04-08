@@ -1,0 +1,2 @@
+
+cr_weapons CountrySide

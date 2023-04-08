@@ -1,0 +1,2 @@
+
+cr_nametag CountrySide

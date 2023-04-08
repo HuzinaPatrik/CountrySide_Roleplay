@@ -1,0 +1,13 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.casescript" type="shared" cache="true"></script>
+    <script src="client.casescript" type="client" cache="true"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="files/sounds/deagle_shoot.wav"></file>
+    <file src="files/sounds/glock_shoot.wav"></file>
+    <file src="files/sounds/shotgun_shoot.wav"></file>
+    <file src="files/sounds/silenced_shoot.wav"></file>
+    <file src="files/sounds/sniper_shoot.wav"></file>
+    <file src="files/sounds/huntsman_shoot.wav"></file>
+    <download_priority_group>-143</download_priority_group>
+</meta>

@@ -1,0 +1,335 @@
+<acl>
+   <group name="Everyone">
+      <acl name="Default" />
+      <object name="resource.*" />
+      <object name="user.*" />
+   </group>
+    
+   <group name="Admin">
+      <acl name="Admin" />
+      <object name="user.Patrik" />
+   </group>
+    
+   <group name="Console">
+      <acl name="Admin" />
+      <object name="user.Console" />
+   </group>
+    
+   <group name="Devtools">
+      <acl name="Devtools" />
+      <object name="resource.cr_devtools" />
+   </group>
+
+   <group name="Account">
+      <acl name="Account"/>
+      <object name="resource.cr_account" />
+   </group>
+    
+   <group name="Starter">
+      <acl name="Starter" />
+      <object name="resource.cr_starter" />
+   </group>
+    
+   <group name="Core">
+      <acl name="Core" />
+      <object name="resource.cr_core" />
+   </group>
+    
+   <group name="Anticheat">
+      <acl name="Anticheat" />
+      <object name="resource.cr_anticheat" />
+   </group>
+    
+   <group name="Sync">
+      <acl name="Sync" />
+      <object name="resource.cr_sync" />
+   </group> 
+    
+   <group name="Builder">
+      <acl name="Builder" />
+      <object name="resource.cr_builder" />
+   </group>
+
+   <group name="CustomChat">
+      <acl name="CustomChat" />
+      <object name="resource.cr_custom-chat" />
+   </group>
+
+   <group name="Mapbuilder">
+      <acl name="Mapbuilder" />
+      <object name="resource.cr_mapbuilder" />
+   </group>
+
+   <group name="Modbuilder">
+      <acl name="Modbuilder" />
+      <object name="resource.testfolder3" />
+      <object name="resource.cr_modelbuilder" />
+      <object name="resource.cr_skinbuilder" />
+      <object name="resource.cr_weaponbuilder" />
+      <object name="resource.cr_vehiclebuilder" />
+      <object name="resource.cr_tuningpartbuilder" />
+   </group>
+
+   <group name="Chat">
+      <acl name="Chat" />
+      <object name="resource.cr_chat" />
+   </group>
+    
+   <acl name="Default">
+      <right name="general.ModifyOtherObjects" access="false" />
+      <right name="general.http" access="false" />
+      <right name="command.start" access="false" />
+      <right name="command.stop" access="false" />
+      <right name="command.stopall" access="false" />
+      <right name="command.gamemode" access="false" />
+      <right name="command.changemode" access="false" />
+      <right name="command.changemap" access="false" />
+      <right name="command.stopmode" access="false" />
+      <right name="command.stopmap" access="false" />
+      <right name="command.skipmap" access="false" />
+      <right name="command.restart" access="false" />
+      <right name="command.refresh" access="false" />
+      <right name="command.refreshall" access="false" />
+      <right name="command.addaccount" access="false" />
+      <right name="command.delaccount" access="false" />
+      <right name="command.debugscript" access="false" />
+      <right name="command.chgpass" access="false" />
+      <right name="command.loadmodule" access="false" />
+      <right name="command.unloadmodule" access="false" />
+      <right name="command.reloadmodule" access="false" />
+      <right name="command.upgrade" access="false" />
+      <right name="command.mute" access="false" />
+      <right name="command.crun" access="false" />
+      <right name="command.srun" access="false" />
+      <right name="command.run" access="false" />
+      <right name="command.unmute" access="false" />
+      <right name="command.kick" access="false" />
+      <right name="command.ban" access="false" />
+      <right name="command.banip" access="false" />
+      <right name="command.unbanip" access="false" />
+      <right name="command.reloadbans" access="false" />
+      <right name="command.shutdown" access="false" />
+      <right name="command.install" access="false" />
+      <right name="command.aexec" access="false" />
+      <right name="command.whois" access="false" />
+      <right name="command.whowas" access="false" />
+      <right name="command.aclrequest" access="false" />
+      <right name="command.authserial" access="false" />
+      <right name="command.reloadacl" access="false" />
+      <right name="function.executeCommandHandler" access="false" />
+      <right name="function.triggerClientEvent" access="true" />
+      <right name="function.triggerEvent" access="true" />
+      <right name="function.triggerServerEvent" access="true" />
+      <right name="function.setPlayerMuted" access="false" />
+      <right name="function.addAccount" access="false" />
+      <right name="function.addBan" access="false" />
+      <right name="function.setUnbanTime" access="false" />
+      <right name="function.setBanAdmin" access="false" />
+      <right name="function.setBanReason" access="false" />
+      <right name="function.setBanNick" access="false" />
+      <right name="function.removeBan" access="false" />
+      <right name="function.removeAccount" access="false" />
+      <right name="function.setAccountName" access="false" />
+      <right name="function.setAccountPassword" access="false" />
+      <right name="function.kickPlayer" access="false" />
+      <right name="function.banPlayer" access="false" />
+      <right name="function.getBans" access="false" />
+      <right name="function.reloadBans" access="false" />
+      <right name="function.setServerPassword" access="false" />
+      <right name="function.getServerPassword" access="false" />
+      <right name="function.callRemote" access="false" />
+      <right name="function.fetchRemote" access="false" />
+      <right name="function.startResource" access="false" />
+      <right name="function.stopResource" access="false" />
+      <right name="function.restartResource" access="false" />
+      <right name="function.createResource" access="false" />
+      <right name="function.copyResource" access="false" />
+      <right name="function.addResourceMap" access="false" />
+      <right name="function.addResourceConfig" access="false" />
+      <right name="function.removeResourceFile" access="false" />
+      <right name="function.setResourceDefaultSetting" access="false" />
+      <right name="function.removeResourceDefaultSetting" access="false" />
+      <right name="function.redirectPlayer" access="false" />
+      <right name="function.aclReload" access="false" />
+      <right name="function.aclSave" access="false" />
+      <right name="function.aclCreate" access="false" />
+      <right name="function.aclDestroy" access="false" />
+      <right name="function.aclSetRight" access="false" />
+      <right name="function.aclRemoveRight" access="false" />
+      <right name="function.aclCreateGroup" access="false" />
+      <right name="function.aclDestroyGroup" access="false" />
+      <right name="function.aclGroupAddACL" access="false" />
+      <right name="function.aclGroupRemoveACL" access="false" />
+      <right name="function.aclGroupAddObject" access="false" />
+      <right name="function.aclGroupRemoveObject" access="false" />
+      <right name="function.refreshResources" access="false" />
+      <right name="function.setServerConfigSetting" access="false" />
+      <right name="function.updateResourceACLRequest" access="false" />
+      <right name="function.shutdown" access="false" />
+      <right name="function.setPlayerScriptDebugLevel" access="false" />
+   </acl>
+    
+   <acl name="Admin">
+      <right name="command.start" access="true" />
+      <right name="command.stop" access="true" />
+      <right name="command.restart" access="true" />
+      <right name="command.kick" access="true" />
+      <right name="command.ban" access="true" />
+      <right name="command.banip" access="true" />
+      <right name="command.unbanip" access="true" />
+      <right name="command.reloadbans" access="true" />
+      <right name="command.refresh" access="true" />
+      <right name="command.refreshall" access="true" />
+      <right name="command.loadmodule" access="true" />
+      <right name="command.unloadmodule" access="true" />
+      <right name="command.reloadmodule" access="true" />
+      <right name="command.addaccount" access="true" />
+      <right name="command.delaccount" access="true" />
+      <right name="command.chgpass" access="true" />
+      <right name="function.addAccount" access="true" />
+      <right name="function.removeAccount" access="true" />
+      <right name="function.setAccountName" access="true" />
+      <right name="function.setAccountPassword" access="true" />
+      <right name="command.gamemode" access="true" />
+      <right name="command.changemode" access="true" />
+      <right name="command.changemap" access="true" />
+      <right name="command.stopmode" access="true" />
+      <right name="command.stopmap" access="true" />
+      <right name="command.skipmap" access="true" />
+      <right name="command.mute" access="true" />
+      <right name="command.unmute" access="true" />
+      <right name="command.whois" access="true" />
+      <right name="command.whowas" access="true" />
+      <right name="function.setPlayerMuted" access="true" />
+      <right name="function.kickPlayer" access="true" />
+      <right name="function.banPlayer" access="true" />
+      <right name="function.getBans" access="true" />
+      <right name="function.addBan" access="true" />
+      <right name="function.startResource" access="true" />
+      <right name="function.stopResource" access="true" />
+      <right name="function.restartResource" access="true" />
+      <right name="function.refreshResources" access="true" />
+      <right name="function.redirectPlayer" access="true" />
+      <right name="general.ModifyOtherObjects" access="true" />
+      <right name="general.http" access="true" />
+      <right name="command.shutdown" access="true" />
+      <right name="command.install" access="true" />
+      <right name="command.aexec" access="true" />
+      <right name="command.debugscript" access="true" />
+      <right name="command.upgrade" access="true" />
+      <right name="command.crun" access="true" />
+      <right name="command.srun" access="true" />
+      <right name="command.run" access="true" />
+      <right name="command.aclrequest" access="true" />
+      <right name="command.authserial" access="true" />
+      <right name="command.reloadacl" access="true" />
+      <right name="function.addBan" access="true" />
+      <right name="function.setUnbanTime" access="true" />
+      <right name="function.setBanAdmin" access="true" />
+      <right name="function.setBanReason" access="true" />
+      <right name="function.setBanNick" access="true" />
+      <right name="function.removeBan" access="true" />
+      <right name="function.reloadBans" access="true" />
+      <right name="function.executeCommandHandler" access="true" />
+      <right name="function.setServerPassword" access="true" />
+      <right name="function.getServerPassword" access="true" />
+      <right name="function.createResource" access="true" />
+      <right name="function.copyResource" access="true" />
+      <right name="function.addResourceMap" access="true" />
+      <right name="function.addResourceConfig" access="true" />
+      <right name="function.removeResourceFile" access="true" />
+      <right name="function.setResourceDefaultSetting" access="true" />
+      <right name="function.removeResourceDefaultSetting" access="true" />
+      <right name="function.aclReload" access="true" />
+      <right name="function.aclSave" access="true" />
+      <right name="function.aclCreate" access="true" />
+      <right name="function.aclDestroy" access="true" />
+      <right name="function.aclSetRight" access="true" />
+      <right name="function.aclRemoveRight" access="true" />
+      <right name="function.aclCreateGroup" access="true" />
+      <right name="function.aclDestroyGroup" access="true" />
+      <right name="function.aclGroupAddACL" access="true" />
+      <right name="function.aclGroupRemoveACL" access="true" />
+      <right name="function.aclGroupAddObject" access="true" />
+      <right name="function.aclGroupRemoveObject" access="true" />
+      <right name="function.refreshResources" access="true" />
+      <right name="function.setServerConfigSetting" access="true" />
+      <right name="function.updateResourceACLRequest" access="true" />
+      <right name="function.shutdown" access="true" />
+      <right name="function.setPlayerScriptDebugLevel" access="true" />
+   </acl>
+    
+   <acl name="Devtools">
+      <right name="general.ModifyOtherObjects" access="true" />
+      <right name="function.fetchRemote" access="true" />
+      <right name="function.loadString" access="true" />
+      <right name="function.callRemote" access="true" />
+      <right name="function.setAccountPassword" access="true" />
+   </acl>
+
+   <acl name="Account">
+      <right name="function.kickPlayer" access="true" />
+      <right name="function.callRemote" access="true" />
+   </acl>
+    
+   <acl name="Starter">
+      <right name="general.ModifyOtherObjects" access="true" />
+      <right name="function.startResource" access="true" />
+      <right name="function.restartResource" access="true" />
+      <right name="function.stopResource" access="true" />
+      <right name="function.kickPlayer" access="true" />
+      <right name="function.shutdown" acces="true" />
+   </acl>
+    
+   <acl name="Core">
+      <right name="function.aclReload" access="true" />
+      <right name="function.startResource" access="true" />
+      <right name="function.restartResource" access="true" />
+      <right name="function.kickPlayer" access="true" />
+   </acl>
+    
+   <acl name="Anticheat">
+      <right name="function.fetchRemote" access="true" />
+      <right name="function.kickPlayer" access="true" />
+   </acl>
+    
+   <acl name="Sync">
+      <right name="function.fetchRemote" access="true" />
+   </acl>
+    
+   <acl name="Builder">
+      <right name="general.ModifyOtherObjects" access="true" />
+      <right name="general.http" access="true" />
+      <right name="function.fetchRemote" access="true" />
+      <right name="function.startResource" access="true" />
+      <right name="function.stopResource" access="true" />
+      <right name="function.restartResource" access="true" />
+      <right name="function.call" access="true" />
+      <right name="function.fileLoad" access="true" />
+      <right name="function.loadFile" access="true" />
+      <right name="function.fileOpen" access="true" />
+      <right name="function.openFile" access="true" />
+   </acl>
+
+   <acl name="CustomChat">
+      <right name="function.executeCommandHandler" access="true" />
+   </acl>
+
+   <acl name="Mapbuilder">
+      <right name="general.ModifyOtherObjects" access="true" />
+   </acl>
+
+   <acl name="Modbuilder">
+      <right name="general.ModifyOtherObjects" access="true" />
+      <right name="function.stopResource" access="true" />
+      <right name="function.call" access="true" />
+      <right name="function.fileLoad" access="true" />
+      <right name="function.loadFile" access="true" />
+      <right name="function.fileOpen" access="true" />
+      <right name="function.openFile" access="true" />
+   </acl>
+
+   <acl name="Chat">
+      <right name="function.kickPlayer" access="true" />
+   </acl>
+</acl>

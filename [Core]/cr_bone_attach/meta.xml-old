@@ -1,0 +1,21 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <export function="attachElementToBone" type="server"></export>
+    <export function="attachElementToBone" type="client"></export>
+    <export function="detachElementFromBone" type="server"></export>
+    <export function="detachElementFromBone" type="client"></export>
+    <export function="isElementAttachedToBone" type="server"></export>
+    <export function="isElementAttachedToBone" type="client"></export>
+    <export function="getElementBoneAttachmentDetails" type="server"></export>
+    <export function="getElementBoneAttachmentDetails" type="client"></export>
+    <export function="setElementBonePositionOffset" type="server"></export>
+    <export function="setElementBonePositionOffset" type="client"></export>
+    <export function="setElementBoneRotationOffset" type="server"></export>
+    <export function="setElementBoneRotationOffset" type="client"></export>
+    <export function="getBonePositionAndRotation" type="client"></export>
+    <download_priority_group>-43</download_priority_group>
+</meta>

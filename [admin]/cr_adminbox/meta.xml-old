@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="notificationIcons/kick.png"></file>
+    <file src="notificationIcons/jail.png"></file>
+    <file src="notificationIcons/ban.png"></file>
+    <file src="files/beep.mp3"></file>
+    <export function="addBox" type="client"></export>
+    <download_priority_group>-36</download_priority_group>
+</meta>

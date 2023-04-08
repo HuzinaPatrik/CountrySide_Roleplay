@@ -1,0 +1,16 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="files/images/siren.png"></file>
+    <file src="files/images/horn.png"></file>
+    <file src="files/images/lights.png"></file>
+    <file src="files/sounds/1.wav"></file>
+    <file src="files/sounds/2.wav"></file>
+    <file src="files/sounds/3.wav"></file>
+    <file src="files/sounds/horn.mp3"></file>
+    <export function="createSirenObject" type="client"></export>
+    <download_priority_group>-117</download_priority_group>
+</meta>

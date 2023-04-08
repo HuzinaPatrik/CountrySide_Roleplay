@@ -1,0 +1,4 @@
+[2020-07-21 01:10:07] Login ip check -> Player: GBC, IP: 179.192.32.193, Serial: 57C15DF834C43297619DB470706CEA03, Version: 343, Country: BR, Hostname: 179-192-32-193.user.veloxzone.com.br, City: Betim, Loc: -19.9678,-44.1983, Org: AS7738 Telemar Norte Leste S.A.
+[2020-07-21 01:10:39] Login deny (country) -> Player: GBC, IP: 179.192.32.193, Serial: 57C15DF834C43297619DB470706CEA03, Version: 343
+[2020-07-21 02:01:47] Login deny (country) -> Player: GBC, IP: 179.192.32.193, Serial: 57C15DF834C43297619DB470706CEA03, Version: 343
+[2020-07-21 18:17:07] Login deny (country) -> Player: GBC, IP: 179.192.32.193, Serial: 57C15DF834C43297619DB470706CEA03, Version: 343

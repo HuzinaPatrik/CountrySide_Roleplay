@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <export function="jsonGET" type="shared"></export>
+    <export function="jsonSAVE" type="shared"></export>
+    <download_priority_group>-4</download_priority_group>
+</meta>

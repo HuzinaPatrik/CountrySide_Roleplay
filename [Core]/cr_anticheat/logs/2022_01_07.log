@@ -1,0 +1,35 @@
+[2022-01-07 12:33:54] Login ip check -> Player: MR, IP: 111.96.214.140, Serial: 590E099870561524419024413FA9E452, Version: 345, Country: JP, Hostname: kd111096214140.ppp-bb.dion.ne.jp, City: Nagoya, Loc: 35.1589,136.8575, Org: AS2516 KDDI CORPORATION
+[2022-01-07 12:42:06] Login deny (country) -> Player: MR, IP: 111.96.214.140, Serial: 590E099870561524419024413FA9E452, Version: 345
+[2022-01-07 12:52:58] Login ip check -> Player: MR, IP: 219.100.37.233, Serial: 590E099870561524419024413FA9E452, Version: 345, Country: JP, Hostname: public-nat-01.vpngate.v4.open.ad.jp, City: Tokyo, Loc: 35.6895,139.6917, Org: AS36599 SoftEther Telecommunication Research Institute, LLC
+[2022-01-07 13:01:26] Login deny (country) -> Player: MR, IP: 111.96.214.140, Serial: 590E099870561524419024413FA9E452, Version: 345
+[2022-01-07 18:32:17] Login ip check -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345, Country: SA, Hostname: 82-78-49-32.rdsnet.ro, City: Riyadh, Loc: 24.6877,46.7219, Org: AS8708 RCS & RDS SA
+[2022-01-07 18:34:43] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:34:58] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:35:07] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:36:03] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:36:34] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:37:18] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:38:04] Login ip check -> Player: NonchalantComposer90, IP: 78.92.94.165, Serial: 7D7C0DB1D884FA95C5D12CDDE0BBC483, Version: 345, Country: TR, Hostname: 4e5c5ea5.dsl.pool.telekom.hu, City: Sancaktepe, Loc: 41.0297,29.2254, Org: AS5483 Magyar Telekom plc.
+[2022-01-07 18:38:11] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:39:02] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:39:52] Login deny (country) -> Player: NonchalantComposer90, IP: 78.92.94.165, Serial: 7D7C0DB1D884FA95C5D12CDDE0BBC483, Version: 345
+[2022-01-07 18:39:58] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:40:14] Login deny (country) -> Player: NonchalantComposer90, IP: 78.92.94.165, Serial: 7D7C0DB1D884FA95C5D12CDDE0BBC483, Version: 345
+[2022-01-07 18:40:56] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:42:01] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:44:42] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:45:07] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:47:27] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:48:13] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 18:54:17] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 19:10:11] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 19:12:28] Login deny (country) -> Player: NonchalantComposer90, IP: 78.92.94.165, Serial: 7D7C0DB1D884FA95C5D12CDDE0BBC483, Version: 345
+[2022-01-07 19:14:25] Login deny (country) -> Player: NonchalantComposer90, IP: 78.92.94.165, Serial: 7D7C0DB1D884FA95C5D12CDDE0BBC483, Version: 345
+[2022-01-07 19:18:31] Login deny (country) -> Player: NonchalantComposer90, IP: 78.92.94.165, Serial: 7D7C0DB1D884FA95C5D12CDDE0BBC483, Version: 345
+[2022-01-07 19:21:57] Login deny (country) -> Player: NonchalantComposer90, IP: 78.92.94.165, Serial: 7D7C0DB1D884FA95C5D12CDDE0BBC483, Version: 345
+[2022-01-07 19:27:23] Login deny (country) -> Player: petrrik, IP: 82.78.49.32, Serial: 7FA5A28D3F7824833199E1FD74AF8142, Version: 345
+[2022-01-07 19:30:18] Login deny (country) -> Player: NonchalantComposer90, IP: 78.92.94.165, Serial: 7D7C0DB1D884FA95C5D12CDDE0BBC483, Version: 345
+[2022-01-07 21:36:20] Login ip check -> Player: LegalSandwich89, IP: 154.47.103.107, Serial: 3B62C589301B2F0494490D5E006AB282, Version: 345, Country: CA, Hostname: none, City: Montréal, Loc: 45.5005,-73.5684, Org: AS212655 YouFibre Limited
+[2022-01-07 22:04:14] Login deny (country) -> Player: LegalSandwich89, IP: 154.47.103.107, Serial: 3B62C589301B2F0494490D5E006AB282, Version: 345
+[2022-01-07 22:04:21] Login deny (country) -> Player: LegalSandwich89, IP: 154.47.103.107, Serial: 3B62C589301B2F0494490D5E006AB282, Version: 345
+[2022-01-07 22:04:55] Login deny (country) -> Player: LegalSandwich89, IP: 154.47.103.107, Serial: 3B62C589301B2F0494490D5E006AB282, Version: 345

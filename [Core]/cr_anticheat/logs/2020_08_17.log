@@ -1,0 +1,5 @@
+[2020-08-17 15:36:35] Login ip check -> Player: dawdawdawd, IP: 89.1.209.211, Serial: E345C22E4D457299D11611AA84B4F692, Version: 343, Country: SE, Hostname: cgn-89-1-209-211.nc.de, City: Stockholm, Loc: 59.3294,18.0687, Org: AS8422 NetCologne Gesellschaft fur Telekommunikation mbH
+[2020-08-17 15:39:46] Login deny (country) -> Player: dawdawdawd, IP: 89.1.209.211, Serial: E345C22E4D457299D11611AA84B4F692, Version: 343
+[2020-08-17 16:52:19] Login ip check -> Player: FFA500MonsterCiastko, IP: 80.51.70.123, Serial: 1D4B5FB6B25CF1EE097FF6568C5686B2, Version: 343, Country: PL, Hostname: none, City: Chodel, Loc: 51.1118,22.1327, Org: AS5617 Orange Polska Spolka Akcyjna
+[2020-08-17 16:52:25] Login deny (country) -> Player: FFA500MonsterCiastko, IP: 80.51.70.123, Serial: 1D4B5FB6B25CF1EE097FF6568C5686B2, Version: 343
+[2020-08-17 16:52:31] Login deny (country) -> Player: FFA500MonsterCiastko, IP: 80.51.70.123, Serial: 1D4B5FB6B25CF1EE097FF6568C5686B2, Version: 343

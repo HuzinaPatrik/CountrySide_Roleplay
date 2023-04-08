@@ -1,0 +1,1 @@
+minimumSalary = 250;

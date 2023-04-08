@@ -1,0 +1,11 @@
+<meta>
+    <oop>true</oop>
+    <script src="lib/underscore.lua" type="server" cache="false"></script>
+    <script src="utils.lua" type="server" cache="false"></script>
+    <script src="main.lua" type="server" cache="false"></script>
+    <export function="processResource" type="server"></export>
+    <export function="unbuildResource" type="server"></export>
+    <export function="compileData" type="server"></export>
+    <export function="decompileData" type="server"></export>
+    <download_priority_group>-44</download_priority_group>
+</meta>

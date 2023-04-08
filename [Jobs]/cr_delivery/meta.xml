@@ -1,0 +1,27 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="global.countryscript" type="shared" cache="true"></script>
+    <script src="interactions/client.countryscript" type="client" cache="true"></script>
+    <script src="jobvehicles/client.countryscript" type="client" cache="true"></script>
+    <script src="pda/client.countryscript" type="client" cache="true"></script>
+    <script src="crate/sync.countryscript" type="client" cache="true"></script>
+    <script src="crate/client.countryscript" type="client" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <script src="server.countryscript" type="server" cache="true"></script>
+    <script src="pda/server.countryscript" type="server" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="files/images/pda/bg.png"></file>
+    <file src="files/images/pda/battery.png"></file>
+    <file src="files/images/pda/signal.png"></file>
+    <file src="files/images/pda/wifi.png"></file>
+    <file src="files/images/pda/location.png"></file>
+    <file src="files/images/pda/location_hover.png"></file>
+    <file src="files/images/pda/delivered.png"></file>
+    <file src="files/images/pda/delivered_hover.png"></file>
+    <file src="files/images/panel/letter.png"></file>
+    <file src="files/images/panel/package.png"></file>
+    <download_priority_group>-60</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

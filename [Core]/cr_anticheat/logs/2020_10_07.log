@@ -1,0 +1,5 @@
+[2020-10-07 09:03:47] Login ip check -> Player: hurkapal, IP: 89.1.209.253, Serial: E345C22E4D457299D11611AA84B4F692, Version: 343, Country: SE, Hostname: cgn-89-1-209-253.nc.de, City: Stockholm, Loc: 59.3294,18.0687, Org: AS8422 NetCologne Gesellschaft fur Telekommunikation mbH
+[2020-10-07 09:09:32] Login deny (country) -> Player: hurkapal, IP: 89.1.209.253, Serial: E345C22E4D457299D11611AA84B4F692, Version: 343
+[2020-10-07 09:21:24] Login deny (country) -> Player: hurkapal, IP: 89.1.209.253, Serial: E345C22E4D457299D11611AA84B4F692, Version: 343
+[2020-10-07 09:26:57] Login deny (country) -> Player: hurkapal, IP: 89.1.209.253, Serial: E345C22E4D457299D11611AA84B4F692, Version: 343
+[2020-10-07 09:39:47] Login deny (country) -> Player: hurkapal, IP: 89.1.209.253, Serial: E345C22E4D457299D11611AA84B4F692, Version: 343

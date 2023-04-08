@@ -1,0 +1,90 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="global.countryscript" type="shared" cache="true"></script>
+    <script src="server.countryscript" type="server" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <script src="bar/client.countryscript" type="client" cache="true"></script>
+    <script src="statistic/client.countryscript" type="client" cache="true"></script>
+    <script src="data/client.countryscript" type="client" cache="true"></script>
+    <script src="viewer/client.countryscript" type="client" cache="true"></script>
+    <script src="selector/client.countryscript" type="client" cache="true"></script>
+    <script src="buy/client.countryscript" type="client" cache="true"></script>
+    <script src="colorpicker/client.countryscript" type="client" cache="true"></script>
+    <script src="neon/client.countryscript" type="client" cache="true"></script>
+    <script src="paintjob/client.countryscript" type="client" cache="true"></script>
+    <script src="horn/client.countryscript" type="client" cache="true"></script>
+    <script src="lsddoor/client.countryscript" type="client" cache="true"></script>
+    <script src="nitro/client.countryscript" type="client" cache="true"></script>
+    <script src="airride/client.countryscript" type="client" cache="true"></script>
+    <script src="backfire/client.countryscript" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="files/images/category/1/1.png"></file>
+    <file src="files/images/category/1/2.png"></file>
+    <file src="files/images/category/1/3.png"></file>
+    <file src="files/images/category/1/4.png"></file>
+    <file src="files/images/category/1/5.png"></file>
+    <file src="files/images/category/1/6.png"></file>
+    <file src="files/images/category/1/7.png"></file>
+    <file src="files/images/category/1/8.png"></file>
+    <file src="files/images/category/1/9.png"></file>
+    <file src="files/images/category/1/10.png"></file>
+    <file src="files/images/category/2/1.png"></file>
+    <file src="files/images/category/2/2.png"></file>
+    <file src="files/images/category/2/3.png"></file>
+    <file src="files/images/category/2/4.png"></file>
+    <file src="files/images/category/2/5.png"></file>
+    <file src="files/images/category/2/6.png"></file>
+    <file src="files/images/category/2/7.png"></file>
+    <file src="files/images/category/2/8.png"></file>
+    <file src="files/images/category/2/9.png"></file>
+    <file src="files/images/category/2/10.png"></file>
+    <file src="files/images/category/3/1.png"></file>
+    <file src="files/images/category/3/2.png"></file>
+    <file src="files/images/category/3/3.png"></file>
+    <file src="files/images/category/3/4.png"></file>
+    <file src="files/images/category/3/5.png"></file>
+    <file src="files/images/category/3/6.png"></file>
+    <file src="files/images/category/3/7.png"></file>
+    <file src="files/images/category/4/1.png"></file>
+    <file src="files/images/category/4/2.png"></file>
+    <file src="files/images/category/4/3.png"></file>
+    <file src="files/images/category/4/4.png"></file>
+    <file src="files/images/category/4/5.png"></file>
+    <file src="files/images/category/4/6.png"></file>
+    <file src="files/images/category/4/7.png"></file>
+    <file src="files/images/category/4/8.png"></file>
+    <file src="files/images/category/4/9.png"></file>
+    <file src="files/images/category/4/10.png"></file>
+    <file src="files/images/category/4/11.png"></file>
+    <file src="files/images/category/4/12.png"></file>
+    <file src="files/colorpicker/paletteHandle.png"></file>
+    <file src="files/airride/bg.png"></file>
+    <file src="files/airride/airride.mp3"></file>
+    <file src="files/sounds/menuenter.mp3"></file>
+    <file src="files/sounds/menunavigate.mp3"></file>
+    <file src="files/sounds/horn/1.mp3"></file>
+    <file src="files/sounds/horn/2.mp3"></file>
+    <file src="files/sounds/horn/3.mp3"></file>
+    <file src="paintjob/416/1.png"></file>
+    <file src="paintjob/416/2.png"></file>
+    <file src="neon/modells/neon.col"></file>
+    <file src="neon/modells/blue.dff"></file>
+    <file src="neon/modells/green.dff"></file>
+    <file src="neon/modells/ice.dff"></file>
+    <file src="neon/modells/lightblue.dff"></file>
+    <file src="neon/modells/orange.dff"></file>
+    <file src="neon/modells/pink.dff"></file>
+    <file src="neon/modells/rasta.dff"></file>
+    <file src="neon/modells/red.dff"></file>
+    <file src="neon/modells/white.dff"></file>
+    <file src="neon/modells/yellow.dff"></file>
+    <export function="addOpticalTuning" type="server"></export>
+    <export function="setVehicleHandlingFlags" type="server"></export>
+    <export function="setVehicleHandling" type="server"></export>
+    <export function="stopNitro" type="client"></export>
+    <export function="getNeonNames" type="client"></export>
+    <download_priority_group>-28</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

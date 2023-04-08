@@ -1,0 +1,74 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="global.countryscript" type="shared" cache="true"></script>
+    <script src="server.countryscript" type="server" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <script src="jobvehicle/client.countryscript" type="client" cache="true"></script>
+    <script src="list/server.countryscript" type="server" cache="true"></script>
+    <script src="list/client.countryscript" type="client" cache="true"></script>
+    <script src="pizza/server.countryscript" type="server" cache="true"></script>
+    <script src="pizza/client.countryscript" type="client" cache="true"></script>
+    <script src="pizza/sync.countryscript" type="client" cache="true"></script>
+    <script src="making/server.countryscript" type="server" cache="true"></script>
+    <script src="making/client.countryscript" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="assets/images/bg.png"></file>
+    <file src="assets/images/makerBG.png"></file>
+    <file src="assets/images/pizzaBG.png"></file>
+    <file src="assets/images/pizzaBox.png"></file>
+    <file src="assets/images/reset.png"></file>
+    <file src="assets/images/icon.png"></file>
+    <file src="assets/images/sauce/1/icon.png"></file>
+    <file src="assets/images/sauce/1/overlay.png"></file>
+    <file src="assets/images/sauce/2/icon.png"></file>
+    <file src="assets/images/sauce/2/overlay.png"></file>
+    <file src="assets/images/topping/fruit/1/icon.png"></file>
+    <file src="assets/images/topping/fruit/1/overlay.png"></file>
+    <file src="assets/images/topping/fruit/2/icon.png"></file>
+    <file src="assets/images/topping/fruit/2/overlay.png"></file>
+    <file src="assets/images/topping/fruit/3/icon.png"></file>
+    <file src="assets/images/topping/fruit/3/overlay.png"></file>
+    <file src="assets/images/topping/fruit/4/icon.png"></file>
+    <file src="assets/images/topping/fruit/4/overlay.png"></file>
+    <file src="assets/images/topping/fruit/5/icon.png"></file>
+    <file src="assets/images/topping/fruit/5/overlay.png"></file>
+    <file src="assets/images/topping/fruit/6/icon.png"></file>
+    <file src="assets/images/topping/fruit/6/overlay.png"></file>
+    <file src="assets/images/topping/fruit/7/icon.png"></file>
+    <file src="assets/images/topping/fruit/7/overlay.png"></file>
+    <file src="assets/images/topping/fruit/8/icon.png"></file>
+    <file src="assets/images/topping/fruit/8/overlay.png"></file>
+    <file src="assets/images/topping/meat/1/icon.png"></file>
+    <file src="assets/images/topping/meat/1/overlay.png"></file>
+    <file src="assets/images/topping/meat/2/icon.png"></file>
+    <file src="assets/images/topping/meat/2/overlay.png"></file>
+    <file src="assets/images/topping/meat/3/icon.png"></file>
+    <file src="assets/images/topping/meat/3/overlay.png"></file>
+    <file src="assets/images/topping/meat/4/icon.png"></file>
+    <file src="assets/images/topping/meat/4/overlay.png"></file>
+    <file src="assets/images/topping/meat/5/icon.png"></file>
+    <file src="assets/images/topping/meat/5/overlay.png"></file>
+    <file src="assets/images/topping/meat/6/icon.png"></file>
+    <file src="assets/images/topping/meat/6/overlay.png"></file>
+    <file src="assets/images/topping/meat/7/icon.png"></file>
+    <file src="assets/images/topping/meat/7/overlay.png"></file>
+    <file src="assets/images/cheese/1/icon.png"></file>
+    <file src="assets/images/cheese/1/overlay.png"></file>
+    <file src="assets/images/cheese/2/icon.png"></file>
+    <file src="assets/images/cheese/2/overlay.png"></file>
+    <file src="assets/images/cheese/3/icon.png"></file>
+    <file src="assets/images/cheese/3/overlay.png"></file>
+    <file src="assets/images/drinks/1/icon.png"></file>
+    <file src="assets/images/drinks/2/icon.png"></file>
+    <file src="assets/images/drinks/3/icon.png"></file>
+    <file src="assets/images/drinks/4/icon.png"></file>
+    <file src="assets/images/drinks/5/icon.png"></file>
+    <file src="assets/images/drinks/6/icon.png"></file>
+    <file src="assets/images/drinks/7/icon.png"></file>
+    <file src="assets/images/drinks/8/icon.png"></file>
+    <file src="assets/images/drinks/9/icon.png"></file>
+    <download_priority_group>-101</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

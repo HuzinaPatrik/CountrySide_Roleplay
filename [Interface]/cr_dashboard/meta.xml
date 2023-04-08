@@ -1,0 +1,246 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="global.countryscript" type="shared" cache="true"></script>
+    <script src="async/global.countryscript" type="shared" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <script src="bar/client.countryscript" type="client" cache="true"></script>
+    <script src="alert/client.countryscript" type="client" cache="true"></script>
+    <script src="premiumCode/server.countryscript" type="server" cache="true"></script>
+    <script src="group/client.countryscript" type="client" cache="true"></script>
+    <script src="group/server.countryscript" type="server" cache="true"></script>
+    <script src="colorpicker/client.countryscript" type="client" cache="true"></script>
+    <script src="pet/client.countryscript" type="client" cache="true"></script>
+    <script src="pet/followC.countryscript" type="client" cache="true"></script>
+    <script src="pet/server.countryscript" type="server" cache="true"></script>
+    <script src="options/client.countryscript" type="client" cache="true"></script>
+    <script src="faction/client.countryscript" type="client" cache="true"></script>
+    <script src="faction/server.countryscript" type="server" cache="true"></script>
+    <script src="duty/client.countryscript" type="client" cache="true"></script>
+    <script src="duty/server.countryscript" type="server" cache="true"></script>
+    <script src="shaders/sky/c_main.countryscript" type="client" cache="true"></script>
+    <script src="shaders/sky/c_helper_functions.countryscript" type="client" cache="true"></script>
+    <script src="shaders/blackwhite/client.countryscript" type="client" cache="true"></script>
+    <script src="shaders/motionblur/matrix/complex.countryscript" type="client" cache="true"></script>
+    <script src="shaders/motionblur/matrix/matrix.countryscript" type="client" cache="true"></script>
+    <script src="shaders/motionblur/c_radial_blur.countryscript" type="client" cache="true"></script>
+    <script src="shaders/bloom/client.countryscript" type="client" cache="true"></script>
+    <script src="shaders/bloom/c_rtpool2.countryscript" type="client" cache="true"></script>
+    <script src="shaders/hdr/c_contrast.countryscript" type="client" cache="true"></script>
+    <script src="shaders/hdr/c_rtpool.countryscript" type="client" cache="true"></script>
+    <script src="shaders/vignette/client.countryscript" type="client" cache="true"></script>
+    <script src="shaders/pencil/PencilShader.countryscript" type="client" cache="true"></script>
+    <script src="shaders/carshinereflection/client_carshader.countryscript" type="client" cache="true"></script>
+    <script src="shaders/night/client.countryscript" type="client" cache="true"></script>
+    <script src="shaders/water/c_water.countryscript" type="client" cache="true"></script>
+    <script src="shaders/palette/c_palette.countryscript" type="client" cache="true"></script>
+    <script src="shaders/palette/c_rtpool.countryscript" type="client" cache="true"></script>
+    <script src="shaders/detail/c_detail.countryscript" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="assets/images/overview.png"></file>
+    <file src="assets/images/gradient.png"></file>
+    <file src="assets/images/property.png"></file>
+    <file src="assets/images/faction.png"></file>
+    <file src="assets/images/admins.png"></file>
+    <file src="assets/images/dutyicon.png"></file>
+    <file src="assets/images/group.png"></file>
+    <file src="assets/images/donate.png"></file>
+    <file src="assets/images/pet.png"></file>
+    <file src="assets/images/options.png"></file>
+    <file src="assets/images/modpanel.png"></file>
+    <file src="assets/images/descEdit.png"></file>
+    <file src="assets/images/warning.png"></file>
+    <file src="assets/images/add.png"></file>
+    <file src="assets/images/key.png"></file>
+    <file src="assets/images/safe.png"></file>
+    <file src="assets/images/dutyskin.png"></file>
+    <file src="assets/images/leader.png"></file>
+    <file src="assets/images/donate-bg.png"></file>
+    <file src="assets/images/pencil.png"></file>
+    <file src="assets/images/arrow.png"></file>
+    <file src="assets/images/pet-love.png"></file>
+    <file src="assets/images/pet-hp.png"></file>
+    <file src="assets/images/pet-food.png"></file>
+    <file src="assets/images/pet-water.png"></file>
+    <file src="assets/images/checkbox-off.png"></file>
+    <file src="assets/images/checkbox-on.png"></file>
+    <file src="assets/images/check.png"></file>
+    <file src="assets/sounds/open.mp3"></file>
+    <file src="assets/sounds/click.mp3"></file>
+    <file src="assets/sounds/dogattack.mp3"></file>
+    <file src="assets/sounds/dogbarking.mp3"></file>
+    <file src="assets/sounds/caress.mp3"></file>
+    <file src="assets/sounds/whistle.mp3"></file>
+    <file src="assets/vehicles/401.png"></file>
+    <file src="assets/vehicles/402.png"></file>
+    <file src="assets/vehicles/404.png"></file>
+    <file src="assets/vehicles/413.png"></file>
+    <file src="assets/vehicles/416.png"></file>
+    <file src="assets/vehicles/418.png"></file>
+    <file src="assets/vehicles/422.png"></file>
+    <file src="assets/vehicles/429.png"></file>
+    <file src="assets/vehicles/436.png"></file>
+    <file src="assets/vehicles/456.png"></file>
+    <file src="assets/vehicles/458.png"></file>
+    <file src="assets/vehicles/461.png"></file>
+    <file src="assets/vehicles/463.png"></file>
+    <file src="assets/vehicles/475.png"></file>
+    <file src="assets/vehicles/479.png"></file>
+    <file src="assets/vehicles/490.png"></file>
+    <file src="assets/vehicles/491.png"></file>
+    <file src="assets/vehicles/500.png"></file>
+    <file src="assets/vehicles/502.png"></file>
+    <file src="assets/vehicles/506.png"></file>
+    <file src="assets/vehicles/507.png"></file>
+    <file src="assets/vehicles/508.png"></file>
+    <file src="assets/vehicles/516.png"></file>
+    <file src="assets/vehicles/518.png"></file>
+    <file src="assets/vehicles/526.png"></file>
+    <file src="assets/vehicles/565.png"></file>
+    <file src="assets/vehicles/529.png"></file>
+    <file src="assets/vehicles/505.png"></file>
+    <file src="assets/vehicles/528.png"></file>
+    <file src="assets/vehicles/536.png"></file>
+    <file src="assets/vehicles/546.png"></file>
+    <file src="assets/vehicles/547.png"></file>
+    <file src="assets/vehicles/551.png"></file>
+    <file src="assets/vehicles/554.png"></file>
+    <file src="assets/vehicles/559.png"></file>
+    <file src="assets/vehicles/579.png"></file>
+    <file src="assets/vehicles/581.png"></file>
+    <file src="assets/vehicles/585.png"></file>
+    <file src="assets/vehicles/586.png"></file>
+    <file src="assets/vehicles/596.png"></file>
+    <file src="assets/vehicles/597.png"></file>
+    <file src="assets/vehicles/598.png"></file>
+    <file src="assets/vehicles/602.png"></file>
+    <file src="assets/pets/314.png"></file>
+    <file src="assets/pets/315.png"></file>
+    <file src="assets/pets/316.png"></file>
+    <file src="assets/pets/317.png"></file>
+    <file src="shaders/sky/fx/shader_dynamicSky2tropos.fx"></file>
+    <file src="shaders/sky/fx/shader_dynamicSky2stratos.fx"></file>
+    <file src="shaders/sky/fx/shader_dynamicSky2up.fx"></file>
+    <file src="shaders/sky/fx/shader_dynamicSky2bottom.fx"></file>
+    <file src="shaders/sky/fx/shader_dynamicSky2down.fx"></file>
+    <file src="shaders/sky/fx/shader_clear.fx"></file>
+    <file src="shaders/sky/tex/skybox.dds"></file>
+    <file src="shaders/sky/tex/clouds.dds"></file>
+    <file src="shaders/sky/tex/clouds_normal.jpg"></file>
+    <file src="shaders/sky/tex/moon/0.png"></file>
+    <file src="shaders/sky/tex/moon/1.png"></file>
+    <file src="shaders/sky/tex/moon/10.png"></file>
+    <file src="shaders/sky/tex/moon/11.png"></file>
+    <file src="shaders/sky/tex/moon/12.png"></file>
+    <file src="shaders/sky/tex/moon/13.png"></file>
+    <file src="shaders/sky/tex/moon/14.png"></file>
+    <file src="shaders/sky/tex/moon/15.png"></file>
+    <file src="shaders/sky/tex/moon/16.png"></file>
+    <file src="shaders/sky/tex/moon/17.png"></file>
+    <file src="shaders/sky/tex/moon/18.png"></file>
+    <file src="shaders/sky/tex/moon/19.png"></file>
+    <file src="shaders/sky/tex/moon/2.png"></file>
+    <file src="shaders/sky/tex/moon/20.png"></file>
+    <file src="shaders/sky/tex/moon/3.png"></file>
+    <file src="shaders/sky/tex/moon/4.png"></file>
+    <file src="shaders/sky/tex/moon/5.png"></file>
+    <file src="shaders/sky/tex/moon/6.png"></file>
+    <file src="shaders/sky/tex/moon/7.png"></file>
+    <file src="shaders/sky/tex/moon/8.png"></file>
+    <file src="shaders/sky/tex/moon/9.png"></file>
+    <file src="shaders/sky/dff/skybox_model.dff"></file>
+    <file src="shaders/sky/tex/skybox_model.txd"></file>
+    <file src="shaders/blackwhite/fx/blackwhite.fx"></file>
+    <file src="shaders/motionblur/fx/radial_blur.fx"></file>
+    <file src="shaders/motionblur/fx/mta-helper.fx"></file>
+    <file src="shaders/motionblur/images/radial_mask.tga"></file>
+    <file src="shaders/bloom/fx/addBlend.fx"></file>
+    <file src="shaders/bloom/fx/blurH.fx"></file>
+    <file src="shaders/bloom/fx/blurV.fx"></file>
+    <file src="shaders/bloom/fx/brightPass.fx"></file>
+    <file src="shaders/bloom/fx/mta-helper.fx"></file>
+    <file src="shaders/hdr/fx/bloom_combine.fx"></file>
+    <file src="shaders/hdr/fx/bloom_extract.fx"></file>
+    <file src="shaders/hdr/fx/blurH.fx"></file>
+    <file src="shaders/hdr/fx/blurV.fx"></file>
+    <file src="shaders/hdr/fx/contrast.fx"></file>
+    <file src="shaders/hdr/fx/modulation.fx"></file>
+    <file src="shaders/hdr/fx/mta-helper.fx"></file>
+    <file src="shaders/hdr/images/vignette1.dds"></file>
+    <file src="shaders/vignette/vignette.fx"></file>
+    <file src="shaders/pencil/shaders/PencilShader.fx"></file>
+    <file src="shaders/carshinereflection/fx/car_glass.fx"></file>
+    <file src="shaders/carshinereflection/fx/car_paint.fx"></file>
+    <file src="shaders/carshinereflection/fx/car_glass_layer.fx"></file>
+    <file src="shaders/carshinereflection/fx/car_paint_layer.fx"></file>
+    <file src="shaders/carshinereflection/fx/mta-helper.fx"></file>
+    <file src="shaders/carshinereflection/images/smallnoise3d.dds"></file>
+    <file src="shaders/night/night.fx"></file>
+    <file src="shaders/night/mta-helper.fx"></file>
+    <file src="shaders/water/water.fx"></file>
+    <file src="shaders/water/mta-helper.fx"></file>
+    <file src="shaders/water/images/smallnoise3d.dds"></file>
+    <file src="shaders/water/images/cube_env256.dds"></file>
+    <file src="shaders/water/files/texturechanger.fx"></file>
+    <file src="shaders/water/files/waterclear256.png"></file>
+    <file src="shaders/water/files/waterwake.png"></file>
+    <file src="shaders/palette/fx/chromatic.fx"></file>
+    <file src="shaders/palette/fx/palette.fx"></file>
+    <file src="shaders/palette/palette/enbpalette1.png"></file>
+    <file src="shaders/palette/palette/enbpalette2.png"></file>
+    <file src="shaders/palette/palette/enbpalette3.png"></file>
+    <file src="shaders/palette/palette/enbpalette4.png"></file>
+    <file src="shaders/palette/palette/enbpalette5.png"></file>
+    <file src="shaders/palette/palette/enbpalette6.png"></file>
+    <file src="shaders/palette/palette/enbpalette7.png"></file>
+    <file src="shaders/palette/palette/enbpalette8.png"></file>
+    <file src="shaders/palette/palette/enbpalette9.png"></file>
+    <file src="shaders/palette/palette/enbpalette10.png"></file>
+    <file src="shaders/detail/fx/detail.fx"></file>
+    <file src="shaders/detail/fx/mta-helper.fx"></file>
+    <file src="shaders/detail/files/dirty.png"></file>
+    <file src="shaders/detail/files/detail04.png"></file>
+    <file src="shaders/detail/files/detail22.png"></file>
+    <file src="shaders/detail/files/detail29.png"></file>
+    <file src="shaders/detail/files/detail35T.png"></file>
+    <file src="shaders/detail/files/detail55.png"></file>
+    <file src="shaders/detail/files/detail58.png"></file>
+    <file src="shaders/detail/files/detail63.png"></file>
+    <file src="shaders/detail/files/detail68.png"></file>
+    <export function="createAlert" type="client"></export>
+    <export function="clearAlerts" type="client"></export>
+    <export function="isAlertsActive" type="client"></export>
+    <export function="isPlayerInFaction" type="shared"></export>
+    <export function="isPlayerInFactionType" type="shared"></export>
+    <export function="isPlayerFactionLeader" type="shared"></export>
+    <export function="hasPlayerPermission" type="shared"></export>
+    <export function="getPlayerFactions" type="client"></export>
+    <export function="sendMessageToFaction" type="shared"></export>
+    <export function="getFactionType" type="shared"></export>
+    <export function="getFactionBankMoney" type="shared"></export>
+    <export function="setFactionBankMoney" type="server"></export>
+    <export function="requestFactionMoney" type="server"></export>
+    <export function="giveFactionMoney" type="server"></export>
+    <export function="giveMoneyToFaction" type="server"></export>
+    <export function="takeFactionMoney" type="server"></export>
+    <export function="createPremiumCode" type="server"></export>
+    <export function="checkPlayerDutyStatus" type="server"></export>
+    <export function="getFactionMembers" type="shared"></export>
+    <export function="getPlayerFactionRank" type="client"></export>
+    <export function="getPlayerFactionRankName" type="shared"></export>
+    <export function="getFactionName" type="client"></export>
+    <export function="getPlayerFactionRankPayment" type="client"></export>
+    <export function="getFactionRankPayment" type="client"></export>
+    <export function="getPlayerVehicles" type="client"></export>
+    <export function="getPlayerInterior" type="client"></export>
+    <export function="getOption" type="client"></export>
+    <export function="closeDash" type="client"></export>
+    <export function="getAvailableFactions" type="server"></export>
+    <export function="getDynamicSunVector" type="client"></export>
+    <export function="getDynamicMoonVector" type="client"></export>
+    <export function="getMoonPhaseValue" type="client"></export>
+    <export function="isDynamicSkyEnabled" type="client"></export>
+    <download_priority_group>-21</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

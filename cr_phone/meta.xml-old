@@ -1,0 +1,188 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="bar/client.lua" type="client" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="factioncall/client.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <script src="factioncall/server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="files/images/phone.png"></file>
+    <file src="files/images/lockscreens/lockui.png"></file>
+    <file src="files/images/wallpapers/1.png"></file>
+    <file src="files/images/wallpapers/2.png"></file>
+    <file src="files/images/wallpapers/3.png"></file>
+    <file src="files/images/wallpapers/4.png"></file>
+    <file src="files/images/wallpapers/5.png"></file>
+    <file src="files/images/wallpapers/6.png"></file>
+    <file src="files/images/wallpapers/7.png"></file>
+    <file src="files/images/wallpapers/8.png"></file>
+    <file src="files/images/wallpapers/9.png"></file>
+    <file src="files/images/wallpapers/10.png"></file>
+    <file src="files/images/wallpapers/11.png"></file>
+    <file src="files/images/wallpapers/12.png"></file>
+    <file src="files/images/wallpapers/13.png"></file>
+    <file src="files/images/wallpapers/14.png"></file>
+    <file src="files/images/wallpapers/15.png"></file>
+    <file src="files/images/wallpapers/16.png"></file>
+    <file src="files/images/wallpapers/17.png"></file>
+    <file src="files/images/wallpapers/18.png"></file>
+    <file src="files/images/wallpapers/19.png"></file>
+    <file src="files/images/wallpapers/20.png"></file>
+    <file src="files/images/wallpapers/21.png"></file>
+    <file src="files/images/wallpapers/22.png"></file>
+    <file src="files/images/wallpapers/23.png"></file>
+    <file src="files/images/wallpapers/24.png"></file>
+    <file src="files/images/wallpapers/25.png"></file>
+    <file src="files/images/wallpapers/26.png"></file>
+    <file src="files/images/wallpapers/27.png"></file>
+    <file src="files/images/wallpapers/28.png"></file>
+    <file src="files/images/wallpapers/29.png"></file>
+    <file src="files/images/wallpapers/30.png"></file>
+    <file src="files/images/wallpapers/31.png"></file>
+    <file src="files/images/wallpapers/32.png"></file>
+    <file src="files/images/wallpapers/33.png"></file>
+    <file src="files/images/wallpapers/34.png"></file>
+    <file src="files/images/wallpapers/35.png"></file>
+    <file src="files/images/wallpapers/36.png"></file>
+    <file src="files/images/wallpapers/37.png"></file>
+    <file src="files/images/wallpapers/38.png"></file>
+    <file src="files/images/wallpapers/39.png"></file>
+    <file src="files/images/wallpapers/40.png"></file>
+    <file src="files/images/wallpapers/41.png"></file>
+    <file src="files/images/wallpapers/42.png"></file>
+    <file src="files/images/wallpapers/43.png"></file>
+    <file src="files/images/wallpapers/44.png"></file>
+    <file src="files/images/wallpapers/45.png"></file>
+    <file src="files/images/wallpapers/46.png"></file>
+    <file src="files/images/wallpapers/47.png"></file>
+    <file src="files/images/wallpapers/48.png"></file>
+    <file src="files/images/wallpapers/49.png"></file>
+    <file src="files/images/wallpapers/50.png"></file>
+    <file src="files/images/wallpapers/51.png"></file>
+    <file src="files/images/wallpapers/52.png"></file>
+    <file src="files/images/wallpapers/53.png"></file>
+    <file src="files/images/wallpapers/54.png"></file>
+    <file src="files/images/wallpapers/55.png"></file>
+    <file src="files/images/wallpapers/56.png"></file>
+    <file src="files/images/wallpapers/57.png"></file>
+    <file src="files/images/wallpapers/58.png"></file>
+    <file src="files/images/wallpapers/59.png"></file>
+    <file src="files/images/wallpapers/60.png"></file>
+    <file src="files/images/wallpapers/61.png"></file>
+    <file src="files/images/wallpapers/62.png"></file>
+    <file src="files/images/wallpapers/63.png"></file>
+    <file src="files/images/wallpapers/64.png"></file>
+    <file src="files/images/wallpapers/65.png"></file>
+    <file src="files/images/wallpapers/66.png"></file>
+    <file src="files/images/wallpapers/67.png"></file>
+    <file src="files/images/wallpapers/68.png"></file>
+    <file src="files/images/wallpapers/69.png"></file>
+    <file src="files/images/wallpapers/70.png"></file>
+    <file src="files/images/wallpapers/71.png"></file>
+    <file src="files/images/wallpapers/72.png"></file>
+    <file src="files/images/wallpapers/73.png"></file>
+    <file src="files/images/wallpapers/74.png"></file>
+    <file src="files/images/wallpapers/75.png"></file>
+    <file src="files/images/wallpapers/76.png"></file>
+    <file src="files/images/wallpapers/77.png"></file>
+    <file src="files/images/wallpapers/78.png"></file>
+    <file src="files/images/wallpapers/79.png"></file>
+    <file src="files/images/wallpapers/80.png"></file>
+    <file src="files/images/wallpapers/81.png"></file>
+    <file src="files/images/wallpapers/82.png"></file>
+    <file src="files/images/wallpapers/83.png"></file>
+    <file src="files/images/wallpapers/84.png"></file>
+    <file src="files/images/wallpapers/85.png"></file>
+    <file src="files/images/wallpapers/86.png"></file>
+    <file src="files/images/wallpapers/87.png"></file>
+    <file src="files/images/wallpapers/88.png"></file>
+    <file src="files/images/wallpapers/89.png"></file>
+    <file src="files/images/wallpapers/90.png"></file>
+    <file src="files/images/wallpapers/91.png"></file>
+    <file src="files/images/wallpapers/92.png"></file>
+    <file src="files/images/wallpapers/93.png"></file>
+    <file src="files/images/wallpapers/94.png"></file>
+    <file src="files/images/wallpapers/95.png"></file>
+    <file src="files/images/wallpapers/96.png"></file>
+    <file src="files/images/wallpapers/97.png"></file>
+    <file src="files/images/wallpapers/98.png"></file>
+    <file src="files/images/wallpapers/99.png"></file>
+    <file src="files/images/wallpapers/100.png"></file>
+    <file src="files/images/home.png"></file>
+    <file src="files/images/statusbar.png"></file>
+    <file src="files/images/dockbar.png"></file>
+    <file src="files/images/dots.png"></file>
+    <file src="files/images/search.png"></file>
+    <file src="files/images/dockbar/call.png"></file>
+    <file src="files/images/dockbar/messages.png"></file>
+    <file src="files/images/dockbar/music.png"></file>
+    <file src="files/images/dockbar/safari.png"></file>
+    <file src="files/images/apps/ad.png"></file>
+    <file src="files/images/apps/calendar.png"></file>
+    <file src="files/images/apps/camera.png"></file>
+    <file src="files/images/apps/clock.png"></file>
+    <file src="files/images/apps/contacts.png"></file>
+    <file src="files/images/apps/gallery.png"></file>
+    <file src="files/images/apps/settings.png"></file>
+    <file src="files/images/apps/wallet.png"></file>
+    <file src="files/images/whitebg.png"></file>
+    <file src="files/images/call/buttons.png"></file>
+    <file src="files/images/call/contacts.png"></file>
+    <file src="files/images/call/favorites.png"></file>
+    <file src="files/images/call/history.png"></file>
+    <file src="files/images/call/voicemail.png"></file>
+    <file src="files/images/call/keypad.png"></file>
+    <file src="files/images/outgoingcall/callbg.png"></file>
+    <file src="files/images/outgoingcall/calldeny.png"></file>
+    <file src="files/images/outgoingcall/avatar.png"></file>
+    <file src="files/images/incomingcall/acceptcall.png"></file>
+    <file src="files/images/messages/backinfo.png"></file>
+    <file src="files/images/messages/messagesavatar.png"></file>
+    <file src="files/images/messages/addtocontact.png"></file>
+    <file src="files/images/messages/delete.png"></file>
+    <file src="files/images/messages/messages.png"></file>
+    <file src="files/images/messages/call.png"></file>
+    <file src="files/images/ownmessage.png"></file>
+    <file src="files/images/targetmessage.png"></file>
+    <file src="files/images/chat/chatinfo.png"></file>
+    <file src="files/images/chat/chatavatar.png"></file>
+    <file src="files/images/chat/chatbar.png"></file>
+    <file src="files/images/advertisement/backarrow.png"></file>
+    <file src="files/images/advertisement/logo.png"></file>
+    <file src="files/images/advertisement/textbox.png"></file>
+    <file src="files/images/advertisement/checkbox_off.png"></file>
+    <file src="files/images/advertisement/checkbox_on.png"></file>
+    <file src="files/images/viewmessages/backinfo.png"></file>
+    <file src="files/images/settings/ringtone.png"></file>
+    <file src="files/images/settings/wallpaper.png"></file>
+    <file src="files/images/settings/toggle_off.png"></file>
+    <file src="files/images/settings/toggle_on.png"></file>
+    <file src="files/images/settings/arrow.png"></file>
+    <file src="files/images/settings/volumecircle.png"></file>
+    <file src="files/images/settings/circle.png"></file>
+    <file src="files/images/settings/circlecheck.png"></file>
+    <file src="files/images/settings/pausebutton.png"></file>
+    <file src="files/images/settings/playbutton.png"></file>
+    <file src="files/images/settings/bigarrow.png"></file>
+    <file src="files/images/camera/camerabg.png"></file>
+    <file src="files/images/calendar/smallarrow.png"></file>
+    <file src="files/images/calendar/whitecircle.png"></file>
+    <file src="files/images/calendar/circlewithoutline.png"></file>
+    <file src="files/images/calendar/dot.png"></file>
+    <file src="files/images/contacts/editcontact.png"></file>
+    <file src="files/images/clock/timer.png"></file>
+    <file src="files/images/clock/arrow.png"></file>
+    <file src="files/images/clock/bigwhitecircle.png"></file>
+    <file src="factioncall/files/images/logo.png"></file>
+    <file src="files/sounds/ringtones/1.mp3"></file>
+    <file src="files/sounds/ringtones/2.ogg"></file>
+    <export function="getFactionCalls" type="shared"></export>
+    <export function="getShopDatas" type="shared"></export>
+    <export function="formatPhoneNumber" type="shared"></export>
+    <export function="getAvailableShops" type="shared"></export>
+    <export function="showPhone" type="client"></export>
+    <export function="createNewPhone" type="server"></export>
+    <export function="createPhoneNumber" type="server"></export>
+    <download_priority_group>-100</download_priority_group>
+</meta>

@@ -1,0 +1,109 @@
+<meta>
+    <!--file src=forrás   modelid="[ [ id, id2, ... ] ]" glassLoad = "true/false"-->
+    
+    <!--Vehicle Tuningparts-->
+    
+    <file src="vehicles/BMW_M3/tuning/rf_a_u.dff" modelid="1088" download="false" />
+    <!--<file src="vehicles/BMW_M3/tuning/exh_c_u.dff" modelid="1089" download="false" />
+    <file src="vehicles/BMW_M3/tuning/wg_l_a_u.dff" modelid="1090" download="false" />
+    <file src="vehicles/BMW_M3/tuning/rf_c_u.dff" modelid="1091" download="false" />
+    <file src="vehicles/BMW_M3/tuning/exh_a_u.dff" modelid="1092" download="false" />
+    <file src="vehicles/BMW_M3/tuning/wg_l_c_u.dff" modelid="1093" download="false" />
+    <file src="vehicles/BMW_M3/tuning/wg_r_a_u.dff" modelid="1094" download="false" />
+    <file src="vehicles/BMW_M3/tuning/wg_r_c_u.dff" modelid="1095" download="false" />
+    <file src="vehicles/BMW_M3/tuning/spl_c_u_b.dff" modelid="1163" download="false" />
+    <file src="vehicles/BMW_M3/tuning/spl_a_u_b.dff" modelid="1164" download="false" />
+    <file src="vehicles/BMW_M3/tuning/fbmp_c_u.dff" modelid="1165" download="false" />
+    <file src="vehicles/BMW_M3/tuning/fbmp_a_u.dff" modelid="1166" download="false" />
+    <file src="vehicles/BMW_M3/tuning/rbmp_c_u.dff" modelid="1167" download="false" />
+    <file src="vehicles/BMW_M3/tuning/rbmp_a_u.dff" modelid="1168" download="false" />
+    
+    <file src="vehicles/Nissan_Skyline_R34/tuning/fbmp_a_l.dff" modelid="1171" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/fbmp_c_l.dff" modelid="1172" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/rbmp_a_l.dff" modelid="1149" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/rbmp_c_l.dff" modelid="1148" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/spl_a_l_b.dff" modelid="1147" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/spl_c_l_b.dff" modelid="1146" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/wg_l_a_l.dff" modelid="1036" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/wg_l_c_l.dff" modelid="1039" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/wg_r_a_l.dff" modelid="1040" download="false" />
+    <file src="vehicles/Nissan_Skyline_R34/tuning/wg_r_c_l.dff" modelid="1041" download="false" />
+    
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/exh_a_s.dff" modelid="1028" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/exh_c_s.dff" modelid="1029" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/fbmp_a_s.dff" modelid="1169" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/fbmp_c_s.dff" modelid="1170" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/rbmp_a_s.dff" modelid="1141" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/rbmp_c_s.dff" modelid="1140" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/rf_a_s.dff" modelid="1032" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/rf_c_s.dff" modelid="1033" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/spl_a_s_b.dff" modelid="1138" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/spl_c_s_b.dff" modelid="1139" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/wg_l_a_s.dff" modelid="1026" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/wg_l_c_s.dff" modelid="1031" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/wg_r_a_s.dff" modelid="1027" download="false" />
+    <file src="vehicles/Mitsubishi_Lancer_Evolution_X/tuning/wg_r_c_s.dff" modelid="1030" download="false" />
+    
+    <file src="vehicles/Chevrolet_Bel_Air/tuning/exh_lr_t1.dff" modelid="1136" download="false" />
+    <file src="vehicles/Chevrolet_Bel_Air/tuning/exh_lr_t2.dff" modelid="1135" download="false" />
+    <file src="vehicles/Chevrolet_Bel_Air/tuning/fbmp_lr_t1.dff" modelid="1191" download="false" />
+    <file src="vehicles/Chevrolet_Bel_Air/tuning/fbmp_lr_t2.dff" modelid="1190" download="false" />
+    <file src="vehicles/Chevrolet_Bel_Air/tuning/rbmp_lr_t1.dff" modelid="1192" download="false" />
+    <file src="vehicles/Chevrolet_Bel_Air/tuning/rbmp_lr_t2.dff" modelid="1193" download="false" />
+    <file src="vehicles/Chevrolet_Bel_Air/tuning/wg_l_lr_t1.dff" modelid="1134" download="false" />
+    <file src="vehicles/Chevrolet_Bel_Air/tuning/wg_r_lr_t1.dff" modelid="1137" download="false" />
+    
+    <file src="vehicles/Ford_Custom_Pickup/tuning/bbb_lr_slv1.dff" modelid="1109" download="false" />
+    <file src="vehicles/Ford_Custom_Pickup/tuning/exh_lr_slv1.dff" modelid="1113" download="false" />
+    <file src="vehicles/Ford_Custom_Pickup/tuning/exh_lr_slv2.dff" modelid="1114" download="false" />
+    <file src="vehicles/Ford_Custom_Pickup/tuning/fbb_lr_slv1.dff" modelid="1115" download="false" />
+    <file src="vehicles/Ford_Custom_Pickup/tuning/fbb_lr_slv2.dff" modelid="1116" download="false" />
+    <file src="vehicles/Ford_Custom_Pickup/tuning/fbmp_lr_slv1.dff" modelid="1117" download="false" />
+    
+    <file src="vehicles/Chevrolet_Impala/tuning/exh_lr_sv1.dff" modelid="1129" download="false" />
+    <file src="vehicles/Chevrolet_Impala/tuning/exh_lr_sv2.dff" modelid="1132" download="false" />
+    <file src="vehicles/Chevrolet_Impala/tuning/fbmp_lr_sv1.dff" modelid="1189" download="false" />
+    <file src="vehicles/Chevrolet_Impala/tuning/fbmp_lr_sv2.dff" modelid="1188" download="false" />
+    <file src="vehicles/Chevrolet_Impala/tuning/rbmp_lr_sv1.dff" modelid="1187" download="false" />
+    <file src="vehicles/Chevrolet_Impala/tuning/rbmp_lr_sv2.dff" modelid="1186" download="false" />
+    <file src="vehicles/Chevrolet_Impala/tuning/rf_lr_sv1.dff" modelid="1130" download="false" />
+    <file src="vehicles/Chevrolet_Impala/tuning/rf_lr_sv2.dff" modelid="1131" download="false" />
+    
+    <file src="vehicles/Mercedes_Benz_500E/tuning/fbmp_lr_bl2.dff" modelid="1181" download="false" />
+    <file src="vehicles/Mercedes_Benz_500E/tuning/fbmp_lr_bl1.dff" modelid="1182" download="false" />
+    <file src="vehicles/Mercedes_Benz_500E/tuning/rbmp_lr_bl1.dff" modelid="1183" download="false" />
+    <file src="vehicles/Mercedes_Benz_500E/tuning/rbmp_lr_bl1.dff" modelid="1184" download="false" />
+    <file src="vehicles/Mercedes_Benz_500E/tuning/wg_l_lr_bl1.dff" modelid="1108" download="false" />
+    <file src="vehicles/Mercedes_Benz_500E/tuning/wg_r_lr_bl1.dff" modelid="1107" download="false" />
+    
+    <file src="vehicles/Toyota_Supra/tuning/exh_a_j.dff" modelid="1065" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/exh_c_j.dff" modelid="1066" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/fbmp_a_j.dff" modelid="1160" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/fbmp_c_j.dff" modelid="1173" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/rbmp_a_j.dff" modelid="1159" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/rbmp_c_j.dff" modelid="1161" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/rf_a_j.dff" modelid="1067" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/rf_c_j.dff" modelid="1068" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/spl_a_j_b.dff" modelid="1162" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/spl_c_j_b.dff" modelid="1158" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/wg_l_a_j.dff" modelid="1069" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/wg_l_c_j.dff" modelid="1070" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/wg_r_a_j.dff" modelid="1071" download="false" />
+    <file src="vehicles/Toyota_Supra/tuning/wg_r_c_j.dff" modelid="1072" download="false" />
+    
+    <file src="vehicles/Subaru_Impreza/tuning/exh_a_st.dff" modelid="1064" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/exh_c_st.dff" modelid="1059" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/fbmp_a_st.dff" modelid="1155" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/fbmp_c_st.dff" modelid="1157" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/rbmp_a_st.dff" modelid="1154" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/rbmp_c_st.dff" modelid="1156" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/rf_a_st.dff" modelid="1055" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/rf_c_st.dff" modelid="1061" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/spl_a_st_r.dff" modelid="1058" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/spl_c_st_r.dff" modelid="1060" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/wg_l_a_st.dff" modelid="1056" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/wg_l_c_st.dff" modelid="1057" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/wg_r_a_st.dff" modelid="1062" download="false" />
+    <file src="vehicles/Subaru_Impreza/tuning/wg_r_c_st.dff" modelid="1063" download="false" />-->
+    <download_priority_group>-119</download_priority_group>
+</meta>

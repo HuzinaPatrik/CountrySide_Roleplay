@@ -1,0 +1,37 @@
+<meta>
+    <oop>true</oop>
+    <script src="async.lua" type="shared" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="textures/1.png"></file>
+    <file src="textures/2.png"></file>
+    <file src="textures/3.png"></file>
+    <file src="textures/4.png"></file>
+    <file src="textures/5.png"></file>
+    <file src="textures/6.png"></file>
+    <file src="textures/7.png"></file>
+    <file src="textures/8.png"></file>
+    <file src="textures/9.png"></file>
+    <file src="textures/10.png"></file>
+    <file src="textures/11.png"></file>
+    <file src="textures/12.png"></file>
+    <file src="textures/13.png"></file>
+    <file src="textures/14.png"></file>
+    <file src="textures/15.png"></file>
+    <file src="textures/16.png"></file>
+    <file src="textures/17.png"></file>
+    <file src="textures/18.png"></file>
+    <file src="textures/19.png"></file>
+    <file src="textures/20.png"></file>
+    <file src="textures/21.png"></file>
+    <file src="textures/22.png"></file>
+    <file src="textures/23.png"></file>
+    <file src="textures/24.png"></file>
+    <file src="textures/25.png"></file>
+    <file src="textures/26.png"></file>
+    <file src="textures/27.png"></file>
+    <file src="textures/28.png"></file>
+    <file src="fx.fx"></file>
+    <download_priority_group>-133</download_priority_group>
+</meta>

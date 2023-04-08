@@ -1,0 +1,63 @@
+<meta>
+    <!--file src=forrás   modelid="[ [ id, id2, ... ] ]" glassLoad = "true/false"-->
+    
+    <!--Weapons-->
+    <file src="weapons/ak47.txd" modelid="355" download="false" />
+    <file src="weapons/ak47.dff" modelid="355" download="false" />
+    <file src="weapons/chromegun.txd" modelid="7572" download="false" />
+    <file src="weapons/chromegun.dff" modelid="7572" download="false" />
+    <file src="weapons/glock18.txd" modelid="346" download="false" />
+    <file src="weapons/glock18.dff" modelid="346" download="false" />
+    <file src="weapons/cuntgun.txd" modelid="357" download="false" />
+    <file src="weapons/cuntgun.dff" modelid="357" download="false" />
+    <file src="weapons/invisibledeagle.txd" modelid="348" download="false" />
+    <file src="weapons/invisibledeagle.dff" modelid="348" download="false" />
+    <file src="weapons/desert.txd" modelid="17426" download="false" />
+    <file src="weapons/desert.dff" modelid="17426" download="false" />
+    <file src="weapons/taser.txd" modelid="10012" download="false" />
+    <file src="weapons/taser.dff" modelid="10012" download="false" />
+    <file src="weapons/katana.txd" modelid="339" download="false" />
+    <file src="weapons/katana.dff" modelid="339" download="false" />
+    <file src="weapons/knifecur.txd" modelid="335" download="false" />
+    <file src="weapons/knifecur.dff" modelid="335" download="false" />
+    <file src="weapons/m4.txd" modelid="356" download="false" />
+    <file src="weapons/m4.dff" modelid="356" download="false" />
+    <file src="weapons/micro_uzi.txd" modelid="352" download="false" />
+    <file src="weapons/micro_uzi.dff" modelid="352" download="false" />
+    <file src="weapons/mp5.txd" modelid="353" download="false" />
+    <file src="weapons/mp5.dff" modelid="353" download="false" />
+    <file src="weapons/sawnoff.txd" modelid="350" download="false" />
+    <file src="weapons/sawnoff.dff" modelid="350" download="false" />
+    <file src="weapons/shotgspa.txd" modelid="351" download="false" />
+    <file src="weapons/shotgspa.dff" modelid="351" download="false" />
+    <file src="weapons/silenced.txd" modelid="347" download="false" />
+    <file src="weapons/silenced.dff" modelid="347" download="false" />
+    <file src="weapons/sniper.txd" modelid="358" download="false" />
+    <file src="weapons/sniper.dff" modelid="358" download="false" />
+    <file src="weapons/tec9.txd" modelid="372" download="false" />
+    <file src="weapons/tec9.dff" modelid="372" download="false" />
+    <file src="weapons/pickaxe.txd" modelid="322" download="false" />
+    <file src="weapons/pickaxe.dff" modelid="322" download="false" />
+    <file src="weapons/axe.txd" modelid="321" download="false" />
+    <file src="weapons/axe.dff" modelid="321" download="false" />
+    <file src="weapons/hatchet.txd" modelid="323" download="false" />
+    <file src="weapons/hatchet.dff" modelid="323" download="false" />
+	<file src="weapons/invisibleshotgun.txd" modelid="349" download="false" />
+    <file src="weapons/invisibleshotgun.dff" modelid="349" download="false" />
+	<file src="weapons/beanbag.txd" modelid="8082" download="false" />
+    <file src="weapons/beanbag.dff" modelid="8082" download="false" />
+	
+	
+    
+    <!--Masks-->
+    <file src="masks/bikerhelmet.txd" modelid="6907" download="false" />
+    <file src="masks/bikerhelmet.dff" modelid="6907" download="false" />
+    <file src="masks/bikerhelmet.col" modelid="6907" download="false" />
+    <file src="masks/zorro.txd" modelid="16197" download="false" />
+    <file src="masks/zorro.dff" modelid="16197" download="false" />
+    <file src="masks/zorro.col" modelid="16197" download="false" />
+    <file src="masks/moto.txd" modelid="652" download="false" />
+    <file src="masks/moto.dff" modelid="652" download="false" />
+    <file src="masks/moto.col" modelid="652" download="false" />
+    <download_priority_group>-130</download_priority_group>
+</meta>

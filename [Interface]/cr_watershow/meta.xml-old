@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="files/water.png"></file>
+    <download_priority_group>-140</download_priority_group>
+</meta>

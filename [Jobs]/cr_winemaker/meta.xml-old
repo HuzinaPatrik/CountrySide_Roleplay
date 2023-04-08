@@ -1,0 +1,19 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="chest/client.lua" type="client" cache="true"></script>
+    <script src="chest/sync.lua" type="client" cache="true"></script>
+    <script src="chest/server.lua" type="server" cache="true"></script>
+    <script src="vine/client.lua" type="client" cache="true"></script>
+    <script src="vine/server.lua" type="server" cache="true"></script>
+    <script src="barrel/client.lua" type="client" cache="true"></script>
+    <script src="barrel/server.lua" type="server" cache="true"></script>
+    <script src="jobvehicle/client.lua" type="client" cache="true"></script>
+    <script src="finish/client.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="assets/images/icon.png"></file>
+    <file src="assets/images/finish.png"></file>
+    <download_priority_group>-144</download_priority_group>
+</meta>

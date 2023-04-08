@@ -1,0 +1,133 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="global.countryscript" type="shared" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="vehicles/BF-400/bf400.txd"></file>
+    <file src="vehicles/BF-400/bf400.countrydff"></file>
+    <file src="vehicles/bobcat/bobcat.txd"></file>
+    <file src="vehicles/bobcat/bobcat.countrydff"></file>
+    <file src="vehicles/Buick_Regal_GSX/elegant.txd"></file>
+    <file src="vehicles/Buick_Regal_GSX/elegant.countrydff"></file>
+    <file src="vehicles/Cadillac_Escalade_2002/solair.txd"></file>
+    <file src="vehicles/Cadillac_Escalade_2002/solair.countrydff"></file>
+    <file src="vehicles/Chev_Bell_Air/436.txd"></file>
+    <file src="vehicles/Chev_Bell_Air/436.countrydff"></file>
+    <file src="vehicles/Chevroelt_Camaro_&apos;10/402.txd"></file>
+    <file src="vehicles/Chevroelt_Camaro_&apos;10/402.countrydff"></file>
+    <file src="vehicles/Chevrolet_Caprice_19&apos;/willard.txd"></file>
+    <file src="vehicles/Chevrolet_Caprice_19&apos;/willard.countrydff"></file>
+    <file src="vehicles/Chevrolet_Corvette-zr1-c6/429.txd"></file>
+    <file src="vehicles/Chevrolet_Corvette-zr1-c6/429.countrydff"></file>
+    <file src="vehicles/Chrysler_300C/emperor.txd"></file>
+    <file src="vehicles/Chrysler_300C/emperor.countrydff"></file>
+    <file src="vehicles/Declasse_Vamos/blade.txd"></file>
+    <file src="vehicles/Declasse_Vamos/blade.countrydff"></file>
+    <file src="vehicles/Dodge_Caravan/moonbeam.txd"></file>
+    <file src="vehicles/Dodge_Caravan/moonbeam.countrydff"></file>
+    <file src="vehicles/Nissan_Skyline-r33/565.txd"></file>
+    <file src="vehicles/Nissan_Skyline-r33/565.countrydff"></file>
+    <file src="vehicles/Ford_Crown_Victoria/merit.txd"></file>
+    <file src="vehicles/Ford_Crown_Victoria/merit.countrydff"></file>
+    <file src="vehicles/Ford_E-250/413.txd"></file>
+    <file src="vehicles/Ford_E-250/413.countrydff"></file>
+    <file src="vehicles/Ford_Explorer/regina.txd"></file>
+    <file src="vehicles/Ford_Explorer/regina.countrydff"></file>
+    <file src="vehicles/Ford_F150_Raptor/535.txd"></file>
+    <file src="vehicles/Ford_F150_Raptor/535.countrydff"></file>
+    <file src="vehicles/Ford_Mustang/475.txd"></file>
+    <file src="vehicles/Ford_Mustang/475.countrydff"></file>
+    <file src="vehicles/Ford_Mustang-68/502.txd"></file>
+    <file src="vehicles/Ford_Mustang-68/502.countrydff"></file>
+    <file src="vehicles/Ford_Taurus/404.txd"></file>
+    <file src="vehicles/Ford_Taurus/404.countrydff"></file>
+    <file src="vehicles/Ford_Torino/491.txd"></file>
+    <file src="vehicles/Ford_Torino/491.countrydff"></file>
+    <file src="vehicles/Freeway/freeway.txd"></file>
+    <file src="vehicles/Freeway/freeway.countrydff"></file>
+    <file src="vehicles/GMC_C5500/456.txd"></file>
+    <file src="vehicles/GMC_C5500/456.countrydff"></file>
+    <file src="vehicles/GMC_Sierra-&apos;98/554.txd"></file>
+    <file src="vehicles/GMC_Sierra-&apos;98/554.countrydff"></file>
+    <file src="vehicles/Jeep_CherokeeSRT_2012/huntley.txd"></file>
+    <file src="vehicles/Jeep_CherokeeSRT_2012/huntley.countrydff"></file>
+    <file src="vehicles/Jeep_Wrangler/500.txd"></file>
+    <file src="vehicles/Jeep_Wrangler/500.countrydff"></file>
+    <file src="vehicles/Journey/corsac.txd"></file>
+    <file src="vehicles/Journey/corsac.countrydff"></file>
+    <file src="vehicles/Lexus_GS350/546.txd"></file>
+    <file src="vehicles/Lexus_GS350/546.countrydff"></file>
+    <file src="vehicles/Mercedes_Benz_CL600/602.txd"></file>
+    <file src="vehicles/Mercedes_Benz_CL600/602.countrydff"></file>
+    <file src="vehicles/Mercedes_SLS_AMG/506.txd"></file>
+    <file src="vehicles/Mercedes_SLS_AMG/506.countrydff"></file>
+    <file src="vehicles/PCJ-600/pcj600.txd"></file>
+    <file src="vehicles/PCJ-600/pcj600.countrydff"></file>
+    <file src="vehicles/Plymouth_GTX_426/bravura.txd"></file>
+    <file src="vehicles/Plymouth_GTX_426/bravura.countrydff"></file>
+    <file src="vehicles/Pontiac_GTO/buccaneer.txd"></file>
+    <file src="vehicles/Pontiac_GTO/buccaneer.countrydff"></file>
+    <file src="vehicles/Toyota_Camry/primo.txd"></file>
+    <file src="vehicles/Toyota_Camry/primo.countrydff"></file>
+    <file src="vehicles/Toyota_Mark_II/516.txd"></file>
+    <file src="vehicles/Toyota_Mark_II/516.countrydff"></file>
+    <file src="vehicles/Toyota_Supra/jester.txd"></file>
+    <file src="vehicles/Toyota_Supra/jester.countrydff"></file>
+    <file src="vehicles/Wayfarer/wayfarer.txd"></file>
+    <file src="vehicles/Wayfarer/wayfarer.countrydff"></file>
+    <file src="vehicles/Ford_Rescue_Ambulance/ambulan.txd"></file>
+    <file src="vehicles/Ford_Rescue_Ambulance/ambulan.countrydff"></file>
+    <file src="vehicles/Ford_Crown_Victoria(Police)/596.txd"></file>
+    <file src="vehicles/Ford_Crown_Victoria(Police)/596.countrydff"></file>
+    <file src="vehicles/Dodge_Charger(Police)/597.txd"></file>
+    <file src="vehicles/Dodge_Charger(Police)/597.countrydff"></file>
+    <file src="vehicles/Ford_Explorer(Police)/598.txd"></file>
+    <file src="vehicles/Ford_Explorer(Police)/598.countrydff"></file>
+    <file src="vehicles/Chevrolet_Suburban_LTZ/490.txd"></file>
+    <file src="vehicles/Chevrolet_Suburban_LTZ/490.countrydff"></file>
+    <file src="vehicles/Lenco_BearCat/528.txd"></file>
+    <file src="vehicles/Lenco_BearCat/528.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_gn1.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_gn2.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_gn3.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_gn4.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_gn5.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_lr1.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_lr2.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_lr3.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_lr4.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_lr5.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_or1.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_sr1.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_sr2.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_sr3.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_sr4.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_sr5.countrydff"></file>
+    <file src="wheels/texture.txd"></file>
+    <file src="wheels/wheel_sr6.countrydff"></file>
+    <export function="getLoadCache" type="shared"></export>
+    <export function="loadModel" type="client"></export>
+    <export function="getModelSize" type="client"></export>
+    <export function="getModelTypSize" type="client"></export>
+    <export function="isVehicleValid" type="shared"></export>
+    <export function="isVirtualVehicle" type="shared"></export>
+    <file src="readme.txt" readme="true"></file>
+    <download_priority_group>-32</download_priority_group>
+</meta>

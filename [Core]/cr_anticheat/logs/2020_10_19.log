@@ -1,0 +1,7 @@
+[2020-10-19 15:28:18] Login ip check -> Player: SweetMarimba90, IP: 41.92.50.197, Serial: 16117D7B56C658454339CFB383EBB8E3, Version: 344, Country: MA, Hostname: none, City: Casablanca, Loc: 33.5883,-7.6114, Org: AS36925 MEDITELECOM
+[2020-10-19 15:29:12] Login deny (country) -> Player: SweetMarimba90, IP: 41.92.50.197, Serial: 16117D7B56C658454339CFB383EBB8E3, Version: 344
+[2020-10-19 15:29:29] Login deny (country) -> Player: SweetMarimba90, IP: 41.92.50.197, Serial: 16117D7B56C658454339CFB383EBB8E3, Version: 344
+[2020-10-19 15:44:07] Login deny (country) -> Player: SweetMarimba90, IP: 41.92.50.197, Serial: 16117D7B56C658454339CFB383EBB8E3, Version: 344
+[2020-10-19 15:44:23] Login deny (country) -> Player: SweetMarimba90, IP: 41.92.50.197, Serial: 16117D7B56C658454339CFB383EBB8E3, Version: 344
+[2020-10-19 15:49:08] Login ip check -> Player: SweetMarimba90, IP: 41.92.93.192, Serial: 16117D7B56C658454339CFB383EBB8E3, Version: 344, Country: MA, Hostname: none, City: Casablanca, Loc: 33.5883,-7.6114, Org: AS36925 MEDITELECOM
+[2020-10-19 17:42:32] Login deny (country) -> Player: SweetMarimba90, IP: 41.92.93.192, Serial: 16117D7B56C658454339CFB383EBB8E3, Version: 344

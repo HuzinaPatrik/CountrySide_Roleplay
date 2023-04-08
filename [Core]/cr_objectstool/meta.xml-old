@@ -1,0 +1,7 @@
+<meta>
+    <oop>true</oop>
+    <script src="tools/sourceC.lua" type="client" cache="true"></script>
+    <script src="remover/client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <download_priority_group>-95</download_priority_group>
+</meta>

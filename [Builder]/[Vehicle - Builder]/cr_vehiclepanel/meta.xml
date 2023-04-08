@@ -1,0 +1,185 @@
+<meta>
+    <!--file src=forrás   modelid="[ [ id, id2, ... ] ]" glassLoad = "true/false"-->
+    
+    <!--VEHICLES-->
+    <file src="vehicles/BF-400/bf400.txd" modelid="581" download="false" />
+    <file src="vehicles/BF-400/bf400.dff" modelid="581" download="false" />
+	
+	<!--<file src="vehicles/BMW_M5_(F10)/405.txd" modelid="405" download="false" />
+    <file src="vehicles/BMW_M5_(F10)/405.dff" modelid="405" download="false" />-->
+	
+	<file src="vehicles/bobcat/bobcat.txd" modelid="422" download="false" />
+    <file src="vehicles/bobcat/bobcat.dff" modelid="422" download="false" />
+	
+	<file src="vehicles/Buick_Regal_GSX/elegant.txd" modelid="507" download="false" />
+    <file src="vehicles/Buick_Regal_GSX/elegant.dff" modelid="507" download="false" />
+	
+	<file src="vehicles/Cadillac_Escalade_2002/solair.txd" modelid="458" download="false" />
+    <file src="vehicles/Cadillac_Escalade_2002/solair.dff" modelid="458" download="false" />
+	
+	<file src="vehicles/Chev_Bell_Air/436.txd" modelid="436" download="false" />
+    <file src="vehicles/Chev_Bell_Air/436.dff" modelid="436" download="false" />
+		
+	<file src="vehicles/Chevroelt_Camaro_'10/402.txd" modelid="402" download="false" />
+    <file src="vehicles/Chevroelt_Camaro_'10/402.dff" modelid="402" download="false" />
+	
+	<file src="vehicles/Chevrolet_Caprice_19'/willard.txd" modelid="529" download="false" />
+    <file src="vehicles/Chevrolet_Caprice_19'/willard.dff" modelid="529" download="false" />
+	
+	<file src="vehicles/Chevrolet_Corvette-zr1-c6/429.txd" modelid="429" download="false" />
+    <file src="vehicles/Chevrolet_Corvette-zr1-c6/429.dff" modelid="429" download="false" />
+
+	<file src="vehicles/Chrysler_300C/emperor.txd" modelid="585" download="false" />
+    <file src="vehicles/Chrysler_300C/emperor.dff" modelid="585" download="false" />
+	
+	<file src="vehicles/Declasse_Vamos/blade.txd" modelid="536" download="false" />
+    <file src="vehicles/Declasse_Vamos/blade.dff" modelid="536" download="false" />
+	
+	<file src="vehicles/Dodge_Caravan/moonbeam.txd" modelid="418" download="false" />
+    <file src="vehicles/Dodge_Caravan/moonbeam.dff" modelid="418" download="false" />
+	
+	<!--<file src="vehicles/Dodge_RAM1500/467.txd" modelid="467" download="false" />
+    <file src="vehicles/Dodge_RAM1500/467.dff" modelid="467" download="false" />-->
+
+    <file src="vehicles/Nissan_Skyline-r33/565.txd" modelid="565" download="false" />
+    <file src="vehicles/Nissan_Skyline-r33/565.dff" modelid="565" download="false" />
+	
+	<file src="vehicles/Ford_Crown_Victoria/merit.txd" modelid="551" download="false" />
+    <file src="vehicles/Ford_Crown_Victoria/merit.dff" modelid="551" download="false" />
+
+	<file src="vehicles/Ford_E-250/413.txd" modelid="413" download="false" />
+    <file src="vehicles/Ford_E-250/413.dff" modelid="413" download="false" />
+	
+	<file src="vehicles/Ford_Explorer/regina.txd" modelid="479" download="false" />
+    <file src="vehicles/Ford_Explorer/regina.dff" modelid="479" download="false" />
+	
+	<file src="vehicles/Ford_F150_Raptor/535.txd" modelid="505" download="false" />
+    <file src="vehicles/Ford_F150_Raptor/535.dff" modelid="505" download="false" />
+		
+	<file src="vehicles/Ford_Mustang/475.txd" modelid="475" download="false" />
+    <file src="vehicles/Ford_Mustang/475.dff" modelid="475" download="false" />
+	
+	<file src="vehicles/Ford_Mustang-68/502.txd" modelid="502" download="false" />
+    <file src="vehicles/Ford_Mustang-68/502.dff" modelid="502" download="false" />
+	
+	<file src="vehicles/Ford_Taurus/404.txd" modelid="404" download="false" />
+    <file src="vehicles/Ford_Taurus/404.dff" modelid="404" download="false" />
+	
+	<file src="vehicles/Ford_Torino/491.txd" modelid="491" download="false" />
+    <file src="vehicles/Ford_Torino/491.dff" modelid="491" download="false" />
+	
+	<file src="vehicles/Freeway/freeway.txd" modelid="463" download="false" />
+    <file src="vehicles/Freeway/freeway.dff" modelid="463" download="false" />
+	
+	<file src="vehicles/GMC_C5500/456.txd" modelid="456" download="false" />
+    <file src="vehicles/GMC_C5500/456.dff" modelid="456" download="false" />
+	
+	<file src="vehicles/GMC_Sierra-'98/554.txd" modelid="554" download="false" />
+    <file src="vehicles/GMC_Sierra-'98/554.dff" modelid="554" download="false" />
+
+	<file src="vehicles/Jeep_CherokeeSRT_2012/huntley.txd" modelid="579" download="false" />
+    <file src="vehicles/Jeep_CherokeeSRT_2012/huntley.dff" modelid="579" download="false" />
+	
+	<file src="vehicles/Jeep_Wrangler/500.txd" modelid="500" download="false" />
+    <file src="vehicles/Jeep_Wrangler/500.dff" modelid="500" download="false" />
+	
+	<file src="vehicles/Journey/corsac.txd" modelid="508" download="false" />
+    <file src="vehicles/Journey/corsac.dff" modelid="508" download="false" />
+	
+	<file src="vehicles/Lexus_GS350/546.txd" modelid="546" download="false" />
+    <file src="vehicles/Lexus_GS350/546.dff" modelid="546" download="false" />
+	
+	<file src="vehicles/Mercedes_Benz_CL600/602.txd" modelid="602" download="false" />
+    <file src="vehicles/Mercedes_Benz_CL600/602.dff" modelid="602" download="false" />
+	
+	<file src="vehicles/Mercedes_SLS_AMG/506.txd" modelid="506" download="false" />
+    <file src="vehicles/Mercedes_SLS_AMG/506.dff" modelid="506" download="false" />
+	
+	<file src="vehicles/PCJ-600/pcj600.txd" modelid="461" download="false" />
+    <file src="vehicles/PCJ-600/pcj600.dff" modelid="461" download="false" />
+	
+	<file src="vehicles/Plymouth_GTX_426/bravura.txd" modelid="401" download="false" />
+    <file src="vehicles/Plymouth_GTX_426/bravura.dff" modelid="401" download="false" />
+	
+	<file src="vehicles/Pontiac_GTO/buccaneer.txd" modelid="518" download="false" />
+    <file src="vehicles/Pontiac_GTO/buccaneer.dff" modelid="518" download="false" />
+
+	<file src="vehicles/Toyota_Camry/primo.txd" modelid="547" download="false" />
+    <file src="vehicles/Toyota_Camry/primo.dff" modelid="547" download="false" />
+	
+	<file src="vehicles/Toyota_Mark_II/516.txd" modelid="516" download="false" />
+    <file src="vehicles/Toyota_Mark_II/516.dff" modelid="516" download="false" />
+	
+	<file src="vehicles/Toyota_Supra/jester.txd" modelid="559" download="false" />
+    <file src="vehicles/Toyota_Supra/jester.dff" modelid="559" download="false" />
+	
+	<file src="vehicles/Wayfarer/wayfarer.txd" modelid="586" download="false" />
+    <file src="vehicles/Wayfarer/wayfarer.dff" modelid="586" download="false" />
+    
+    <!--FKVehicles-->
+   	
+	<file src="vehicles/Ford_Rescue_Ambulance/ambulan.txd" modelid="416" download="false" />
+    <file src="vehicles/Ford_Rescue_Ambulance/ambulan.dff" modelid="416" download="false" />
+	
+	<file src="vehicles/Ford_Crown_Victoria(Police)/596.txd" modelid="596" download="false" />
+    <file src="vehicles/Ford_Crown_Victoria(Police)/596.dff" modelid="596" download="false" />
+	
+	<file src="vehicles/Dodge_Charger(Police)/597.txd" modelid="597" download="false" />
+    <file src="vehicles/Dodge_Charger(Police)/597.dff" modelid="597" download="false" />
+	
+	<file src="vehicles/Ford_Explorer(Police)/598.txd" modelid="598" download="false" />
+    <file src="vehicles/Ford_Explorer(Police)/598.dff" modelid="598" download="false" />
+	
+	<file src="vehicles/Chevrolet_Suburban_LTZ/490.txd" modelid="490" download="false" />
+    <file src="vehicles/Chevrolet_Suburban_LTZ/490.dff" modelid="490" download="false" />
+		
+	<file src="vehicles/Lenco_BearCat/528.txd" modelid="528" download="false" />
+    <file src="vehicles/Lenco_BearCat/528.dff" modelid="528" download="false" />
+	
+	
+	
+
+    <!-- Virtual vehicles (612 or upper) -->
+    
+    <!--<file src="vehicles/Ford_Explorer(Police)/598.txd" modelid="612" download="false" virtualVehicle="true" />
+    <file src="vehicles/Ford_Explorer(Police)/598.dff" modelid="612" download="false" virtualVehicle="true" /> -->
+    
+    <!-- wheels -->
+    <file src="wheels/texture.txd" modelid="1082" download="false" />
+    <file src="wheels/wheel_gn1.dff" modelid="1082" download="false" />
+    <file src="wheels/texture.txd" modelid="1085" download="false" />
+    <file src="wheels/wheel_gn2.dff" modelid="1085" download="false" />
+    <file src="wheels/texture.txd" modelid="1096" download="false" />
+    <file src="wheels/wheel_gn3.dff" modelid="1096" download="false" />
+    <file src="wheels/texture.txd" modelid="1097" download="false" />
+    <file src="wheels/wheel_gn4.dff" modelid="1097" download="false" />
+    <file src="wheels/texture.txd" modelid="1098" download="false" />
+    <file src="wheels/wheel_gn5.dff" modelid="1098" download="false" />
+    <file src="wheels/texture.txd" modelid="1077" download="false" />
+    <file src="wheels/wheel_lr1.dff" modelid="1077" download="false" />
+    <file src="wheels/texture.txd" modelid="1083" download="false" />
+    <file src="wheels/wheel_lr2.dff" modelid="1083" download="false" />
+    <file src="wheels/texture.txd" modelid="1078" download="false" />
+    <file src="wheels/wheel_lr3.dff" modelid="1078" download="false" />
+    <file src="wheels/texture.txd" modelid="1076" download="false" />
+    <file src="wheels/wheel_lr4.dff" modelid="1076" download="false" />
+    <file src="wheels/texture.txd" modelid="1084" download="false" />
+    <file src="wheels/wheel_lr5.dff" modelid="1084" download="false" />
+    <file src="wheels/texture.txd" modelid="1025" download="false" />
+    <file src="wheels/wheel_or1.dff" modelid="1025" download="false" />
+    <file src="wheels/texture.txd" modelid="1079" download="false" />
+    <file src="wheels/wheel_sr1.dff" modelid="1079" download="false" />
+    <file src="wheels/texture.txd" modelid="1075" download="false" />
+    <file src="wheels/wheel_sr2.dff" modelid="1075" download="false" />
+    <file src="wheels/texture.txd" modelid="1074" download="false" />
+    <file src="wheels/wheel_sr3.dff" modelid="1074" download="false" />
+    <file src="wheels/texture.txd" modelid="1081" download="false" />
+    <file src="wheels/wheel_sr4.dff" modelid="1081" download="false" />
+    <file src="wheels/texture.txd" modelid="1080" download="false" />
+    <file src="wheels/wheel_sr5.dff" modelid="1080" download="false" />
+    <file src="wheels/texture.txd" modelid="1073" download="false" />
+    <file src="wheels/wheel_sr6.dff" modelid="1073" download="false" />
+    <!-- END -->
+
+    <download_priority_group>-123</download_priority_group>
+</meta>

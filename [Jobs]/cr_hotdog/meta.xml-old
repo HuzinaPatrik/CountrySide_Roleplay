@@ -1,0 +1,39 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="list/server.lua" type="server" cache="true"></script>
+    <script src="list/client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="assets/images/icon.png"></file>
+    <file src="assets/images/hotdogBG.png"></file>
+    <file src="assets/images/croissant/1/icon.png"></file>
+    <file src="assets/images/croissant/1/overlay/1.png"></file>
+    <file src="assets/images/croissant/1/overlay/2.png"></file>
+    <file src="assets/images/croissant/2/icon.png"></file>
+    <file src="assets/images/croissant/2/overlay/1.png"></file>
+    <file src="assets/images/croissant/2/overlay/2.png"></file>
+    <file src="assets/images/croissant/3/icon.png"></file>
+    <file src="assets/images/croissant/3/overlay/1.png"></file>
+    <file src="assets/images/croissant/3/overlay/2.png"></file>
+    <file src="assets/images/sausage/1/icon.png"></file>
+    <file src="assets/images/sausage/1/overlay.png"></file>
+    <file src="assets/images/sausage/2/icon.png"></file>
+    <file src="assets/images/sausage/2/overlay.png"></file>
+    <file src="assets/images/sausage/3/icon.png"></file>
+    <file src="assets/images/sausage/3/overlay.png"></file>
+    <file src="assets/images/sauce/1/icon.png"></file>
+    <file src="assets/images/sauce/1/overlay.png"></file>
+    <file src="assets/images/sauce/2/icon.png"></file>
+    <file src="assets/images/sauce/2/overlay.png"></file>
+    <file src="assets/images/sauce/3/icon.png"></file>
+    <file src="assets/images/sauce/3/overlay.png"></file>
+    <file src="assets/images/drink/1/icon.png"></file>
+    <file src="assets/images/drink/1/overlay.png"></file>
+    <file src="assets/images/drink/2/icon.png"></file>
+    <file src="assets/images/drink/2/overlay.png"></file>
+    <file src="assets/images/drink/3/icon.png"></file>
+    <file src="assets/images/drink/3/overlay.png"></file>
+    <download_priority_group>-78</download_priority_group>
+</meta>

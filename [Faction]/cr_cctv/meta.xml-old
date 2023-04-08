@@ -1,0 +1,24 @@
+<meta>
+    <oop>true</oop>
+    <script src="async/global.lua" type="shared" cache="true"></script>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="bar/client.lua" type="client" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="camera/client.lua" type="client" cache="true"></script>
+    <script src="camera/server.lua" type="server" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="files/images/logo.png"></file>
+    <file src="files/images/passicon.png"></file>
+    <file src="files/images/code.png"></file>
+    <file src="files/images/circle.png"></file>
+    <file src="files/images/controls.png"></file>
+    <file src="files/images/controls_active.png"></file>
+    <file src="files/images/switch.png"></file>
+    <file src="files/images/navigation.png"></file>
+    <file src="files/images/zoom.png"></file>
+    <file src="files/images/close.png"></file>
+    <file src="files/images/cameraicon.png"></file>
+    <export function="manageCameraAssignPanel" type="client"></export>
+    <download_priority_group>-51</download_priority_group>
+</meta>

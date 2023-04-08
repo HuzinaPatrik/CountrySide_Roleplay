@@ -1,0 +1,48 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="async/global.lua" type="shared" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="batteringram/client.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <script src="tracking/client.lua" type="client" cache="true"></script>
+    <script src="tracking/server.lua" type="server" cache="true"></script>
+    <script src="ticket/bar/client.lua" type="client" cache="true"></script>
+    <script src="ticket/client.lua" type="client" cache="true"></script>
+    <script src="ticket/server.lua" type="server" cache="true"></script>
+    <script src="customname/client.lua" type="client" cache="true"></script>
+    <script src="customname/server.lua" type="server" cache="true"></script>
+    <script src="arrest/client.lua" type="client" cache="true"></script>
+    <script src="arrest/server.lua" type="server" cache="true"></script>
+    <script src="backup/client.lua" type="client" cache="true"></script>
+    <script src="backup/server.lua" type="server" cache="true"></script>
+    <script src="impound/client.lua" type="client" cache="true"></script>
+    <script src="impound/server.lua" type="server" cache="true"></script>
+    <script src="interview/client.lua" type="client" cache="true"></script>
+    <script src="interview/server.lua" type="server" cache="true"></script>
+    <script src="factiondata/client.lua" type="client" cache="true"></script>
+    <script src="factiondata/server.lua" type="server" cache="true"></script>
+    <script src="cuff/client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="ticket/files/images/notepad.png"></file>
+    <file src="ticket/files/images/paper.png"></file>
+    <file src="ticket/files/images/small_logo.png"></file>
+    <file src="ticket/files/images/big_logo.png"></file>
+    <file src="ticket/files/sounds/sign.mp3"></file>
+    <file src="cuff/files/sounds/handcuff.ogg"></file>
+    <file src="cuff/files/cuff.txd"></file>
+    <file src="cuff/files/cuff.dff"></file>
+    <file src="cuff/files/cuff.ifp"></file>
+    <export function="hasPlayerPermission" type="shared"></export>
+    <export function="getFactionPrefix" type="shared"></export>
+    <export function="getFactionPrefixes" type="shared"></export>
+    <export function="getFactionIdByPrefix" type="shared"></export>
+    <export function="getEmergencyFactions" type="shared"></export>
+    <export function="getTicketPedData" type="shared"></export>
+    <export function="manageRamming" type="client"></export>
+    <export function="isTicketActive" type="client"></export>
+    <export function="showTicket" type="client"></export>
+    <export function="showTicketPanel" type="client"></export>
+    <export function="changeVehicleLock" type="client"></export>
+    <download_priority_group>-66</download_priority_group>
+</meta>

@@ -1,0 +1,27 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="client.countryscript" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="files/images/default/1.png"></file>
+    <file src="files/images/default/2.png"></file>
+    <file src="files/images/default/3.png"></file>
+    <file src="files/images/default/4.png"></file>
+    <file src="files/images/default/5.png"></file>
+    <file src="files/images/default/6.png"></file>
+    <file src="files/images/default/7.png"></file>
+    <file src="files/images/default/8.png"></file>
+    <file src="files/images/default/circle.png"></file>
+    <file src="files/images/icons/1.png"></file>
+    <file src="files/images/icons/2.png"></file>
+    <file src="files/images/icons/3.png"></file>
+    <file src="files/images/icons/4.png"></file>
+    <file src="files/images/icons/5.png"></file>
+    <file src="files/images/icons/6.png"></file>
+    <export function="hasQuickAnim" type="client"></export>
+    <export function="addQuickAnim" type="client"></export>
+    <export function="removeQuickAnim" type="client"></export>
+    <download_priority_group>-106</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

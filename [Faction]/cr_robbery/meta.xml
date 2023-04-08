@@ -1,0 +1,32 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.countryscript" type="client" cache="true"></script>
+    <script src="atm/global.countryscript" type="shared" cache="true"></script>
+    <script src="atm/client.countryscript" type="client" cache="true"></script>
+    <script src="atm/cashbox/client.countryscript" type="client" cache="true"></script>
+    <script src="atm/atmpanel/client.countryscript" type="client" cache="true"></script>
+    <script src="atm/atmpanel/server.countryscript" type="server" cache="true"></script>
+    <script src="atm/server.countryscript" type="server" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <file src="atm/files/images/warning.png"></file>
+    <file src="atm/files/images/atm.png"></file>
+    <file src="atm/files/images/cashbox.png"></file>
+    <file src="atm/files/images/locked_cashbox.png"></file>
+    <file src="atm/files/images/lock.png"></file>
+    <file src="atm/files/images/lockpick.png"></file>
+    <file src="atm/files/images/screwdriver.png"></file>
+    <file src="atm/files/sounds/grinder.mp3"></file>
+    <file src="atm/files/sounds/lock.mp3"></file>
+    <file src="atm/files/sounds/hit.mp3"></file>
+    <export function="getAvailableOpeningPositions" type="shared"></export>
+    <export function="createGrinder" type="client"></export>
+    <export function="hasPermissionToRob" type="client"></export>
+    <export function="manageLockpickMinigame" type="client"></export>
+    <export function="isLockpickingMinigameActive" type="client"></export>
+    <export function="getActiveLawMembers" type="client"></export>
+    <export function="isATMInUse" type="server"></export>
+    <export function="isGrinded" type="server"></export>
+    <download_priority_group>-26</download_priority_group>
+    <file src="readme.txt" readme="true"></file>
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <script src="global.lua" type="shared" cache="true"></script>
+    <script src="ah.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.9" server="1.5.9"></min_mta_version>
+    <export function="hasPermission" type="shared"></export>
+    <export function="getRequiredLevel" type="shared"></export>
+    <export function="isPermissionCommand" type="shared"></export>
+    <export function="addPermission" type="shared"></export>
+    <export function="removePermission" type="shared"></export>
+    <download_priority_group>-22</download_priority_group>
+</meta>

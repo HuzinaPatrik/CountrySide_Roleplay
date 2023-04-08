@@ -1,0 +1,19 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="client" cache="true"></script>
+    <script src="afkC.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <file src="files/afk.png"></file>
+    <file src="files/write.png"></file>
+    <file src="files/console.png"></file>
+    <file src="files/timedout.png"></file>
+    <file src="files/skull.png"></file>
+    <file src="files/respawn.png"></file>
+    <file src="files/cuffed.png"></file>
+    <file src="files/taser.png"></file>
+    <file src="files/anim.png"></file>
+    <export function="setFont" type="client"></export>
+    <export function="setMyName" type="client"></export>
+    <export function="setDescriptions" type="client"></export>
+    <download_priority_group>-94</download_priority_group>
+</meta>

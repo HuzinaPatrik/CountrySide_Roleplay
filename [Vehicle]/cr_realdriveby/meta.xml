@@ -1,0 +1,18 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.casescript" type="client" cache="true"></script>
+    <script src="global.casescript" type="client" cache="true"></script>
+    <script src="server.casescript" type="server" cache="true"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <export function="setDriverDrivebyAbility" type="client"></export>
+    <export function="setPassengerDrivebyAbility" type="client"></export>
+    <export function="getDriverDrivebyAbility" type="client"></export>
+    <export function="getPassengerDrivebyAbility" type="client"></export>
+    <export function="setWeaponShotDelay" type="client"></export>
+    <export function="getWeaponShotDelay" type="client"></export>
+    <export function="setDrivebySteeringAbility" type="client"></export>
+    <export function="getDrivebySteeringAbility" type="client"></export>
+    <export function="setDrivebyAutoEquip" type="client"></export>
+    <export function="getDrivebyAutoEquip" type="client"></export>
+    <download_priority_group>-110</download_priority_group>
+</meta>

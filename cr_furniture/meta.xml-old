@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="async/global.lua" type="shared" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <script src="client.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.8" server="1.5.8"></min_mta_version>
+    <download_priority_group>-70</download_priority_group>
+</meta>
